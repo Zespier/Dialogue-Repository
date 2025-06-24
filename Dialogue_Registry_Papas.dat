@@ -1,0 +1,1070 @@
+{
+    "allDialogues": [
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1000
+                        }
+                    ],
+                    "allSentences": [
+                        "No veas si eres pesado tío, ¿qué quieres?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 64.94182586669922,
+                    "positionSavedY": 31.83167266845703
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        },
+                        {
+                            "rid": 1002
+                        },
+                        {
+                            "rid": 1003
+                        },
+                        {
+                            "rid": 1004
+                        }
+                    ],
+                    "allSentences": [
+                        "Sin ánimo de lucro. ¿Tú que prefieres, una tortilla papa, o una lancha a pedales?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 541.6993408203125,
+                    "positionSavedY": 29.618648529052736
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1005
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Culo de abuela",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": -88.1683349609375
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1006
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Tortilla papa",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1027.4693603515625,
+                    "positionSavedY": 172.40670776367188
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1006
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Lancha a pedales",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": 31.83167266845703
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1007
+                        }
+                    ],
+                    "allSentences": [
+                        "Na era broma, es que me aburro pecha"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1464.9417724609375,
+                    "positionSavedY": 131.8316650390625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1008
+                        }
+                    ],
+                    "allSentences": [
+                        "Es que los culos de abuela me encantan saben a quesito"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 1464.9417724609375,
+                    "positionSavedY": -88.1683349609375
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Pero que"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1984.9417724609375,
+                    "positionSavedY": -88.1683349609375
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 1944.9417724609375,
+                    "positionSavedY": 191.83164978027345
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1009
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Vamos a darnos duro panduro",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": -188.16835021972657
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1010
+                        }
+                    ],
+                    "allSentences": [
+                        "Pero bueno Skuld que atrevida"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 11,
+                    "positionSavedX": 1444.9417724609375,
+                    "positionSavedY": -268.1683654785156
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1011
+                        },
+                        {
+                            "rid": 1012
+                        }
+                    ],
+                    "allSentences": [
+                        "¡Ay, ay, ay! Maldito cobarde, le tienes miedo al éxito."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 12,
+                    "positionSavedX": 1984.9417724609375,
+                    "positionSavedY": -268.1683654785156
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1013
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Insistir",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 13,
+                    "positionSavedX": 2384.94287109375,
+                    "positionSavedY": -208.16835021972657
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1014
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Dejarle en paz",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 14,
+                    "positionSavedX": 2384.94287109375,
+                    "positionSavedY": -328.1683654785156
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Gay"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 15,
+                    "positionSavedX": 2784.94287109375,
+                    "positionSavedY": -428.1683654785156
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1015
+                        }
+                    ],
+                    "allSentences": [
+                        "Venga venga venga venga verga"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 16,
+                    "positionSavedX": 2804.94287109375,
+                    "positionSavedY": -148.16835021972657
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Voy a quitarme los pantalones y ponerme el pijama un segundo."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 17,
+                    "positionSavedX": 3320.0,
+                    "positionSavedY": -140.0
+                }
+            ],
+            "chainName": "Tu madre",
+            "positionSavedX": 1692.470947265625,
+            "positionSavedY": -118.1683349609375
+        }
+    ],
+    "references": {
+        "version": 2,
+        "RefIds": [
+            {
+                "rid": 1000,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        },
+                        {
+                            "rid": 1002
+                        },
+                        {
+                            "rid": 1003
+                        },
+                        {
+                            "rid": 1004
+                        }
+                    ],
+                    "allSentences": [
+                        "Sin ánimo de lucro. ¿Tú que prefieres, una tortilla papa, o una lancha a pedales?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 541.6993408203125,
+                    "positionSavedY": 29.618648529052736
+                }
+            },
+            {
+                "rid": 1001,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1006
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Lancha a pedales",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": 31.83167266845703
+                }
+            },
+            {
+                "rid": 1002,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1006
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Tortilla papa",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1027.4693603515625,
+                    "positionSavedY": 172.40670776367188
+                }
+            },
+            {
+                "rid": 1003,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1005
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Culo de abuela",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": -88.1683349609375
+                }
+            },
+            {
+                "rid": 1004,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1009
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Vamos a darnos duro panduro",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1024.941650390625,
+                    "positionSavedY": -188.16835021972657
+                }
+            },
+            {
+                "rid": 1005,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1008
+                        }
+                    ],
+                    "allSentences": [
+                        "Es que los culos de abuela me encantan saben a quesito"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 1464.9417724609375,
+                    "positionSavedY": -88.1683349609375
+                }
+            },
+            {
+                "rid": 1006,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1007
+                        }
+                    ],
+                    "allSentences": [
+                        "Na era broma, es que me aburro pecha"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1464.9417724609375,
+                    "positionSavedY": 131.8316650390625
+                }
+            },
+            {
+                "rid": 1007,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 1944.9417724609375,
+                    "positionSavedY": 191.83164978027345
+                }
+            },
+            {
+                "rid": 1008,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Pero que"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1984.9417724609375,
+                    "positionSavedY": -88.1683349609375
+                }
+            },
+            {
+                "rid": 1009,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1010
+                        }
+                    ],
+                    "allSentences": [
+                        "Pero bueno Skuld que atrevida"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 11,
+                    "positionSavedX": 1444.9417724609375,
+                    "positionSavedY": -268.1683654785156
+                }
+            },
+            {
+                "rid": 1010,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1011
+                        },
+                        {
+                            "rid": 1012
+                        }
+                    ],
+                    "allSentences": [
+                        "¡Ay, ay, ay! Maldito cobarde, le tienes miedo al éxito."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 12,
+                    "positionSavedX": 1984.9417724609375,
+                    "positionSavedY": -268.1683654785156
+                }
+            },
+            {
+                "rid": 1011,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1013
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Insistir",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 13,
+                    "positionSavedX": 2384.94287109375,
+                    "positionSavedY": -208.16835021972657
+                }
+            },
+            {
+                "rid": 1012,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1014
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "Dejarle en paz",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 14,
+                    "positionSavedX": 2384.94287109375,
+                    "positionSavedY": -328.1683654785156
+                }
+            },
+            {
+                "rid": 1013,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1015
+                        }
+                    ],
+                    "allSentences": [
+                        "Venga venga venga venga verga"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 16,
+                    "positionSavedX": 2804.94287109375,
+                    "positionSavedY": -148.16835021972657
+                }
+            },
+            {
+                "rid": 1014,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Gay"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 15,
+                    "positionSavedX": 2784.94287109375,
+                    "positionSavedY": -428.1683654785156
+                }
+            },
+            {
+                "rid": 1015,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Voy a quitarme los pantalones y ponerme el pijama un segundo."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 17,
+                    "positionSavedX": 3320.0,
+                    "positionSavedY": -140.0
+                }
+            }
+        ]
+    }
+}

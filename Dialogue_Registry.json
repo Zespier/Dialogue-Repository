@@ -1,0 +1,282 @@
+{
+    "allDialogues": [
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1000
+                        }
+                    ],
+                    "allSentences": [
+                        "Oh, oh, oh! The brave Skuld! Come here and dance with me, for tonight the barrels are our thrones!​​dasda"
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 0.0,
+                    "positionSavedY": 0.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        },
+                        {
+                            "rid": 1002
+                        },
+                        {
+                            "rid": 1003
+                        }
+                    ],
+                    "allSentences": [
+                        "Frog butt"
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 520.0,
+                    "positionSavedY": 20.0
+                },
+                {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": 20.0
+                },
+                {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": -60.0
+                },
+                {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": 100.0
+                }
+            ],
+            "chainName": "Tu madre",
+            "positionSavedX": 405.0,
+            "positionSavedY": 19.99999237060547
+        }
+    ],
+    "references": {
+        "version": 2,
+        "RefIds": [
+            {
+                "rid": 1000,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        },
+                        {
+                            "rid": 1002
+                        },
+                        {
+                            "rid": 1003
+                        }
+                    ],
+                    "allSentences": [
+                        "Frog butt"
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 520.0,
+                    "positionSavedY": 20.0
+                }
+            },
+            {
+                "rid": 1001,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": 100.0
+                }
+            },
+            {
+                "rid": 1002,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": 20.0
+                }
+            },
+            {
+                "rid": 1003,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 880.0,
+                    "positionSavedY": -60.0
+                }
+            }
+        ]
+    }
+}
