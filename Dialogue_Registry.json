@@ -7,13 +7,16 @@
                     "connections": [
                         {
                             "rid": 1000
+                        },
+                        {
+                            "rid": 1001
                         }
                     ],
                     "allSentences": [
-                        "Oh, oh, oh! The brave Skuld! Come here and dance with me, for tonight the barrels are our thrones!​​dasda"
+                        "Pishilla dime ya qué quieres hacer."
                     ],
                     "allCharacter_Actitudes": [
-                        ""
+                        "Heimdall_Normal"
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -21,36 +24,60 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
                     "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": 0.0,
-                    "positionSavedY": 0.0
+                    "positionSavedX": 60.0,
+                    "positionSavedY": 20.0
                 },
                 {
-                    "type": 1,
+                    "type": 2,
                     "connections": [
                         {
-                            "rid": 1001
-                        },
-                        {
                             "rid": 1002
-                        },
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Mision principal",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 500.0,
+                    "positionSavedY": -20.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
                         {
                             "rid": 1003
                         }
                     ],
-                    "allSentences": [
-                        "Frog butt"
-                    ],
-                    "allCharacter_Actitudes": [
-                        ""
-                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
@@ -58,62 +85,52 @@
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Pedir ayuda",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 500.0,
+                    "positionSavedY": 60.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Coloca torretas, no hay mucho más que decirte bro."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
                     "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 520.0,
-                    "positionSavedY": 20.0
-                },
-                {
-                    "type": 2,
-                    "connections": [],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": 20.0
-                },
-                {
-                    "type": 2,
-                    "connections": [],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": -60.0
+                    "positionSavedX": 900.0,
+                    "positionSavedY": 120.0
                 },
                 {
-                    "type": 2,
+                    "type": 4,
                     "connections": [],
                     "allSentences": [],
                     "allCharacter_Actitudes": [],
@@ -124,20 +141,75 @@
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "connectedFrameworkName": "Defiende los reinos",
+                    "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": 100.0
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -80.0
                 }
             ],
-            "chainName": "Tu madre",
-            "positionSavedX": 405.0,
-            "positionSavedY": 19.99999237060547
+            "chainName": "Heimdall",
+            "positionSavedX": 480.0,
+            "positionSavedY": 20.0,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Ay Skuld aiuda aiuda"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -940.0,
+                    "positionSavedY": 40.0
+                }
+            ],
+            "chainName": "Defiende los reinos",
+            "positionSavedX": -940.0,
+            "positionSavedY": 40.0,
+            "questCategory": 1,
+            "questName": "Defiende los reinos",
+            "questShortDescription": "Defiende los reinos",
+            "questDescription": "Defiende los reinos",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": true
         }
     ],
     "references": {
@@ -151,24 +223,14 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 1,
+                    "type": 2,
                     "connections": [
-                        {
-                            "rid": 1001
-                        },
-                        {
-                            "rid": 1002
-                        },
                         {
                             "rid": 1003
                         }
                     ],
-                    "allSentences": [
-                        "Frog butt"
-                    ],
-                    "allCharacter_Actitudes": [
-                        ""
-                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
@@ -176,15 +238,19 @@
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
-                    "answerText": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Pedir ayuda",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 520.0,
-                    "positionSavedY": 20.0
+                    "id": 3,
+                    "positionSavedX": 500.0,
+                    "positionSavedY": 60.0
                 }
             },
             {
@@ -196,7 +262,11 @@
                 },
                 "data": {
                     "type": 2,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1002
+                        }
+                    ],
                     "allSentences": [],
                     "allCharacter_Actitudes": [],
                     "posibleSentences": [],
@@ -206,15 +276,19 @@
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "connectedFrameworkName": "",
+                    "answerText": "Mision principal",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": 100.0
+                    "id": 2,
+                    "positionSavedX": 500.0,
+                    "positionSavedY": -20.0
                 }
             },
             {
@@ -225,7 +299,7 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
+                    "type": 4,
                     "connections": [],
                     "allSentences": [],
                     "allCharacter_Actitudes": [],
@@ -236,15 +310,19 @@
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "connectedFrameworkName": "Defiende los reinos",
+                    "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": 20.0
+                    "id": 5,
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -80.0
                 }
             },
             {
@@ -255,26 +333,34 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
+                    "type": 1,
                     "connections": [],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
+                    "allSentences": [
+                        "Coloca torretas, no hay mucho más que decirte bro."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "answerText": "asld janslk jdnaks jdnal sjadanlk sjndalkjs dnalksjd ",
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 880.0,
-                    "positionSavedY": -60.0
+                    "positionSavedX": 900.0,
+                    "positionSavedY": 120.0
                 }
             }
         ]
