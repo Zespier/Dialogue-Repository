@@ -83,7 +83,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Por qué solo estos portales están abiertos?",
+                    "answerText": "¿Por qué sólo estos portales están abiertos?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -100,7 +100,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino pude recorrese a la vez."
+                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -177,7 +177,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafio distinto."
+                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -301,7 +301,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Solo ecos de batalla y enemigos que desean tu caída."
+                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -331,7 +331,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Estonces adelante. Elige acercate a un portal y camina hacia tu destino."
+                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -442,6 +442,668 @@
             "questRewardMoney": 0,
             "questRewardRadiantTides": 0,
             "isQuestFramework": true
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1011
+                        }
+                    ],
+                    "allSentences": [
+                        "Loki, ¿qué haces aquí?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -210.36923217773438,
+                    "positionSavedY": -1250.369384765625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1012
+                        },
+                        {
+                            "rid": 1013
+                        },
+                        {
+                            "rid": 1014
+                        },
+                        {
+                            "rid": 1015
+                        }
+                    ],
+                    "allSentences": [
+                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tna prometedor."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 309.6308288574219,
+                    "positionSavedY": -1250.369384765625
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1016
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué ocurre en Asagard?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1050.3692626953125
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1089.630126953125,
+                    "positionSavedY": -970.3692016601563
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1017
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué tramas?, Loki",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1150.369384765625
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1109.630126953125,
+                    "positionSavedY": -1170.369384765625
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1018
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Puedo condiar en ti?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 720.0,
+                    "positionSavedY": -1260.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1109.630126953125,
+                    "positionSavedY": -1370.369384765625
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1019
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Déjame, Loki. Voy a Asgard.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1370.369384765625
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Entonces cruza el portal. Asgard te espera... si te atreves."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1129.630126953125,
+                    "positionSavedY": -1610.369384765625
+                }
+            ],
+            "chainName": "Loki",
+            "positionSavedX": 459.6304626464844,
+            "positionSavedY": -1290.3692626953125,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1020
+                        }
+                    ],
+                    "allSentences": [
+                        "Durkal, ¿por qué no escucho vibrar tus cuerdas?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -230.24945068359376,
+                    "positionSavedY": -2331.999267578125
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1021
+                        },
+                        {
+                            "rid": 1022
+                        },
+                        {
+                            "rid": 1023
+                        },
+                        {
+                            "rid": 1024
+                        }
+                    ],
+                    "allSentences": [
+                        "Los bsoques de Alfheim han dejado de cantar."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 296.8841247558594,
+                    "positionSavedY": -2335.023193359375
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1025
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Esto es cosa de Hela?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 696.8840942382813,
+                    "positionSavedY": -2215.023193359375
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2101.555419921875
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1026
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Dónde está Idunn?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2321.555419921875
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2301.555419921875
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1027
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Y los elfos de luz?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2441.555419921875
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2501.555419921875
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1028
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -2620.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -2740.0
+                }
+            ],
+            "chainName": "Durkal",
+            "positionSavedX": 454.87530517578127,
+            "positionSavedY": -2420.77783203125,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
         }
     ],
     "references": {
@@ -542,7 +1204,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino pude recorrese a la vez."
+                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -593,7 +1255,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafio distinto."
+                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -644,7 +1306,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Por qué solo estos portales están abiertos?",
+                    "answerText": "¿Por qué sólo estos portales están abiertos?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -783,7 +1445,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Solo ecos de batalla y enemigos que desean tu caída."
+                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -821,7 +1483,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Estonces adelante. Elige acercate a un portal y camina hacia tu destino."
+                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -884,6 +1546,716 @@
                     "id": 12,
                     "positionSavedX": 2160.0,
                     "positionSavedY": -120.0
+                }
+            },
+            {
+                "rid": 1011,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1012
+                        },
+                        {
+                            "rid": 1013
+                        },
+                        {
+                            "rid": 1014
+                        },
+                        {
+                            "rid": 1015
+                        }
+                    ],
+                    "allSentences": [
+                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tna prometedor."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 309.6308288574219,
+                    "positionSavedY": -1250.369384765625
+                }
+            },
+            {
+                "rid": 1012,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1016
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué ocurre en Asagard?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1050.3692626953125
+                }
+            },
+            {
+                "rid": 1013,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1017
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué tramas?, Loki",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1150.369384765625
+                }
+            },
+            {
+                "rid": 1014,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1018
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Puedo condiar en ti?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 720.0,
+                    "positionSavedY": -1260.0
+                }
+            },
+            {
+                "rid": 1015,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1019
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Déjame, Loki. Voy a Asgard.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1370.369384765625
+                }
+            },
+            {
+                "rid": 1016,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1089.630126953125,
+                    "positionSavedY": -970.3692016601563
+                }
+            },
+            {
+                "rid": 1017,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1109.630126953125,
+                    "positionSavedY": -1170.369384765625
+                }
+            },
+            {
+                "rid": 1018,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1109.630126953125,
+                    "positionSavedY": -1370.369384765625
+                }
+            },
+            {
+                "rid": 1019,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Entonces cruza el portal. Asgard te espera... si te atreves."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1129.630126953125,
+                    "positionSavedY": -1610.369384765625
+                }
+            },
+            {
+                "rid": 1020,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1021
+                        },
+                        {
+                            "rid": 1022
+                        },
+                        {
+                            "rid": 1023
+                        },
+                        {
+                            "rid": 1024
+                        }
+                    ],
+                    "allSentences": [
+                        "Los bsoques de Alfheim han dejado de cantar."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 296.8841247558594,
+                    "positionSavedY": -2335.023193359375
+                }
+            },
+            {
+                "rid": 1021,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1025
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Esto es cosa de Hela?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 696.8840942382813,
+                    "positionSavedY": -2215.023193359375
+                }
+            },
+            {
+                "rid": 1022,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1026
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Dónde está Idunn?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2321.555419921875
+                }
+            },
+            {
+                "rid": 1023,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1027
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Y los elfos de luz?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2441.555419921875
+                }
+            },
+            {
+                "rid": 1024,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1028
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -2620.0
+                }
+            },
+            {
+                "rid": 1025,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2101.555419921875
+                }
+            },
+            {
+                "rid": 1026,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2301.555419921875
+                }
+            },
+            {
+                "rid": 1027,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2501.555419921875
+                }
+            },
+            {
+                "rid": 1028,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -2740.0
                 }
             }
         ]
