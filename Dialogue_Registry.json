@@ -7,16 +7,13 @@
                     "connections": [
                         {
                             "rid": 1000
-                        },
-                        {
-                            "rid": 1001
                         }
                     ],
                     "allSentences": [
-                        "Pishilla dime ya qué quieres hacer."
+                        "Hola Heimdall. ¿Cómo llevas tu guardia?"
                     ],
                     "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
+                        "Skuld_Normal"
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -24,7 +21,7 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
+                    "characterName": "Skuld",
                     "connectedFrameworkName": "",
                     "answerText": "",
                     "isMainQuest": false,
@@ -36,8 +33,38 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": 60.0,
-                    "positionSavedY": 20.0
+                    "positionSavedX": -200.0,
+                    "positionSavedY": -20.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Debe ser agotador estar siempre vigilando.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -20.0
                 },
                 {
                     "type": 2,
@@ -56,37 +83,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Mision principal",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 500.0,
-                    "positionSavedY": -20.0
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1003
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "Pedir ayuda",
+                    "answerText": "¿Por qué solo estos portales están abiertos?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -96,14 +93,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 500.0,
+                    "positionSavedX": 1120.0,
                     "positionSavedY": 60.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Coloca torretas, no hay mucho más que decirte bro."
+                        "El destino así lo ha dispuesto. No todo camino pude recorrese a la vez."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -126,22 +123,30 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 900.0,
-                    "positionSavedY": 120.0
+                    "positionSavedX": 1660.0,
+                    "positionSavedY": 60.0
                 },
                 {
-                    "type": 4,
-                    "connections": [],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1003
+                        }
+                    ],
+                    "allSentences": [
+                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "Defiende los reinos",
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
                     "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
@@ -152,13 +157,240 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 900.0,
-                    "positionSavedY": -80.0
+                    "positionSavedX": 240.0,
+                    "positionSavedY": -20.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1004
+                        },
+                        {
+                            "rid": 1005
+                        },
+                        {
+                            "rid": 1006
+                        },
+                        {
+                            "rid": 1007
+                        }
+                    ],
+                    "allSentences": [
+                        "Los portales están abiertos. Cada uno te llevará a un desafio distinto."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 680.0,
+                    "positionSavedY": -20.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1008
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué encontraré al otro lado?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": -100.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1009
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Basta de preguntas. Estoy lista.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1100.0,
+                    "positionSavedY": -180.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1010
+                        }
+                    ],
+                    "allSentences": [
+                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -120.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Solo ecos de batalla y enemigos que desean tu caída."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -300.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Estonces adelante. Elige acercate a un portal y camina hacia tu destino."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 11,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -480.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 12,
+                    "positionSavedX": 2160.0,
+                    "positionSavedY": -120.0
                 }
             ],
             "chainName": "Heimdall",
-            "positionSavedX": 480.0,
-            "positionSavedY": 20.0,
+            "positionSavedX": 980.0,
+            "positionSavedY": -210.0,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -223,94 +455,26 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
+                    "type": 1,
                     "connections": [
                         {
                             "rid": 1003
                         }
                     ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "Pedir ayuda",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 500.0,
-                    "positionSavedY": 60.0
-                }
-            },
-            {
-                "rid": 1001,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1002
-                        }
+                    "allSentences": [
+                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
                     ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Heimdall",
                     "connectedFrameworkName": "",
-                    "answerText": "Mision principal",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 500.0,
-                    "positionSavedY": -20.0
-                }
-            },
-            {
-                "rid": 1002,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 4,
-                    "connections": [],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "Defiende los reinos",
                     "answerText": "",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
@@ -321,12 +485,54 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 900.0,
-                    "positionSavedY": -80.0
+                    "positionSavedX": 240.0,
+                    "positionSavedY": -20.0
                 }
             },
             {
-                "rid": 1003,
+                "rid": 1001,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1010
+                        }
+                    ],
+                    "allSentences": [
+                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -120.0
+                }
+            },
+            {
+                "rid": 1002,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -336,7 +542,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Coloca torretas, no hay mucho más que decirte bro."
+                        "El destino así lo ha dispuesto. No todo camino pude recorrese a la vez."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -359,8 +565,325 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 900.0,
-                    "positionSavedY": 120.0
+                    "positionSavedX": 1660.0,
+                    "positionSavedY": 60.0
+                }
+            },
+            {
+                "rid": 1003,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1004
+                        },
+                        {
+                            "rid": 1005
+                        },
+                        {
+                            "rid": 1006
+                        },
+                        {
+                            "rid": 1007
+                        }
+                    ],
+                    "allSentences": [
+                        "Los portales están abiertos. Cada uno te llevará a un desafio distinto."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 680.0,
+                    "positionSavedY": -20.0
+                }
+            },
+            {
+                "rid": 1004,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1002
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Por qué solo estos portales están abiertos?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": 60.0
+                }
+            },
+            {
+                "rid": 1005,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1001
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Debe ser agotador estar siempre vigilando.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -20.0
+                }
+            },
+            {
+                "rid": 1006,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1008
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "¿Qué encontraré al otro lado?",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": -100.0
+                }
+            },
+            {
+                "rid": 1007,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1009
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "Basta de preguntas. Estoy lista.",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1100.0,
+                    "positionSavedY": -180.0
+                }
+            },
+            {
+                "rid": 1008,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Solo ecos de batalla y enemigos que desean tu caída."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -300.0
+                }
+            },
+            {
+                "rid": 1009,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Estonces adelante. Elige acercate a un portal y camina hacia tu destino."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 11,
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -480.0
+                }
+            },
+            {
+                "rid": 1010,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 12,
+                    "positionSavedX": 2160.0,
+                    "positionSavedY": -120.0
                 }
             }
         ]
