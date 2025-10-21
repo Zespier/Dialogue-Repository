@@ -496,7 +496,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tna prometedor."
+                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -539,7 +539,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué ocurre en Asagard?",
+                    "answerText": "¿Qué ocurre en Asgard?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -659,7 +659,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Puedo condiar en ti?",
+                    "answerText": "¿Puedo confiar en ti?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -784,7 +784,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Durkal, ¿por qué no escucho vibrar tus cuerdas?"
+                        "Dúrkal, ¿por qué no escucho vibrar tus cuerdas?"
                     ],
                     "allCharacter_Actitudes": [
                         "Skuld_Normal"
@@ -807,8 +807,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -230.24945068359376,
-                    "positionSavedY": -2331.999267578125
+                    "positionSavedX": -219.73599243164063,
+                    "positionSavedY": -2335.501220703125
                 },
                 {
                     "type": 1,
@@ -827,7 +827,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los bsoques de Alfheim han dejado de cantar."
+                        "Los bosques de Alfheim han dejado de cantar."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -850,8 +850,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 296.8841247558594,
-                    "positionSavedY": -2335.023193359375
+                    "positionSavedX": 307.3975830078125,
+                    "positionSavedY": -2338.525146484375
                 },
                 {
                     "type": 2,
@@ -880,8 +880,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 696.8840942382813,
-                    "positionSavedY": -2215.023193359375
+                    "positionSavedX": 707.3980712890625,
+                    "positionSavedY": -2218.525634765625
                 },
                 {
                     "type": 1,
@@ -910,8 +910,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2101.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2105.057861328125
                 },
                 {
                     "type": 2,
@@ -940,8 +940,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 696.8841552734375,
-                    "positionSavedY": -2321.555419921875
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2325.057861328125
                 },
                 {
                     "type": 1,
@@ -970,8 +970,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2301.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2305.057861328125
                 },
                 {
                     "type": 2,
@@ -1000,8 +1000,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 696.8841552734375,
-                    "positionSavedY": -2441.555419921875
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2445.057373046875
                 },
                 {
                     "type": 1,
@@ -1030,8 +1030,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2501.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2505.057373046875
                 },
                 {
                     "type": 2,
@@ -1060,8 +1060,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -2620.0
+                    "positionSavedX": 710.5139770507813,
+                    "positionSavedY": -2623.502197265625
                 },
                 {
                     "type": 1,
@@ -1090,13 +1090,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -2740.0
+                    "positionSavedX": 1150.51318359375,
+                    "positionSavedY": -2743.502197265625
                 }
             ],
             "chainName": "Durkal",
-            "positionSavedX": 454.87530517578127,
-            "positionSavedY": -2420.77783203125,
+            "positionSavedX": 465.3885803222656,
+            "positionSavedY": -2424.280029296875,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1138,8 +1138,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -240.0,
-                    "positionSavedY": -3380.0
+                    "positionSavedX": -247.9964599609375,
+                    "positionSavedY": -3507.93798828125
                 },
                 {
                     "type": 2,
@@ -1168,8 +1168,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 660.0,
-                    "positionSavedY": -3180.0
+                    "positionSavedX": 652.0037841796875,
+                    "positionSavedY": -3307.93798828125
                 },
                 {
                     "type": 1,
@@ -1211,8 +1211,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 287.0394287109375,
-                    "positionSavedY": -3374.9384765625
+                    "positionSavedX": 279.0428771972656,
+                    "positionSavedY": -3502.87646484375
                 },
                 {
                     "type": 1,
@@ -1241,8 +1241,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1080.0,
-                    "positionSavedY": -3180.0
+                    "positionSavedX": 1072.00390625,
+                    "positionSavedY": -3307.93798828125
                 },
                 {
                     "type": 2,
@@ -1271,8 +1271,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -3340.0
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3467.93798828125
                 },
                 {
                     "type": 1,
@@ -1301,8 +1301,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": -3360.0
+                    "positionSavedX": 1112.0037841796875,
+                    "positionSavedY": -3487.93798828125
                 },
                 {
                     "type": 2,
@@ -1331,8 +1331,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -3520.0
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3647.93798828125
                 },
                 {
                     "type": 1,
@@ -1361,8 +1361,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -3580.0
+                    "positionSavedX": 1132.00390625,
+                    "positionSavedY": -3707.93798828125
                 },
                 {
                     "type": 2,
@@ -1391,8 +1391,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 680.0,
-                    "positionSavedY": -3760.0
+                    "positionSavedX": 672.0037841796875,
+                    "positionSavedY": -3887.93798828125
                 },
                 {
                     "type": 1,
@@ -1421,13 +1421,277 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1160.0,
-                    "positionSavedY": -3800.0
+                    "positionSavedX": 1152.00390625,
+                    "positionSavedY": -3927.93798828125
                 }
             ],
             "chainName": "Manny",
-            "positionSavedX": 460.0,
-            "positionSavedY": -3490.0,
+            "positionSavedX": 452.00372314453127,
+            "positionSavedY": -3617.93798828125,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Skuld, bienvenida a La Forja. Nada como el sonido del metal en manos enanas, ¿eh, hasta tus torretas nacieron aquí?"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Denir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Denir",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -257.6134033203125,
+                    "positionSavedY": -4434.3671875
+                }
+            ],
+            "chainName": "Denir",
+            "positionSavedX": -257.6134033203125,
+            "positionSavedY": -4434.3671875,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Denir no cambia nunca. Si no está martilleando acero, está pensando como ponerle patas a una torreta. ¡Ya verás!"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dayana_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dayana",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 444.63232421875,
+                    "positionSavedY": -4436.15673828125
+                }
+            ],
+            "chainName": "Dayana",
+            "positionSavedX": 444.63232421875,
+            "positionSavedY": -4436.15673828125,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Las armas de verdad son las que uno empuña en batalla. No esas máquinas que luchan por ti."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sigurd_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sigurd",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 1127.424072265625,
+                    "positionSavedY": -4436.05908203125
+                }
+            ],
+            "chainName": "Sigurd",
+            "positionSavedX": 1127.424072265625,
+            "positionSavedY": -4436.05908203125,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Ningún enemigo pondrá pie en el Valhalla."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Sikva_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Sikva",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -271.8638916015625,
+                    "positionSavedY": -4920.78076171875
+                }
+            ],
+            "chainName": "Sikva",
+            "positionSavedX": -271.8638916015625,
+            "positionSavedY": -4920.78076171875,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "No todos los enanos forjan acero... algunos, como yo, lo empuñamos en batalla."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Vronka_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Vronka",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 448.97467041015627,
+                    "positionSavedY": -4921.63232421875
+                }
+            ],
+            "chainName": "Vronka",
+            "positionSavedX": 448.97467041015627,
+            "positionSavedY": -4921.63232421875,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Gracias, Skuld. Sentí cómo la corrupción apagaba mi luz... pero tu manos me devolvieron la vida"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Idunn_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Idunn",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": 1174.028564453125,
+                    "positionSavedY": -4924.62060546875
+                }
+            ],
+            "chainName": "Idunn",
+            "positionSavedX": 1174.028564453125,
+            "positionSavedY": -4924.62060546875,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1903,7 +2167,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tna prometedor."
+                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -1954,7 +2218,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué ocurre en Asagard?",
+                    "answerText": "¿Qué ocurre en Asgard?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2030,7 +2294,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Puedo condiar en ti?",
+                    "answerText": "¿Puedo confiar en ti?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2258,7 +2522,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los bsoques de Alfheim han dejado de cantar."
+                        "Los bosques de Alfheim han dejado de cantar."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2281,8 +2545,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 296.8841247558594,
-                    "positionSavedY": -2335.023193359375
+                    "positionSavedX": 307.3975830078125,
+                    "positionSavedY": -2338.525146484375
                 }
             },
             {
@@ -2319,8 +2583,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 696.8840942382813,
-                    "positionSavedY": -2215.023193359375
+                    "positionSavedX": 707.3980712890625,
+                    "positionSavedY": -2218.525634765625
                 }
             },
             {
@@ -2357,8 +2621,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 696.8841552734375,
-                    "positionSavedY": -2321.555419921875
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2325.057861328125
                 }
             },
             {
@@ -2395,8 +2659,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 696.8841552734375,
-                    "positionSavedY": -2441.555419921875
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2445.057373046875
                 }
             },
             {
@@ -2433,8 +2697,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -2620.0
+                    "positionSavedX": 710.5139770507813,
+                    "positionSavedY": -2623.502197265625
                 }
             },
             {
@@ -2471,8 +2735,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2101.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2105.057861328125
                 }
             },
             {
@@ -2509,8 +2773,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2301.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2305.057861328125
                 }
             },
             {
@@ -2547,8 +2811,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1136.8843994140625,
-                    "positionSavedY": -2501.555419921875
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2505.057373046875
                 }
             },
             {
@@ -2585,8 +2849,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -2740.0
+                    "positionSavedX": 1150.51318359375,
+                    "positionSavedY": -2743.502197265625
                 }
             },
             {
@@ -2636,8 +2900,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 287.0394287109375,
-                    "positionSavedY": -3374.9384765625
+                    "positionSavedX": 279.0428771972656,
+                    "positionSavedY": -3502.87646484375
                 }
             },
             {
@@ -2674,8 +2938,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1080.0,
-                    "positionSavedY": -3180.0
+                    "positionSavedX": 1072.00390625,
+                    "positionSavedY": -3307.93798828125
                 }
             },
             {
@@ -2712,8 +2976,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 660.0,
-                    "positionSavedY": -3180.0
+                    "positionSavedX": 652.0037841796875,
+                    "positionSavedY": -3307.93798828125
                 }
             },
             {
@@ -2750,8 +3014,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -3340.0
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3467.93798828125
                 }
             },
             {
@@ -2788,8 +3052,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 700.0,
-                    "positionSavedY": -3520.0
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3647.93798828125
                 }
             },
             {
@@ -2826,8 +3090,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 680.0,
-                    "positionSavedY": -3760.0
+                    "positionSavedX": 672.0037841796875,
+                    "positionSavedY": -3887.93798828125
                 }
             },
             {
@@ -2864,8 +3128,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": -3360.0
+                    "positionSavedX": 1112.0037841796875,
+                    "positionSavedY": -3487.93798828125
                 }
             },
             {
@@ -2902,8 +3166,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -3580.0
+                    "positionSavedX": 1132.00390625,
+                    "positionSavedY": -3707.93798828125
                 }
             },
             {
@@ -2940,8 +3204,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1160.0,
-                    "positionSavedY": -3800.0
+                    "positionSavedX": 1152.00390625,
+                    "positionSavedY": -3927.93798828125
                 }
             }
         ]
