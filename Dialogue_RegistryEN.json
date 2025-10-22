@@ -10,7 +10,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Hola Heimdall. ¿Cómo llevas tu guardia?"
+                        "Hello, Heimdall. How is your watch going?"
                     ],
                     "allCharacter_Actitudes": [
                         "Skuld_Normal"
@@ -53,7 +53,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Debe ser agotador estar siempre vigilando.",
+                    "answerText": "It must be exhausting to be always on guard.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -83,7 +83,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Por qué sólo estos portales están abiertos?",
+                    "answerText": "Why are only these portals open?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -100,7 +100,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
+                        "Fate has decreed it so. Not every path can be travelled at once."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -134,7 +134,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
+                        "Always alert, Skuld. The Bifröst never rests, and neither do I."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -177,7 +177,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
+                        "The portals are open. Each one will take you to a different challenge."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -220,7 +220,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué encontraré al otro lado?",
+                    "answerText": "What will I dinf on the other side?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -231,7 +231,7 @@
                     "connectionsIfFalse": [],
                     "id": 7,
                     "positionSavedX": 1120.0,
-                    "positionSavedY": -100.0
+                    "positionSavedY": -120.0
                 },
                 {
                     "type": 2,
@@ -250,7 +250,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Basta de preguntas. Estoy lista.",
+                    "answerText": "Enough questions. I´m ready.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -271,7 +271,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                        "I see everything and hear everything. It is my duty, and I fulfill it without hesitation."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -301,7 +301,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
+                        "Echoes of battle... and enemies who wish for your fall. Be prepared."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -331,7 +331,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
+                        "Then go on. Step closer to a portal and walk toward your destiny."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -361,7 +361,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
+                        "You focus on protecting the realms. I'll make sure nothing crosses without my permission."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -453,7 +453,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Loki, ¿qué haces aquí?"
+                        "Loki, what are you doing here?"
                     ],
                     "allCharacter_Actitudes": [
                         "Skuld_Normal"
@@ -496,7 +496,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
+                        "Ah, Skuld... The Valkyrie charged with saving the Nine Realms. What a promising spectacle."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -539,7 +539,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué ocurre en Asgard?",
+                    "answerText": "What is happening in Asgard?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -556,7 +556,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
+                        "Hela has spread corruption throughout Asgard. And her herald... has black wings and a bitter memory."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -599,7 +599,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué tramas?, Loki",
+                    "answerText": "What are you plotting, Loki?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -616,7 +616,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
+                        "Me, plotting? I just enjoy watching the threads of fate become entangled. Pure chaos... delicious."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -659,7 +659,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Puedo confiar en ti?",
+                    "answerText": "Can I trust you?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -676,7 +676,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
+                        "Ha, ha. Trusting me is always a risk... but it´s also fun, don´t you think?"
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -719,7 +719,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Déjame, Loki. Voy a Asgard.",
+                    "answerText": "Leave me alone, Loki. I´m going to Asgard.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -736,7 +736,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Entonces cruza el portal. Asgard te espera... si te atreves."
+                        "Then cross the portal. Asgard awaits you... if you dare."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -784,7 +784,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Dúrkal, ¿por qué no escucho vibrar tus cuerdas?"
+                        "Dúrkal, why can´t I hear your strings vibrating?"
                     ],
                     "allCharacter_Actitudes": [
                         "Skuld_Normal"
@@ -807,8 +807,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -219.73599243164063,
-                    "positionSavedY": -2335.501220703125
+                    "positionSavedX": -230.24945068359376,
+                    "positionSavedY": -2331.999267578125
                 },
                 {
                     "type": 1,
@@ -827,7 +827,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los bosques de Alfheim han dejado de cantar."
+                        "The forests of Alfheim have stopped singing."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -850,8 +850,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 307.3975830078125,
-                    "positionSavedY": -2338.525146484375
+                    "positionSavedX": 296.8841247558594,
+                    "positionSavedY": -2335.023193359375
                 },
                 {
                     "type": 2,
@@ -870,7 +870,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Esto es cosa de Hela?",
+                    "answerText": "Is this Hela´s doing?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -880,14 +880,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 707.3980712890625,
-                    "positionSavedY": -2218.525634765625
+                    "positionSavedX": 696.8840942382813,
+                    "positionSavedY": -2215.023193359375
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                        "Yes. Her shadow spreads, and the dark elves march al her call."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -910,8 +910,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2105.057861328125
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2101.555419921875
                 },
                 {
                     "type": 2,
@@ -930,7 +930,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Dónde está Idunn?",
+                    "answerText": "Where is Idunn?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -940,14 +940,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2325.057861328125
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2321.555419921875
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
+                        "Sweet Idunn has been captured... locked away in a Nhar-Du."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -970,8 +970,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2305.057861328125
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2301.555419921875
                 },
                 {
                     "type": 2,
@@ -990,7 +990,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y los elfos de luz?",
+                    "answerText": "What about the light elves?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1000,14 +1000,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2445.057373046875
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2441.555419921875
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
+                        "One by one, they fall into darkness. But they still wait... for a spark of hope."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -1030,8 +1030,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2505.057373046875
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2501.555419921875
                 },
                 {
                     "type": 2,
@@ -1050,7 +1050,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
+                    "answerText": "Play again, Durkal. I´ll take care of Alfheim.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1060,14 +1060,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 710.5139770507813,
-                    "positionSavedY": -2623.502197265625
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -2620.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
+                        "My strings will vibrate for you, Skuld. May their echo guide you in battle."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -1090,13 +1090,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1150.51318359375,
-                    "positionSavedY": -2743.502197265625
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -2740.0
                 }
             ],
             "chainName": "Durkal",
-            "positionSavedX": 465.3885803222656,
-            "positionSavedY": -2424.280029296875,
+            "positionSavedX": 454.87530517578127,
+            "positionSavedY": -2420.77783203125,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1138,8 +1138,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -247.9964599609375,
-                    "positionSavedY": -3507.93798828125
+                    "positionSavedX": -240.0,
+                    "positionSavedY": -3380.0
                 },
                 {
                     "type": 2,
@@ -1168,8 +1168,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 652.0037841796875,
-                    "positionSavedY": -3307.93798828125
+                    "positionSavedX": 660.0,
+                    "positionSavedY": -3180.0
                 },
                 {
                     "type": 1,
@@ -1211,8 +1211,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 279.0428771972656,
-                    "positionSavedY": -3502.87646484375
+                    "positionSavedX": 287.0394287109375,
+                    "positionSavedY": -3374.9384765625
                 },
                 {
                     "type": 1,
@@ -1241,8 +1241,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1072.00390625,
-                    "positionSavedY": -3307.93798828125
+                    "positionSavedX": 1080.0,
+                    "positionSavedY": -3180.0
                 },
                 {
                     "type": 2,
@@ -1271,8 +1271,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3467.93798828125
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -3340.0
                 },
                 {
                     "type": 1,
@@ -1301,8 +1301,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1112.0037841796875,
-                    "positionSavedY": -3487.93798828125
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": -3360.0
                 },
                 {
                     "type": 2,
@@ -1331,8 +1331,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3647.93798828125
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -3520.0
                 },
                 {
                     "type": 1,
@@ -1361,8 +1361,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1132.00390625,
-                    "positionSavedY": -3707.93798828125
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -3580.0
                 },
                 {
                     "type": 2,
@@ -1391,8 +1391,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 672.0037841796875,
-                    "positionSavedY": -3887.93798828125
+                    "positionSavedX": 680.0,
+                    "positionSavedY": -3760.0
                 },
                 {
                     "type": 1,
@@ -1421,13 +1421,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1152.00390625,
-                    "positionSavedY": -3927.93798828125
+                    "positionSavedX": 1160.0,
+                    "positionSavedY": -3800.0
                 }
             ],
             "chainName": "Manny",
-            "positionSavedX": 452.00372314453127,
-            "positionSavedY": -3617.93798828125,
+            "positionSavedX": 460.0,
+            "positionSavedY": -3490.0,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1442,7 +1442,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Skuld, bienvenida a La Forja. Nada como el sonido del metal en manos enanas, ¿eh? Hasta tus torretas nacieron aquí."
+                        "Welcome to The Forge, Skuld. Nothing beats dwarven steel; even your turrets were forged here."
                     ],
                     "allCharacter_Actitudes": [
                         "Denir_Normal"
@@ -1465,13 +1465,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -260.0,
-                    "positionSavedY": -4440.0
+                    "positionSavedX": -253.1879119873047,
+                    "positionSavedY": -4310.5947265625
                 }
             ],
             "chainName": "Denir",
-            "positionSavedX": -260.0,
-            "positionSavedY": -4440.0,
+            "positionSavedX": -253.18792724609376,
+            "positionSavedY": -4310.5947265625,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1486,7 +1486,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Denir no cambia nunca. Si no está martilleando acero, está pensando cómo ponerle patas a una torreta. ¡Ya verás!"
+                        "Denir nerver changes. If he´s not hammering steel, he´s thinking about how to put legs on a turret. You´ll see!"
                     ],
                     "allCharacter_Actitudes": [
                         "Dayana_Normal"
@@ -1509,13 +1509,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": 444.63232421875,
-                    "positionSavedY": -4436.15673828125
+                    "positionSavedX": 468.3695373535156,
+                    "positionSavedY": -4313.02197265625
                 }
             ],
             "chainName": "Dayana",
-            "positionSavedX": 444.63232421875,
-            "positionSavedY": -4436.15673828125,
+            "positionSavedX": 468.3695068359375,
+            "positionSavedY": -4313.02197265625,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1530,7 +1530,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Las armas de verdad son las que uno empuña en batalla. No esas máquinas que luchan por ti."
+                        "Real weapons are the ones you wield in battle. Not those machines that fight for you."
                     ],
                     "allCharacter_Actitudes": [
                         "Sigurd_Normal"
@@ -1553,13 +1553,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -4440.0
+                    "positionSavedX": 1189.433837890625,
+                    "positionSavedY": -4316.0380859375
                 }
             ],
-            "chainName": "Sigurd",
-            "positionSavedX": 1140.0,
-            "positionSavedY": -4440.0,
+            "chainName": "Sirgurd",
+            "positionSavedX": 1189.433837890625,
+            "positionSavedY": -4316.0380859375,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1574,7 +1574,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ningún enemigo pondrá un pie en el Valhalla."
+                        "No enemy shall set foot in Valhalla."
                     ],
                     "allCharacter_Actitudes": [
                         "Sikva_Normal"
@@ -1597,13 +1597,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -260.0,
-                    "positionSavedY": -4920.0
+                    "positionSavedX": -255.6091766357422,
+                    "positionSavedY": -4787.14111328125
                 }
             ],
             "chainName": "Sikva",
-            "positionSavedX": -260.0,
-            "positionSavedY": -4920.0,
+            "positionSavedX": -255.60919189453126,
+            "positionSavedY": -4787.14111328125,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1618,7 +1618,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "No todos los enanos forjan acero... algunos, como yo, lo empuñamos en batalla."
+                        "Not all dwarves forge steel... some, like me, wield it in battle."
                     ],
                     "allCharacter_Actitudes": [
                         "Vronka_Normal"
@@ -1642,12 +1642,12 @@
                     "connectionsIfFalse": [],
                     "id": 0,
                     "positionSavedX": 460.0,
-                    "positionSavedY": -4920.0
+                    "positionSavedY": -4800.0
                 }
             ],
             "chainName": "Vronka",
             "positionSavedX": 460.0,
-            "positionSavedY": -4920.0,
+            "positionSavedY": -4800.0,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1662,7 +1662,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Gracias, Skuld. Sentí cómo la corrupción apagaba mi luz... pero tus manos me devolvieron la vida."
+                        "Thank you, Skuld. I felt corruption extinguishing my light... but your hands brought me back ti life"
                     ],
                     "allCharacter_Actitudes": [
                         "Idunn_Normal"
@@ -1685,125 +1685,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -4920.0
+                    "positionSavedX": 1192.9986572265625,
+                    "positionSavedY": -4802.96630859375
                 }
             ],
             "chainName": "Idunn",
-            "positionSavedX": 1140.0,
-            "positionSavedY": -4920.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1038
-                        }
-                    ],
-                    "allSentences": [
-                        "Has dado tus primeros pasos en esta  senda, Skuld."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -200.07838439941407,
-                    "positionSavedY": 544.5642700195313
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1039
-                        }
-                    ],
-                    "allSentences": [
-                        "Asgard reconoce tu valor. Más alla te espera Alfheim, hermoso... pero herido."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 238.97421264648438,
-                    "positionSavedY": 537.719970703125
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Parte cuando estés lista. Cada victoria es solo el comienzo de una prueba mayor."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 698.9735107421875,
-                    "positionSavedY": 537.719970703125
-                }
-            ],
-            "chainName": "Odín",
-            "positionSavedX": 249.44757080078126,
-            "positionSavedY": 541.14208984375,
+            "positionSavedX": 1192.9986572265625,
+            "positionSavedY": -4802.96630859375,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1831,7 +1719,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
+                        "Always alert, Skuld. The Bifröst never rests, and neither do I."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -1873,7 +1761,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                        "I see everything and hear everything. It is my duty, and I fulfill it without hesitation."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -1911,7 +1799,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
+                        "Fate has decreed it so. Not every path can be travelled at once."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -1962,7 +1850,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
+                        "The portals are open. Each one will take you to a different challenge."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2013,7 +1901,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Por qué sólo estos portales están abiertos?",
+                    "answerText": "Why are only these portals open?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2051,7 +1939,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Debe ser agotador estar siempre vigilando.",
+                    "answerText": "It must be exhausting to be always on guard.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2089,7 +1977,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué encontraré al otro lado?",
+                    "answerText": "What will I dinf on the other side?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2100,7 +1988,7 @@
                     "connectionsIfFalse": [],
                     "id": 7,
                     "positionSavedX": 1120.0,
-                    "positionSavedY": -100.0
+                    "positionSavedY": -120.0
                 }
             },
             {
@@ -2127,7 +2015,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Basta de preguntas. Estoy lista.",
+                    "answerText": "Enough questions. I´m ready.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2152,7 +2040,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
+                        "Echoes of battle... and enemies who wish for your fall. Be prepared."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2190,7 +2078,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
+                        "Then go on. Step closer to a portal and walk toward your destiny."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2228,7 +2116,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
+                        "You focus on protecting the realms. I'll make sure nothing crosses without my permission."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2279,7 +2167,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
+                        "Ah, Skuld... The Valkyrie charged with saving the Nine Realms. What a promising spectacle."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -2330,7 +2218,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué ocurre en Asgard?",
+                    "answerText": "What is happening in Asgard?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2368,7 +2256,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Qué tramas?, Loki",
+                    "answerText": "What are you plotting, Loki?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2406,7 +2294,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Puedo confiar en ti?",
+                    "answerText": "Can I trust you?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2444,7 +2332,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Déjame, Loki. Voy a Asgard.",
+                    "answerText": "Leave me alone, Loki. I´m going to Asgard.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2469,7 +2357,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
+                        "Hela has spread corruption throughout Asgard. And her herald... has black wings and a bitter memory."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -2507,7 +2395,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
+                        "Me, plotting? I just enjoy watching the threads of fate become entangled. Pure chaos... delicious."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -2545,7 +2433,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
+                        "Ha, ha. Trusting me is always a risk... but it´s also fun, don´t you think?"
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -2583,7 +2471,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Entonces cruza el portal. Asgard te espera... si te atreves."
+                        "Then cross the portal. Asgard awaits you... if you dare."
                     ],
                     "allCharacter_Actitudes": [
                         "Loki_Normal"
@@ -2634,7 +2522,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Los bosques de Alfheim han dejado de cantar."
+                        "The forests of Alfheim have stopped singing."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2657,8 +2545,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 307.3975830078125,
-                    "positionSavedY": -2338.525146484375
+                    "positionSavedX": 296.8841247558594,
+                    "positionSavedY": -2335.023193359375
                 }
             },
             {
@@ -2685,7 +2573,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Esto es cosa de Hela?",
+                    "answerText": "Is this Hela´s doing?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2695,8 +2583,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 707.3980712890625,
-                    "positionSavedY": -2218.525634765625
+                    "positionSavedX": 696.8840942382813,
+                    "positionSavedY": -2215.023193359375
                 }
             },
             {
@@ -2723,7 +2611,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Dónde está Idunn?",
+                    "answerText": "Where is Idunn?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2733,8 +2621,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2325.057861328125
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2321.555419921875
                 }
             },
             {
@@ -2761,7 +2649,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y los elfos de luz?",
+                    "answerText": "What about the light elves?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2771,8 +2659,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2445.057373046875
+                    "positionSavedX": 696.8841552734375,
+                    "positionSavedY": -2441.555419921875
                 }
             },
             {
@@ -2799,7 +2687,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
+                    "answerText": "Play again, Durkal. I´ll take care of Alfheim.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -2809,8 +2697,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 710.5139770507813,
-                    "positionSavedY": -2623.502197265625
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -2620.0
                 }
             },
             {
@@ -2824,7 +2712,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                        "Yes. Her shadow spreads, and the dark elves march al her call."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2847,8 +2735,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2105.057861328125
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2101.555419921875
                 }
             },
             {
@@ -2862,7 +2750,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
+                        "Sweet Idunn has been captured... locked away in a Nhar-Du."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2885,8 +2773,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2305.057861328125
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2301.555419921875
                 }
             },
             {
@@ -2900,7 +2788,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
+                        "One by one, they fall into darkness. But they still wait... for a spark of hope."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2923,8 +2811,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2505.057373046875
+                    "positionSavedX": 1136.8843994140625,
+                    "positionSavedY": -2501.555419921875
                 }
             },
             {
@@ -2938,7 +2826,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
+                        "My strings will vibrate for you, Skuld. May their echo guide you in battle."
                     ],
                     "allCharacter_Actitudes": [
                         "Dúrkal_Normal"
@@ -2961,8 +2849,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1150.51318359375,
-                    "positionSavedY": -2743.502197265625
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -2740.0
                 }
             },
             {
@@ -3012,8 +2900,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 279.0428771972656,
-                    "positionSavedY": -3502.87646484375
+                    "positionSavedX": 287.0394287109375,
+                    "positionSavedY": -3374.9384765625
                 }
             },
             {
@@ -3050,8 +2938,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1072.00390625,
-                    "positionSavedY": -3307.93798828125
+                    "positionSavedX": 1080.0,
+                    "positionSavedY": -3180.0
                 }
             },
             {
@@ -3088,8 +2976,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 652.0037841796875,
-                    "positionSavedY": -3307.93798828125
+                    "positionSavedX": 660.0,
+                    "positionSavedY": -3180.0
                 }
             },
             {
@@ -3126,8 +3014,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3467.93798828125
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -3340.0
                 }
             },
             {
@@ -3164,8 +3052,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3647.93798828125
+                    "positionSavedX": 700.0,
+                    "positionSavedY": -3520.0
                 }
             },
             {
@@ -3202,8 +3090,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 672.0037841796875,
-                    "positionSavedY": -3887.93798828125
+                    "positionSavedX": 680.0,
+                    "positionSavedY": -3760.0
                 }
             },
             {
@@ -3240,8 +3128,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1112.0037841796875,
-                    "positionSavedY": -3487.93798828125
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": -3360.0
                 }
             },
             {
@@ -3278,8 +3166,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1132.00390625,
-                    "positionSavedY": -3707.93798828125
+                    "positionSavedX": 1140.0,
+                    "positionSavedY": -3580.0
                 }
             },
             {
@@ -3316,88 +3204,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1152.00390625,
-                    "positionSavedY": -3927.93798828125
-                }
-            },
-            {
-                "rid": 1038,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1039
-                        }
-                    ],
-                    "allSentences": [
-                        "Asgard reconoce tu valor. Más alla te espera Alfheim, hermoso... pero herido."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 238.97421264648438,
-                    "positionSavedY": 537.719970703125
-                }
-            },
-            {
-                "rid": 1039,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Parte cuando estés lista. Cada victoria es solo el comienzo de una prueba mayor."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 698.9735107421875,
-                    "positionSavedY": 537.719970703125
+                    "positionSavedX": 1160.0,
+                    "positionSavedY": -3800.0
                 }
             }
         ]
