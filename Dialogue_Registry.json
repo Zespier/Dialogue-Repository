@@ -1772,7 +1772,11 @@
                 },
                 {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1040
+                        }
+                    ],
                     "allSentences": [
                         "Parte cuando estés lista. Cada victoria es solo el comienzo de una prueba mayor."
                     ],
@@ -1799,11 +1803,195 @@
                     "id": 3,
                     "positionSavedX": 698.9735107421875,
                     "positionSavedY": 537.719970703125
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 85222
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": 540.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1041
+                        }
+                    ],
+                    "allSentences": [
+                        "Has devuelto la luz a Alfheim, Skuld."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 1520.0,
+                    "positionSavedY": 600.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1042
+                        }
+                    ],
+                    "allSentences": [
+                        "Pero no te engañes, la sombra de Hela sigue creciendo."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1980.0,
+                    "positionSavedY": 600.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1043
+                        }
+                    ],
+                    "allSentences": [
+                        "Jotunheim te pondrá a prueba... más alla del acero y la fe"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 2420.0,
+                    "positionSavedY": 600.0
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 63140
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 2840.0,
+                    "positionSavedY": 600.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Has recorrido este camino y demostrando valía."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 9,
+                    "positionSavedX": 3280.0,
+                    "positionSavedY": 660.0
                 }
             ],
             "chainName": "Odín",
-            "positionSavedX": 249.44757080078126,
-            "positionSavedY": 541.14208984375,
+            "positionSavedX": 1539.9608154296875,
+            "positionSavedY": 598.8599853515625,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -3415,7 +3603,11 @@
                 },
                 "data": {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1040
+                        }
+                    ],
                     "allSentences": [
                         "Parte cuando estés lista. Cada victoria es solo el comienzo de una prueba mayor."
                     ],
@@ -3442,6 +3634,158 @@
                     "id": 3,
                     "positionSavedX": 698.9735107421875,
                     "positionSavedY": 537.719970703125
+                }
+            },
+            {
+                "rid": 1040,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 85222
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1120.0,
+                    "positionSavedY": 540.0
+                }
+            },
+            {
+                "rid": 1041,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1042
+                        }
+                    ],
+                    "allSentences": [
+                        "Pero no te engañes, la sombra de Hela sigue creciendo."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1980.0,
+                    "positionSavedY": 600.0
+                }
+            },
+            {
+                "rid": 1042,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1043
+                        }
+                    ],
+                    "allSentences": [
+                        "Jotunheim te pondrá a prueba... más alla del acero y la fe"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 2420.0,
+                    "positionSavedY": 600.0
+                }
+            },
+            {
+                "rid": 1043,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 63140
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 2840.0,
+                    "positionSavedY": 600.0
                 }
             }
         ]
