@@ -1811,6 +1811,50 @@
             "questRewardMoney": 0,
             "questRewardRadiantTides": 0,
             "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "No tropieces en el primer portal, valkiria. Sería un comienzo... predecible."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Hugin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Hugin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -180.0,
+                    "positionSavedY": 1060.0
+                }
+            ],
+            "chainName": "Hugin",
+            "positionSavedX": -180.0,
+            "positionSavedY": 1060.0,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
         }
     ],
     "references": {
