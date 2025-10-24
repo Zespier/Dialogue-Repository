@@ -476,8 +476,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 0,
-                    "positionSavedX": -210.36923217773438,
-                    "positionSavedY": -1250.369384765625
+                    "positionSavedX": -207.29701232910157,
+                    "positionSavedY": -1213.5025634765625
                 },
                 {
                     "type": 1,
@@ -519,8 +519,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 309.6308288574219,
-                    "positionSavedY": -1250.369384765625
+                    "positionSavedX": 312.7030029296875,
+                    "positionSavedY": -1213.5025634765625
                 },
                 {
                     "type": 2,
@@ -549,8 +549,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1050.3692626953125
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1013.5023803710938
                 },
                 {
                     "type": 1,
@@ -579,8 +579,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1089.630126953125,
-                    "positionSavedY": -970.3692016601563
+                    "positionSavedX": 1092.702392578125,
+                    "positionSavedY": -933.50244140625
                 },
                 {
                     "type": 2,
@@ -609,8 +609,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1150.369384765625
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1113.5025634765625
                 },
                 {
                     "type": 1,
@@ -639,8 +639,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1170.369384765625
+                    "positionSavedX": 1112.702392578125,
+                    "positionSavedY": -1133.5025634765625
                 },
                 {
                     "type": 2,
@@ -669,8 +669,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 720.0,
-                    "positionSavedY": -1260.0
+                    "positionSavedX": 723.0721435546875,
+                    "positionSavedY": -1223.1331787109375
                 },
                 {
                     "type": 1,
@@ -699,8 +699,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1370.369384765625
+                    "positionSavedX": 1112.702392578125,
+                    "positionSavedY": -1333.5025634765625
                 },
                 {
                     "type": 2,
@@ -729,8 +729,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1370.369384765625
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1333.5025634765625
                 },
                 {
                     "type": 1,
@@ -759,13 +759,13 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1129.630126953125,
-                    "positionSavedY": -1610.369384765625
+                    "positionSavedX": 1132.702392578125,
+                    "positionSavedY": -1573.5025634765625
                 }
             ],
             "chainName": "Loki",
-            "positionSavedX": 459.6304626464844,
-            "positionSavedY": -1290.3692626953125,
+            "positionSavedX": 462.70269775390627,
+            "positionSavedY": -1253.50244140625,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -1115,7 +1115,7 @@
                         }
                     ],
                     "allSentences": [
-                        "¡Manny! ¿Qué te ha pasado?"
+                        "Manny! What happened to you?"
                     ],
                     "allCharacter_Actitudes": [
                         "Skuld_Normal"
@@ -1158,7 +1158,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Estás gravemente herido.",
+                    "answerText": "You are badly hurt.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1188,7 +1188,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Skuld... Jotunheim está bajo ataque"
+                        "Skuld... Jotunheim is under attack."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -1218,7 +1218,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
+                        "I´ve been through worse storms... but this time the frost bites right through to the bone."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -1261,7 +1261,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
+                    "answerText": "What about Jotunheim´s army of giants?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1278,7 +1278,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Las tropas de Hela están corrompiendo a mis hermanos. Los que no caen... se vuelven contra nosotros."
+                        "Hela´s forces are corrupting my brothers. Those who don´t fall... turn against us."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -1321,7 +1321,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Está allí Hela?",
+                    "answerText": "Is Hela there?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1338,7 +1338,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "No lo sé. No la vi... pero sentí su sombra, extendiéndose por el hielo. De ella nacían sus siervos."
+                        "I don´t know. I didn´t see her... but I felt her shadow stretching across the ice. From her came her servants."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -1381,7 +1381,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Descansa, Manny. Yo me encargaré de esto.",
+                    "answerText": "Rest, Manny. I´ll take care of this.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -1398,7 +1398,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Skuld... no dejes que te atrape también a ti. Esa sombra no solo corrompe cuerpos... también dobla la voluntad"
+                        "Skuld... don´t let it catch you too. That shadow not only corrupts bodies... it also bends the will."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -1692,6 +1692,138 @@
             "chainName": "Idunn",
             "positionSavedX": 1192.9986572265625,
             "positionSavedY": -4802.96630859375,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Let´s drink to victory... or to survival, whichever comes first."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Grego_Happy"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Grego",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -257.8123474121094,
+                    "positionSavedY": -5266.2529296875
+                }
+            ],
+            "chainName": "Grego",
+            "positionSavedX": -257.8123474121094,
+            "positionSavedY": -5266.2529296875,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Every step you take strengthens the threads of destiny. Keep going, Skuld... there is still much to weave."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -199.23721313476563,
+                    "positionSavedY": 536.4299926757813
+                }
+            ],
+            "chainName": "Odin",
+            "positionSavedX": -199.23721313476563,
+            "positionSavedY": 536.4299926757813,
+            "questCategory": 0,
+            "questName": "",
+            "questShortDescription": "",
+            "questDescription": "",
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Something is stirring in the realms... and I don´t like the sound of it."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Hugin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Hugin",
+                    "connectedFrameworkName": "",
+                    "answerText": "",
+                    "isMainQuest": false,
+                    "isSecundaryQuest": false,
+                    "isShop": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -192.6425323486328,
+                    "positionSavedY": 1008.940185546875
+                }
+            ],
+            "chainName": "Hugin",
+            "positionSavedX": -192.64251708984376,
+            "positionSavedY": 1008.940185546875,
             "questCategory": 0,
             "questName": "",
             "questShortDescription": "",
@@ -2190,8 +2322,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 309.6308288574219,
-                    "positionSavedY": -1250.369384765625
+                    "positionSavedX": 312.7030029296875,
+                    "positionSavedY": -1213.5025634765625
                 }
             },
             {
@@ -2228,8 +2360,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 3,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1050.3692626953125
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1013.5023803710938
                 }
             },
             {
@@ -2266,8 +2398,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 5,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1150.369384765625
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1113.5025634765625
                 }
             },
             {
@@ -2304,8 +2436,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 7,
-                    "positionSavedX": 720.0,
-                    "positionSavedY": -1260.0
+                    "positionSavedX": 723.0721435546875,
+                    "positionSavedY": -1223.1331787109375
                 }
             },
             {
@@ -2342,8 +2474,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 9,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1370.369384765625
+                    "positionSavedX": 712.7030639648438,
+                    "positionSavedY": -1333.5025634765625
                 }
             },
             {
@@ -2380,8 +2512,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 4,
-                    "positionSavedX": 1089.630126953125,
-                    "positionSavedY": -970.3692016601563
+                    "positionSavedX": 1092.702392578125,
+                    "positionSavedY": -933.50244140625
                 }
             },
             {
@@ -2418,8 +2550,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 6,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1170.369384765625
+                    "positionSavedX": 1112.702392578125,
+                    "positionSavedY": -1133.5025634765625
                 }
             },
             {
@@ -2456,8 +2588,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 8,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1370.369384765625
+                    "positionSavedX": 1112.702392578125,
+                    "positionSavedY": -1333.5025634765625
                 }
             },
             {
@@ -2494,8 +2626,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 10,
-                    "positionSavedX": 1129.630126953125,
-                    "positionSavedY": -1610.369384765625
+                    "positionSavedX": 1132.702392578125,
+                    "positionSavedY": -1573.5025634765625
                 }
             },
             {
@@ -2877,7 +3009,7 @@
                         }
                     ],
                     "allSentences": [
-                        "Skuld... Jotunheim está bajo ataque"
+                        "Skuld... Jotunheim is under attack."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -2915,7 +3047,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
+                        "I´ve been through worse storms... but this time the frost bites right through to the bone."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -2966,7 +3098,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Estás gravemente herido.",
+                    "answerText": "You are badly hurt.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -3004,7 +3136,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
+                    "answerText": "What about Jotunheim´s army of giants?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -3042,7 +3174,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Está allí Hela?",
+                    "answerText": "Is Hela there?",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -3080,7 +3212,7 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Descansa, Manny. Yo me encargaré de esto.",
+                    "answerText": "Rest, Manny. I´ll take care of this.",
                     "isMainQuest": false,
                     "isSecundaryQuest": false,
                     "isShop": false,
@@ -3105,7 +3237,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Las tropas de Hela están corrompiendo a mis hermanos. Los que no caen... se vuelven contra nosotros."
+                        "Hela´s forces are corrupting my brothers. Those who don´t fall... turn against us."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -3143,7 +3275,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "No lo sé. No la vi... pero sentí su sombra, extendiéndose por el hielo. De ella nacían sus siervos."
+                        "I don´t know. I didn´t see her... but I felt her shadow stretching across the ice. From her came her servants."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
@@ -3181,7 +3313,7 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Skuld... no dejes que te atrape también a ti. Esa sombra no solo corrompe cuerpos... también dobla la voluntad"
+                        "Skuld... don´t let it catch you too. That shadow not only corrupts bodies... it also bends the will."
                     ],
                     "allCharacter_Actitudes": [
                         "Manny_Normal"
