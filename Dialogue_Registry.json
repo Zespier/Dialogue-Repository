@@ -23,10 +23,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Skuld",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -53,10 +53,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Debe ser agotador estar siempre vigilando.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -83,10 +83,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Por qué sólo estos portales están abiertos?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -113,10 +113,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -147,10 +147,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -190,10 +190,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": true,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -220,10 +220,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Qué encontraré al otro lado?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -250,10 +250,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Basta de preguntas. Estoy lista.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -284,10 +284,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -314,10 +314,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -344,10 +344,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": true,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -374,10 +374,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -418,10 +418,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -430,13 +430,103 @@
                     "id": 0,
                     "positionSavedX": -940.0,
                     "positionSavedY": 40.0
+                },
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1011
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 2,
+                    "positionSavedX": -1400.0,
+                    "positionSavedY": 40.0
+                },
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1012
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": -1400.0,
+                    "positionSavedY": -200.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Probandooooo probandooooo"
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": -940.0,
+                    "positionSavedY": -200.0
                 }
             ],
-            "chainName": "Defiende los reinos",
-            "positionSavedX": -940.0,
-            "positionSavedY": 40.0,
+            "chainName": "Defend Asgard",
+            "positionSavedX": -1170.0,
+            "positionSavedY": -80.0,
             "questCategory": 1,
-            "questName": "Defiende los reinos",
+            "questName": "Defend Asgard",
             "questShortDescription": "Defiende los reinos",
             "questDescription": "Defiende los reinos",
             "questRewardMoney": 0,
@@ -449,7 +539,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1011
+                            "rid": 1013
                         }
                     ],
                     "allSentences": [
@@ -466,10 +556,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Skuld",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -483,16 +573,16 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1012
-                        },
-                        {
-                            "rid": 1013
-                        },
-                        {
                             "rid": 1014
                         },
                         {
                             "rid": 1015
+                        },
+                        {
+                            "rid": 1016
+                        },
+                        {
+                            "rid": 1017
                         }
                     ],
                     "allSentences": [
@@ -509,24 +599,24 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 309.6308288574219,
-                    "positionSavedY": -1250.369384765625
+                    "positionSavedX": 300.0,
+                    "positionSavedY": -1240.0
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1016
+                            "rid": 1018
                         }
                     ],
                     "allSentences": [],
@@ -539,10 +629,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Qué ocurre en Asgard?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -569,10 +659,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -586,7 +676,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1017
+                            "rid": 1019
                         }
                     ],
                     "allSentences": [],
@@ -599,10 +689,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Qué tramas?, Loki",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -629,10 +719,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -646,7 +736,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1018
+                            "rid": 1020
                         }
                     ],
                     "allSentences": [],
@@ -659,10 +749,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Puedo confiar en ti?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -689,10 +779,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -706,7 +796,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1019
+                            "rid": 1021
                         }
                     ],
                     "allSentences": [],
@@ -719,10 +809,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Déjame, Loki. Voy a Asgard.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -749,10 +839,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -780,7 +870,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1020
+                            "rid": 1022
                         }
                     ],
                     "allSentences": [
@@ -797,10 +887,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Skuld",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -814,16 +904,16 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1021
-                        },
-                        {
-                            "rid": 1022
-                        },
-                        {
                             "rid": 1023
                         },
                         {
                             "rid": 1024
+                        },
+                        {
+                            "rid": 1025
+                        },
+                        {
+                            "rid": 1026
                         }
                     ],
                     "allSentences": [
@@ -840,10 +930,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -857,7 +947,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1025
+                            "rid": 1027
                         }
                     ],
                     "allSentences": [],
@@ -870,10 +960,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Esto es cosa de Hela?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -900,10 +990,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -917,7 +1007,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1026
+                            "rid": 1028
                         }
                     ],
                     "allSentences": [],
@@ -930,10 +1020,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Dónde está Idunn?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -960,10 +1050,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -977,7 +1067,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1027
+                            "rid": 1029
                         }
                     ],
                     "allSentences": [],
@@ -990,10 +1080,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Y los elfos de luz?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1020,10 +1110,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1037,7 +1127,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1028
+                            "rid": 1030
                         }
                     ],
                     "allSentences": [],
@@ -1050,10 +1140,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1080,10 +1170,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1111,7 +1201,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1029
+                            "rid": 1031
                         }
                     ],
                     "allSentences": [
@@ -1128,10 +1218,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Skuld",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1145,7 +1235,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1030
+                            "rid": 1032
                         }
                     ],
                     "allSentences": [],
@@ -1158,10 +1248,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Estás gravemente herido.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1175,16 +1265,16 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1031
-                        },
-                        {
-                            "rid": 1032
-                        },
-                        {
                             "rid": 1033
                         },
                         {
                             "rid": 1034
+                        },
+                        {
+                            "rid": 1035
+                        },
+                        {
+                            "rid": 1036
                         }
                     ],
                     "allSentences": [
@@ -1201,10 +1291,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1231,10 +1321,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1248,7 +1338,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1035
+                            "rid": 1037
                         }
                     ],
                     "allSentences": [],
@@ -1261,10 +1351,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Y el ejército de gigantes de Jotunheim?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1291,10 +1381,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1308,7 +1398,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1036
+                            "rid": 1038
                         }
                     ],
                     "allSentences": [],
@@ -1321,10 +1411,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Está allí Hela?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1351,10 +1441,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1368,7 +1458,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1037
+                            "rid": 1039
                         }
                     ],
                     "allSentences": [],
@@ -1381,10 +1471,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Descansa, Manny. Yo me encargaré de esto.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1411,10 +1501,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1455,10 +1545,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Denir",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1499,10 +1589,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dayana",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1543,10 +1633,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Sigurd",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1587,10 +1677,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Sikva",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1631,10 +1721,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Vronka",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1675,10 +1765,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Idunn",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1719,10 +1809,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Odin",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1763,10 +1853,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Hugin",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1807,10 +1897,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Grego",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1864,10 +1954,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1906,10 +1996,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1944,10 +2034,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -1995,10 +2085,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": true,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2033,10 +2123,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Por qué sólo estos portales están abiertos?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2071,10 +2161,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Debe ser agotador estar siempre vigilando.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2109,10 +2199,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "¿Qué encontraré al otro lado?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2147,10 +2237,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Basta de preguntas. Estoy lista.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2185,10 +2275,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2223,10 +2313,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": true,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2261,10 +2351,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2284,18 +2374,94 @@
                 },
                 "data": {
                     "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Ay Skuld aiuda aiuda"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 0,
+                    "positionSavedX": -940.0,
+                    "positionSavedY": 40.0
+                }
+            },
+            {
+                "rid": 1012,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Probandooooo probandooooo"
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": -940.0,
+                    "positionSavedY": -200.0
+                }
+            },
+            {
+                "rid": 1013,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
                     "connections": [
-                        {
-                            "rid": 1012
-                        },
-                        {
-                            "rid": 1013
-                        },
                         {
                             "rid": 1014
                         },
                         {
                             "rid": 1015
+                        },
+                        {
+                            "rid": 1016
+                        },
+                        {
+                            "rid": 1017
                         }
                     ],
                     "allSentences": [
@@ -2312,94 +2478,18 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": 2,
-                    "positionSavedX": 309.6308288574219,
-                    "positionSavedY": -1250.369384765625
-                }
-            },
-            {
-                "rid": 1012,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1016
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "¿Qué ocurre en Asgard?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1050.3692626953125
-                }
-            },
-            {
-                "rid": 1013,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1017
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "¿Qué tramas?, Loki",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1150.369384765625
+                    "positionSavedX": 300.0,
+                    "positionSavedY": -1240.0
                 }
             },
             {
@@ -2426,18 +2516,18 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Puedo confiar en ti?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Qué ocurre en Asgard?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 720.0,
-                    "positionSavedY": -1260.0
+                    "id": 3,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1050.3692626953125
                 }
             },
             {
@@ -2464,10 +2554,86 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Qué tramas?, Loki",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 709.6309204101563,
+                    "positionSavedY": -1150.369384765625
+                }
+            },
+            {
+                "rid": 1016,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1020
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Puedo confiar en ti?",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 720.0,
+                    "positionSavedY": -1260.0
+                }
+            },
+            {
+                "rid": 1017,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1021
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Déjame, Loki. Voy a Asgard.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2479,7 +2645,7 @@
                 }
             },
             {
-                "rid": 1016,
+                "rid": 1018,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2502,10 +2668,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2517,7 +2683,7 @@
                 }
             },
             {
-                "rid": 1017,
+                "rid": 1019,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2540,10 +2706,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2555,7 +2721,7 @@
                 }
             },
             {
-                "rid": 1018,
+                "rid": 1020,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2578,10 +2744,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2593,7 +2759,7 @@
                 }
             },
             {
-                "rid": 1019,
+                "rid": 1021,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2616,10 +2782,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Loki",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2631,7 +2797,7 @@
                 }
             },
             {
-                "rid": 1020,
+                "rid": 1022,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2641,16 +2807,16 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1021
-                        },
-                        {
-                            "rid": 1022
-                        },
-                        {
                             "rid": 1023
                         },
                         {
                             "rid": 1024
+                        },
+                        {
+                            "rid": 1025
+                        },
+                        {
+                            "rid": 1026
                         }
                     ],
                     "allSentences": [
@@ -2667,10 +2833,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Dúrkal",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -2679,82 +2845,6 @@
                     "id": 2,
                     "positionSavedX": 307.3975830078125,
                     "positionSavedY": -2338.525146484375
-                }
-            },
-            {
-                "rid": 1021,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1025
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "¿Esto es cosa de Hela?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 707.3980712890625,
-                    "positionSavedY": -2218.525634765625
-                }
-            },
-            {
-                "rid": 1022,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1026
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "answerText": "¿Dónde está Idunn?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2325.057861328125
                 }
             },
             {
@@ -2781,18 +2871,18 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y los elfos de luz?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Esto es cosa de Hela?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2445.057373046875
+                    "id": 3,
+                    "positionSavedX": 707.3980712890625,
+                    "positionSavedY": -2218.525634765625
                 }
             },
             {
@@ -2819,18 +2909,18 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Dónde está Idunn?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 710.5139770507813,
-                    "positionSavedY": -2623.502197265625
+                    "id": 5,
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2325.057861328125
                 }
             },
             {
@@ -2841,241 +2931,38 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1029
+                        }
                     ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
+                    "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Y los elfos de luz?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2105.057861328125
+                    "id": 7,
+                    "positionSavedX": 707.3981323242188,
+                    "positionSavedY": -2445.057373046875
                 }
             },
             {
                 "rid": 1026,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2305.057861328125
-                }
-            },
-            {
-                "rid": 1027,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2505.057373046875
-                }
-            },
-            {
-                "rid": 1028,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1150.51318359375,
-                    "positionSavedY": -2743.502197265625
-                }
-            },
-            {
-                "rid": 1029,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1031
-                        },
-                        {
-                            "rid": 1032
-                        },
-                        {
-                            "rid": 1033
-                        },
-                        {
-                            "rid": 1034
-                        }
-                    ],
-                    "allSentences": [
-                        "Skuld... Jotunheim está bajo ataque"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 279.0428771972656,
-                    "positionSavedY": -3502.87646484375
-                }
-            },
-            {
-                "rid": 1030,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1072.00390625,
-                    "positionSavedY": -3307.93798828125
-                }
-            },
-            {
-                "rid": 1031,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -3098,18 +2985,221 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "Estás gravemente herido.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 652.0037841796875,
-                    "positionSavedY": -3307.93798828125
+                    "id": 9,
+                    "positionSavedX": 710.5139770507813,
+                    "positionSavedY": -2623.502197265625
+                }
+            },
+            {
+                "rid": 1027,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 4,
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2105.057861328125
+                }
+            },
+            {
+                "rid": 1028,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 6,
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2305.057861328125
+                }
+            },
+            {
+                "rid": 1029,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 8,
+                    "positionSavedX": 1147.3975830078125,
+                    "positionSavedY": -2505.057373046875
+                }
+            },
+            {
+                "rid": 1030,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 10,
+                    "positionSavedX": 1150.51318359375,
+                    "positionSavedY": -2743.502197265625
+                }
+            },
+            {
+                "rid": 1031,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1033
+                        },
+                        {
+                            "rid": 1034
+                        },
+                        {
+                            "rid": 1035
+                        },
+                        {
+                            "rid": 1036
+                        }
+                    ],
+                    "allSentences": [
+                        "Skuld... Jotunheim está bajo ataque"
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Manny_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Manny",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 3,
+                    "positionSavedX": 279.0428771972656,
+                    "positionSavedY": -3502.87646484375
                 }
             },
             {
@@ -3120,34 +3210,34 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1035
-                        }
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
                     ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
+                    "allCharacter_Actitudes": [
+                        "Manny_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Manny",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3467.93798828125
+                    "id": 4,
+                    "positionSavedX": 1072.00390625,
+                    "positionSavedY": -3307.93798828125
                 }
             },
             {
@@ -3161,7 +3251,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1036
+                            "rid": 1032
                         }
                     ],
                     "allSentences": [],
@@ -3174,18 +3264,18 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
-                    "answerText": "¿Está allí Hela?",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "Estás gravemente herido.",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3647.93798828125
+                    "id": 2,
+                    "positionSavedX": 652.0037841796875,
+                    "positionSavedY": -3307.93798828125
                 }
             },
             {
@@ -3212,10 +3302,86 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 5,
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3467.93798828125
+                }
+            },
+            {
+                "rid": 1035,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1038
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "answerText": "¿Está allí Hela?",
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": 7,
+                    "positionSavedX": 692.0037841796875,
+                    "positionSavedY": -3647.93798828125
+                }
+            },
+            {
+                "rid": 1036,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1039
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "Descansa, Manny. Yo me encargaré de esto.",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -3227,7 +3393,7 @@
                 }
             },
             {
-                "rid": 1035,
+                "rid": 1037,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -3250,10 +3416,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -3265,7 +3431,7 @@
                 }
             },
             {
-                "rid": 1036,
+                "rid": 1038,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -3288,10 +3454,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
@@ -3303,7 +3469,7 @@
                 }
             },
             {
-                "rid": 1037,
+                "rid": 1039,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -3326,10 +3492,10 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Manny",
                     "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
                     "answerText": "",
-                    "isMainQuest": false,
-                    "isSecundaryQuest": false,
-                    "isShop": false,
                     "condition": {
                         "instanceID": 0
                     },
