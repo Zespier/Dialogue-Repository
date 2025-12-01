@@ -7,177 +7,18 @@
                     "connections": [
                         {
                             "rid": 1000
-                        }
-                    ],
-                    "allSentences": [
-                        "Hola Heimdall. ¿Cómo llevas tu guardia?"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Skuld_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Skuld",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -200.0,
-                    "positionSavedY": -20.0
-                },
-                {
-                    "type": 2,
-                    "connections": [
+                        },
                         {
                             "rid": 1001
                         }
                     ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Debe ser agotador estar siempre vigilando.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -20.0
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1002
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Por qué sólo estos portales están abiertos?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": 60.0
-                },
-                {
-                    "type": 1,
-                    "connections": [],
                     "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1660.0,
-                    "positionSavedY": 60.0
-                },
-                {
-                    "type": 1,
-                    "connections": [
                         {
-                            "rid": 1003
+                            "translations": [
+                                "a",
+                                "a"
+                            ]
                         }
-                    ],
-                    "allSentences": [
-                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 240.0,
-                    "positionSavedY": -20.0
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1004
-                        },
-                        {
-                            "rid": 1005
-                        },
-                        {
-                            "rid": 1006
-                        },
-                        {
-                            "rid": 1007
-                        }
-                    ],
-                    "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -193,85 +34,94 @@
                     "showMissions": true,
                     "isThisAnswerCheckpoint": true,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 680.0,
-                    "positionSavedY": -20.0
+                    "id": "Heimdall#1",
+                    "positionSavedX": 0.0,
+                    "positionSavedY": -40.0
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1008
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué encontraré al otro lado?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": -100.0
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1009
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Basta de preguntas. Estoy lista.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1100.0,
-                    "positionSavedY": -180.0
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1010
+                            "rid": 1002
                         }
                     ],
                     "allSentences": [
-                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                        {
+                            "translations": [
+                                "What about Asgard?",
+                                "Vengo para ver si hay noticias"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Heimdall#2",
+                    "positionSavedX": 400.0,
+                    "positionSavedY": 20.0
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 64200
+                    },
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1003
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1004
+                        }
+                    ],
+                    "id": "Heimdall#3",
+                    "positionSavedX": 800.0,
+                    "positionSavedY": 140.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Thank you for helping our fellow fuckers",
+                                "Gracias por ayudar a mi familia "
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -287,51 +137,25 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -120.0
+                    "id": "Heimdall#4",
+                    "positionSavedX": 1280.0,
+                    "positionSavedY": 300.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -300.0
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
+                        {
+                            "translations": [
+                                "We really need help defending, pleae go already...",
+                                "Nada nuevo, completa la focking mision primero"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -347,24 +171,64 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": true,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 11,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -480.0
+                    "id": "Heimdall#5",
+                    "positionSavedX": 1280.0,
+                    "positionSavedY": 40.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1005
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "See you soon",
+                                "Nada tio nos vemos otro día"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Heimdall#6",
+                    "positionSavedX": 400.0,
+                    "positionSavedY": -100.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
+                        {
+                            "translations": [
+                                "See you soon",
+                                "Nada, nos vemos otro día"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
+                        "Skuld_Normal"
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -372,70 +236,47 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
+                    "characterName": "Skuld",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 12,
-                    "positionSavedX": 2160.0,
-                    "positionSavedY": -120.0
+                    "id": "Heimdall#7",
+                    "positionSavedX": 820.0,
+                    "positionSavedY": -180.0
                 }
             ],
             "chainName": "Heimdall",
-            "positionSavedX": 980.0,
-            "positionSavedY": -210.0,
+            "positionSavedX": 640.0,
+            "positionSavedY": 60.0,
             "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
+            "questNameTranslated": {
+                "translations": []
+            },
+            "questShortDescription": {
+                "translations": []
+            },
+            "questDescription": {
+                "translations": []
+            },
             "questRewardMoney": 0,
             "questRewardRadiantTides": 0,
-            "isQuestFramework": false
+            "isQuestFramework": false,
+            "conditions": [],
+            "activateQuest": []
         },
         {
             "elements": [
                 {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Ay Skuld aiuda aiuda"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -940.0,
-                    "positionSavedY": 40.0
-                },
-                {
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1011
+                            "rid": 1006
                         }
                     ],
                     "allSentences": [],
@@ -451,51 +292,25 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": -1400.0,
-                    "positionSavedY": 40.0
-                },
-                {
-                    "type": 5,
-                    "connections": [
-                        {
-                            "rid": 1012
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": -1400.0,
-                    "positionSavedY": -200.0
+                    "id": "Defend Asgard#1",
+                    "positionSavedX": -1620.0,
+                    "positionSavedY": -60.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Probandooooo probandooooo"
+                        {
+                            "translations": [
+                                "ALKSJNDALKJSNDA",
+                                "¡Ay, ay, ay! ¡La valiente Skuld! Ven aquí y baila conmigo, ¡que esta noche los barriles son nuestros tronos!​​dasda"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         ""
@@ -506,32 +321,170 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Carlos",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": -940.0,
-                    "positionSavedY": -200.0
+                    "id": "Defend Asgard#2",
+                    "positionSavedX": -1180.0,
+                    "positionSavedY": -60.0
                 }
             ],
             "chainName": "Defend Asgard",
-            "positionSavedX": -1170.0,
-            "positionSavedY": -80.0,
+            "positionSavedX": -1400.0,
+            "positionSavedY": -60.0,
             "questCategory": 1,
-            "questName": "Defend Asgard",
-            "questShortDescription": "Defiende los reinos",
-            "questDescription": "Defiende los reinos",
+            "questNameTranslated": {
+                "translations": [
+                    "Defend Asgard",
+                    "Defiende Asgard"
+                ]
+            },
+            "questShortDescription": {
+                "translations": [
+                    "Short A",
+                    "Corto A"
+                ]
+            },
+            "questDescription": {
+                "translations": [
+                    "Long A",
+                    "largo A"
+                ]
+            },
             "questRewardMoney": 0,
             "questRewardRadiantTides": 0,
-            "isQuestFramework": true
+            "isQuestFramework": true,
+            "conditions": [
+                {
+                    "instanceID": 64200
+                },
+                {
+                    "instanceID": 0
+                },
+                {
+                    "instanceID": 0
+                }
+            ],
+            "activateQuest": [
+                "Talk to Odin",
+                "None",
+                "None"
+            ]
+        },
+        {
+            "elements": [
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1007
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin#1",
+                    "positionSavedX": -1655.7056884765625,
+                    "positionSavedY": -887.0967407226563
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "ASDLKAJSNDAKLJSD",
+                                "Gracias, ahora vete a defender otro reino. Espabila."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        ""
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Carlos",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin#2",
+                    "positionSavedX": -1155.7056884765625,
+                    "positionSavedY": -887.0967407226563
+                }
+            ],
+            "chainName": "Talk to Odin",
+            "positionSavedX": -1405.7056884765625,
+            "positionSavedY": -887.0967407226563,
+            "questCategory": 1,
+            "questNameTranslated": {
+                "translations": [
+                    "Talk to Odin",
+                    "Habla con Odin"
+                ]
+            },
+            "questShortDescription": {
+                "translations": [
+                    "Short B",
+                    "Corto B"
+                ]
+            },
+            "questDescription": {
+                "translations": [
+                    "Long B",
+                    "Largo B"
+                ]
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": true,
+            "conditions": [
+                {
+                    "instanceID": 91440
+                },
+                {
+                    "instanceID": 0
+                },
+                {
+                    "instanceID": 0
+                }
+            ],
+            "activateQuest": [
+                "None",
+                "None",
+                "None"
+            ]
         },
         {
             "elements": [
@@ -539,14 +492,19 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1013
+                            "rid": 1008
                         }
                     ],
                     "allSentences": [
-                        "Loki, ¿qué haces aquí?"
+                        {
+                            "translations": [
+                                "Hey what up?",
+                                "Skuld, qué necesitas?"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
-                        "Skuld_Normal"
+                        "Odin_Normal"
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -554,72 +512,35 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Skuld",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -210.36923217773438,
-                    "positionSavedY": -1250.369384765625
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1014
-                        },
-                        {
-                            "rid": 1015
-                        },
-                        {
-                            "rid": 1016
-                        },
-                        {
-                            "rid": 1017
-                        }
-                    ],
-                    "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
+                    "characterName": "Odin",
                     "connectedFrameworkName": "",
                     "showMissions": true,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 300.0,
-                    "positionSavedY": -1240.0
+                    "id": "Odin#1",
+                    "positionSavedX": 20.0,
+                    "positionSavedY": -860.0
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1018
+                            "rid": 1009
                         }
                     ],
-                    "allSentences": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Nothing",
+                                "Nada nos vemos luego"
+                            ]
+                        }
+                    ],
                     "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -632,1171 +553,25 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué ocurre en Asgard?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1050.3692626953125
+                    "id": "Odin#2",
+                    "positionSavedX": 380.0,
+                    "positionSavedY": -860.0
                 },
                 {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1089.630126953125,
-                    "positionSavedY": -970.3692016601563
-                },
-                {
-                    "type": 2,
-                    "connections": [
                         {
-                            "rid": 1019
+                            "translations": [
+                                "Then shut up and go already.",
+                                "Vale"
+                            ]
                         }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué tramas?, Loki",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1150.369384765625
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1170.369384765625
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1020
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Puedo confiar en ti?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 720.0,
-                    "positionSavedY": -1260.0
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1370.369384765625
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1021
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Déjame, Loki. Voy a Asgard.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1370.369384765625
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Entonces cruza el portal. Asgard te espera... si te atreves."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1129.630126953125,
-                    "positionSavedY": -1610.369384765625
-                }
-            ],
-            "chainName": "Loki",
-            "positionSavedX": 459.6304626464844,
-            "positionSavedY": -1290.3692626953125,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1022
-                        }
-                    ],
-                    "allSentences": [
-                        "Dúrkal, ¿por qué no escucho vibrar tus cuerdas?"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Skuld_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Skuld",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -219.73599243164063,
-                    "positionSavedY": -2335.501220703125
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1023
-                        },
-                        {
-                            "rid": 1024
-                        },
-                        {
-                            "rid": 1025
-                        },
-                        {
-                            "rid": 1026
-                        }
-                    ],
-                    "allSentences": [
-                        "Los bosques de Alfheim han dejado de cantar."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 307.3975830078125,
-                    "positionSavedY": -2338.525146484375
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1027
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Esto es cosa de Hela?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 707.3980712890625,
-                    "positionSavedY": -2218.525634765625
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2105.057861328125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1028
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Dónde está Idunn?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2325.057861328125
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2305.057861328125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1029
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Y los elfos de luz?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2445.057373046875
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2505.057373046875
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1030
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 710.5139770507813,
-                    "positionSavedY": -2623.502197265625
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1150.51318359375,
-                    "positionSavedY": -2743.502197265625
-                }
-            ],
-            "chainName": "Durkal",
-            "positionSavedX": 465.3885803222656,
-            "positionSavedY": -2424.280029296875,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1031
-                        }
-                    ],
-                    "allSentences": [
-                        "¡Manny! ¿Qué te ha pasado?"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Skuld_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Skuld",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -247.9964599609375,
-                    "positionSavedY": -3507.93798828125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1032
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Estás gravemente herido.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 652.0037841796875,
-                    "positionSavedY": -3307.93798828125
-                },
-                {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1033
-                        },
-                        {
-                            "rid": 1034
-                        },
-                        {
-                            "rid": 1035
-                        },
-                        {
-                            "rid": 1036
-                        }
-                    ],
-                    "allSentences": [
-                        "Skuld... Jotunheim está bajo ataque"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 279.0428771972656,
-                    "positionSavedY": -3502.87646484375
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1072.00390625,
-                    "positionSavedY": -3307.93798828125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1037
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3467.93798828125
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Las tropas de Hela están corrompiendo a mis hermanos. Los que no caen... se vuelven contra nosotros."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1112.0037841796875,
-                    "positionSavedY": -3487.93798828125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1038
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Está allí Hela?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3647.93798828125
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "No lo sé. No la vi... pero sentí su sombra, extendiéndose por el hielo. De ella nacían sus siervos."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1132.00390625,
-                    "positionSavedY": -3707.93798828125
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1039
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Descansa, Manny. Yo me encargaré de esto.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 672.0037841796875,
-                    "positionSavedY": -3887.93798828125
-                },
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Skuld... no dejes que te atrape también a ti. Esa sombra no solo corrompe cuerpos... también dobla la voluntad"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1152.00390625,
-                    "positionSavedY": -3927.93798828125
-                }
-            ],
-            "chainName": "Manny",
-            "positionSavedX": 452.00372314453127,
-            "positionSavedY": -3617.93798828125,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Skuld, bienvenida a La Forja. Nada como el sonido del metal en manos enanas, ¿eh? Hasta tus torretas nacieron aquí."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Denir_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Denir",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -260.0,
-                    "positionSavedY": -4440.0
-                }
-            ],
-            "chainName": "Denir",
-            "positionSavedX": -260.0,
-            "positionSavedY": -4440.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Denir no cambia nunca. Si no está martilleando acero, está pensando cómo ponerle patas a una torreta. ¡Ya verás!"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dayana_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dayana",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": 444.63232421875,
-                    "positionSavedY": -4436.15673828125
-                }
-            ],
-            "chainName": "Dayana",
-            "positionSavedX": 444.63232421875,
-            "positionSavedY": -4436.15673828125,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Las armas de verdad son las que uno empuña en batalla. No esas máquinas que luchan por ti."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Sigurd_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Sigurd",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -4440.0
-                }
-            ],
-            "chainName": "Sigurd",
-            "positionSavedX": 1140.0,
-            "positionSavedY": -4440.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Ningún enemigo pondrá un pie en el Valhalla."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Sikva_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Sikva",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -260.0,
-                    "positionSavedY": -4920.0
-                }
-            ],
-            "chainName": "Sikva",
-            "positionSavedX": -260.0,
-            "positionSavedY": -4920.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "No todos los enanos forjan acero... algunos, como yo, lo empuñamos en batalla."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Vronka_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Vronka",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": 460.0,
-                    "positionSavedY": -4920.0
-                }
-            ],
-            "chainName": "Vronka",
-            "positionSavedX": 460.0,
-            "positionSavedY": -4920.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Gracias, Skuld. Sentí cómo la corrupción apagaba mi luz... pero tus manos me devolvieron la vida."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Idunn_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Idunn",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -4920.0
-                }
-            ],
-            "chainName": "Idunn",
-            "positionSavedX": 1140.0,
-            "positionSavedY": -4920.0,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Cada paso que das fortalece los hilos del destino. Sigue, Skuld... aún queda mucho que tejer."
                     ],
                     "allCharacter_Actitudes": [
                         "Odin_Normal"
@@ -1812,115 +587,34 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -200.07838439941407,
-                    "positionSavedY": 544.5642700195313
+                    "id": "Odin#3",
+                    "positionSavedX": 740.0,
+                    "positionSavedY": -860.0
                 }
             ],
             "chainName": "Odin",
-            "positionSavedX": -200.078369140625,
-            "positionSavedY": 544.5642700195313,
+            "positionSavedX": 380.0,
+            "positionSavedY": -860.0,
             "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
+            "questNameTranslated": {
+                "translations": []
+            },
+            "questShortDescription": {
+                "translations": []
+            },
+            "questDescription": {
+                "translations": []
+            },
             "questRewardMoney": 0,
             "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Algo se mueve en los reinos... y no me gusta cómo suena."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Hugin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Hugin",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -233.45166015625,
-                    "positionSavedY": 1064.4542236328125
-                }
-            ],
-            "chainName": "Hugin",
-            "positionSavedX": -233.45166015625,
-            "positionSavedY": 1064.4542236328125,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
-        },
-        {
-            "elements": [
-                {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Brindemos por la victoria... o por sobrevivir, lo que llegue primero"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Grego_Happy"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Grego",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -259.8470764160156,
-                    "positionSavedY": -5397.89697265625
-                }
-            ],
-            "chainName": "Grego",
-            "positionSavedX": -259.8470764160156,
-            "positionSavedY": -5397.89697265625,
-            "questCategory": 0,
-            "questName": "",
-            "questShortDescription": "",
-            "questDescription": "",
-            "questRewardMoney": 0,
-            "questRewardRadiantTides": 0,
-            "isQuestFramework": false
+            "isQuestFramework": false,
+            "conditions": [],
+            "activateQuest": []
         }
     ],
     "references": {
@@ -1934,38 +628,40 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 1,
+                    "type": 2,
                     "connections": [
                         {
-                            "rid": 1003
+                            "rid": 1002
                         }
                     ],
                     "allSentences": [
-                        "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
+                        {
+                            "translations": [
+                                "What about Asgard?",
+                                "Vengo para ver si hay noticias"
+                            ]
+                        }
                     ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
+                    "characterName": "",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 240.0,
-                    "positionSavedY": -20.0
+                    "id": "Heimdall#2",
+                    "positionSavedX": 400.0,
+                    "positionSavedY": 20.0
                 }
             },
             {
@@ -1976,38 +672,40 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 1,
+                    "type": 2,
                     "connections": [
                         {
-                            "rid": 1010
+                            "rid": 1005
                         }
                     ],
                     "allSentences": [
-                        "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
+                        {
+                            "translations": [
+                                "See you soon",
+                                "Nada tio nos vemos otro día"
+                            ]
+                        }
                     ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
+                    "characterName": "",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -120.0
+                    "id": "Heimdall#6",
+                    "positionSavedX": 400.0,
+                    "positionSavedY": -100.0
                 }
             },
             {
@@ -2018,34 +716,37 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 1,
+                    "type": 3,
                     "connections": [],
-                    "allSentences": [
-                        "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
+                    "characterName": "",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
-                        "instanceID": 0
+                        "instanceID": 64200
                     },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1660.0,
-                    "positionSavedY": 60.0
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1003
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1004
+                        }
+                    ],
+                    "id": "Heimdall#3",
+                    "positionSavedX": 800.0,
+                    "positionSavedY": 140.0
                 }
             },
             {
@@ -2057,22 +758,14 @@
                 },
                 "data": {
                     "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1004
-                        },
-                        {
-                            "rid": 1005
-                        },
-                        {
-                            "rid": 1006
-                        },
-                        {
-                            "rid": 1007
-                        }
-                    ],
+                    "connections": [],
                     "allSentences": [
-                        "Los portales están abiertos. Cada uno te llevará a un desafío distinto."
+                        {
+                            "translations": [
+                                "Thank you for helping our fellow fuckers",
+                                "Gracias por ayudar a mi familia "
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2085,18 +778,17 @@
                     "posibleSecondaryCharacter_Actitudes": [],
                     "characterName": "Heimdall",
                     "connectedFrameworkName": "",
-                    "showMissions": true,
-                    "isThisAnswerCheckpoint": true,
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 680.0,
-                    "positionSavedY": -20.0
+                    "id": "Heimdall#4",
+                    "positionSavedX": 1280.0,
+                    "positionSavedY": 300.0
                 }
             },
             {
@@ -2107,200 +799,15 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1002
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Por qué sólo estos portales están abiertos?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": 60.0
-                }
-            },
-            {
-                "rid": 1005,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1001
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Debe ser agotador estar siempre vigilando.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 1140.0,
-                    "positionSavedY": -20.0
-                }
-            },
-            {
-                "rid": 1006,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1008
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué encontraré al otro lado?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 1120.0,
-                    "positionSavedY": -100.0
-                }
-            },
-            {
-                "rid": 1007,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1009
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Basta de preguntas. Estoy lista.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1100.0,
-                    "positionSavedY": -180.0
-                }
-            },
-            {
-                "rid": 1008,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Ecos de batalla... y enemigos que desean tu caída. Preparáte."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -300.0
-                }
-            },
-            {
-                "rid": 1009,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Entonces adelante. Acércate a un portal y camina hacia tu destino."
+                        {
+                            "translations": [
+                                "We really need help defending, pleae go already...",
+                                "Nada nuevo, completa la focking mision primero"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         "Heimdall_Normal"
@@ -2316,95 +823,18 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": true,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 11,
-                    "positionSavedX": 1680.0,
-                    "positionSavedY": -480.0
-                }
-            },
-            {
-                "rid": 1010,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Tú encárgate de proteger los reinos. Yo me asegurare de que nada cruce sin mi permiso."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 12,
-                    "positionSavedX": 2160.0,
-                    "positionSavedY": -120.0
-                }
-            },
-            {
-                "rid": 1011,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Ay Skuld aiuda aiuda"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Heimdall_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Heimdall",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 0,
-                    "positionSavedX": -940.0,
+                    "id": "Heimdall#5",
+                    "positionSavedX": 1280.0,
                     "positionSavedY": 40.0
                 }
             },
             {
-                "rid": 1012,
+                "rid": 1005,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2414,7 +844,54 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Probandooooo probandooooo"
+                        {
+                            "translations": [
+                                "See you soon",
+                                "Nada, nos vemos otro día"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "condition": {
+                        "instanceID": 0
+                    },
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Heimdall#7",
+                    "positionSavedX": 820.0,
+                    "positionSavedY": -180.0
+                }
+            },
+            {
+                "rid": 1006,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "ALKSJNDALKJSNDA",
+                                "¡Ay, ay, ay! ¡La valiente Skuld! Ven aquí y baila conmigo, ¡que esta noche los barriles son nuestros tronos!​​dasda"
+                            ]
+                        }
                     ],
                     "allCharacter_Actitudes": [
                         ""
@@ -2425,24 +902,23 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Carlos",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": -940.0,
-                    "positionSavedY": -200.0
+                    "id": "Defend Asgard#2",
+                    "positionSavedX": -1180.0,
+                    "positionSavedY": -60.0
                 }
             },
             {
-                "rid": 1013,
+                "rid": 1007,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2450,25 +926,17 @@
                 },
                 "data": {
                     "type": 1,
-                    "connections": [
+                    "connections": [],
+                    "allSentences": [
                         {
-                            "rid": 1014
-                        },
-                        {
-                            "rid": 1015
-                        },
-                        {
-                            "rid": 1016
-                        },
-                        {
-                            "rid": 1017
+                            "translations": [
+                                "ASDLKAJSNDAKLJSD",
+                                "Gracias, ahora vete a defender otro reino. Espabila."
+                            ]
                         }
                     ],
-                    "allSentences": [
-                        "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor."
-                    ],
                     "allCharacter_Actitudes": [
-                        "Loki_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2476,24 +944,23 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
+                    "characterName": "Carlos",
                     "connectedFrameworkName": "",
-                    "showMissions": true,
+                    "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 300.0,
-                    "positionSavedY": -1240.0
+                    "id": "Talk to Odin#2",
+                    "positionSavedX": -1155.7056884765625,
+                    "positionSavedY": -887.0967407226563
                 }
             },
             {
-                "rid": 1014,
+                "rid": 1008,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2503,10 +970,17 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1018
+                            "rid": 1009
                         }
                     ],
-                    "allSentences": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Nothing",
+                                "Nada nos vemos luego"
+                            ]
+                        }
+                    ],
                     "allCharacter_Actitudes": [],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2519,133 +993,18 @@
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué ocurre en Asgard?",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1050.3692626953125
+                    "id": "Odin#2",
+                    "positionSavedX": 380.0,
+                    "positionSavedY": -860.0
                 }
             },
             {
-                "rid": 1015,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1019
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Qué tramas?, Loki",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1150.369384765625
-                }
-            },
-            {
-                "rid": 1016,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1020
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Puedo confiar en ti?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 720.0,
-                    "positionSavedY": -1260.0
-                }
-            },
-            {
-                "rid": 1017,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1021
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Déjame, Loki. Voy a Asgard.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 709.6309204101563,
-                    "positionSavedY": -1370.369384765625
-                }
-            },
-            {
-                "rid": 1018,
+                "rid": 1009,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -2655,175 +1014,15 @@
                     "type": 1,
                     "connections": [],
                     "allSentences": [
-                        "Hela ha sembrado corrupción en Asgard. Y su heraldo... tiene alas negras y memoria amarga."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1089.630126953125,
-                    "positionSavedY": -970.3692016601563
-                }
-            },
-            {
-                "rid": 1019,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Yo, ¿tramar? Solo disfruto viendo como se enredan los hilos del destino. Caos puro... delicioso."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1170.369384765625
-                }
-            },
-            {
-                "rid": 1020,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Ja, ja, ja... Confiar en mí es siempre un riesgo... pero también es divertido, ¿no crees?"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1109.630126953125,
-                    "positionSavedY": -1370.369384765625
-                }
-            },
-            {
-                "rid": 1021,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Entonces cruza el portal. Asgard te espera... si te atreves."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Loki_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Loki",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1129.630126953125,
-                    "positionSavedY": -1610.369384765625
-                }
-            },
-            {
-                "rid": 1022,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [
                         {
-                            "rid": 1023
-                        },
-                        {
-                            "rid": 1024
-                        },
-                        {
-                            "rid": 1025
-                        },
-                        {
-                            "rid": 1026
+                            "translations": [
+                                "Then shut up and go already.",
+                                "Vale"
+                            ]
                         }
                     ],
-                    "allSentences": [
-                        "Los bosques de Alfheim han dejado de cantar."
-                    ],
                     "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
+                        "Odin_Normal"
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2831,679 +1030,19 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
+                    "characterName": "Odin",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
                     "condition": {
                         "instanceID": 0
                     },
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 307.3975830078125,
-                    "positionSavedY": -2338.525146484375
-                }
-            },
-            {
-                "rid": 1023,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1027
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Esto es cosa de Hela?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 707.3980712890625,
-                    "positionSavedY": -2218.525634765625
-                }
-            },
-            {
-                "rid": 1024,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1028
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Dónde está Idunn?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2325.057861328125
-                }
-            },
-            {
-                "rid": 1025,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1029
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Y los elfos de luz?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 707.3981323242188,
-                    "positionSavedY": -2445.057373046875
-                }
-            },
-            {
-                "rid": 1026,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1030
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Vuelve a tocar Durkal. Yo me encargo de Alfheim",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 710.5139770507813,
-                    "positionSavedY": -2623.502197265625
-                }
-            },
-            {
-                "rid": 1027,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Sí. Su sombra se extiende, y los elfos oscuros marchan a su llamada."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2105.057861328125
-                }
-            },
-            {
-                "rid": 1028,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "La dulce Idunn ha sido capturada... encerrada en un Nhar-Du."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2305.057861328125
-                }
-            },
-            {
-                "rid": 1029,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Uno a uno caen en la oscuridad. Pero aún esperan... una chispa de esperanza"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1147.3975830078125,
-                    "positionSavedY": -2505.057373046875
-                }
-            },
-            {
-                "rid": 1030,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Mis cuerdas vibrarán por ti, Skuld. Que su eco te guíe en la batalla."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Dúrkal_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Dúrkal",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1150.51318359375,
-                    "positionSavedY": -2743.502197265625
-                }
-            },
-            {
-                "rid": 1031,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [
-                        {
-                            "rid": 1033
-                        },
-                        {
-                            "rid": 1034
-                        },
-                        {
-                            "rid": 1035
-                        },
-                        {
-                            "rid": 1036
-                        }
-                    ],
-                    "allSentences": [
-                        "Skuld... Jotunheim está bajo ataque"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 3,
-                    "positionSavedX": 279.0428771972656,
-                    "positionSavedY": -3502.87646484375
-                }
-            },
-            {
-                "rid": 1032,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "He pasado por tormentas peores... pero esta vez la escarcha muerde hasta los huesos."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 4,
-                    "positionSavedX": 1072.00390625,
-                    "positionSavedY": -3307.93798828125
-                }
-            },
-            {
-                "rid": 1033,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1032
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Estás gravemente herido.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 2,
-                    "positionSavedX": 652.0037841796875,
-                    "positionSavedY": -3307.93798828125
-                }
-            },
-            {
-                "rid": 1034,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1037
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Y el ejército de gigantes de Jotunheim?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 5,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3467.93798828125
-                }
-            },
-            {
-                "rid": 1035,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1038
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "¿Está allí Hela?",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 7,
-                    "positionSavedX": 692.0037841796875,
-                    "positionSavedY": -3647.93798828125
-                }
-            },
-            {
-                "rid": 1036,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1039
-                        }
-                    ],
-                    "allSentences": [],
-                    "allCharacter_Actitudes": [],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "Descansa, Manny. Yo me encargaré de esto.",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 9,
-                    "positionSavedX": 672.0037841796875,
-                    "positionSavedY": -3887.93798828125
-                }
-            },
-            {
-                "rid": 1037,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Las tropas de Hela están corrompiendo a mis hermanos. Los que no caen... se vuelven contra nosotros."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 6,
-                    "positionSavedX": 1112.0037841796875,
-                    "positionSavedY": -3487.93798828125
-                }
-            },
-            {
-                "rid": 1038,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "No lo sé. No la vi... pero sentí su sombra, extendiéndose por el hielo. De ella nacían sus siervos."
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 8,
-                    "positionSavedX": 1132.00390625,
-                    "positionSavedY": -3707.93798828125
-                }
-            },
-            {
-                "rid": 1039,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        "Skuld... no dejes que te atrape también a ti. Esa sombra no solo corrompe cuerpos... también dobla la voluntad"
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Manny_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Manny",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "answerText": "",
-                    "condition": {
-                        "instanceID": 0
-                    },
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": 10,
-                    "positionSavedX": 1152.00390625,
-                    "positionSavedY": -3927.93798828125
+                    "id": "Odin#3",
+                    "positionSavedX": 740.0,
+                    "positionSavedY": -860.0
                 }
             }
         ]
