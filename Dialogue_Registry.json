@@ -38,7 +38,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#1",
-                    "positionSavedX": 980.0,
+                    "positionSavedX": 1020.0,
                     "positionSavedY": 2260.0
                 },
                 {
@@ -72,7 +72,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#2",
-                    "positionSavedX": 1580.0,
+                    "positionSavedX": 1620.0,
                     "positionSavedY": 2420.0
                 },
                 {
@@ -104,7 +104,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2120.0,
+                    "positionSavedX": 2160.0,
                     "positionSavedY": 2500.0
                 },
                 {
@@ -138,7 +138,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#6",
-                    "positionSavedX": 1500.0,
+                    "positionSavedX": 1540.0,
                     "positionSavedY": 2240.0
                 },
                 {
@@ -170,7 +170,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#7",
-                    "positionSavedX": 2140.0,
+                    "positionSavedX": 2180.0,
                     "positionSavedY": 2240.0
                 },
                 {
@@ -206,7 +206,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#8",
-                    "positionSavedX": 460.0,
+                    "positionSavedX": 500.0,
                     "positionSavedY": 2240.0
                 },
                 {
@@ -242,7 +242,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#9",
-                    "positionSavedX": 2060.0,
+                    "positionSavedX": 2100.0,
                     "positionSavedY": 2960.0
                 },
                 {
@@ -278,7 +278,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#10",
-                    "positionSavedX": 2660.0,
+                    "positionSavedX": 2700.0,
                     "positionSavedY": 2960.0
                 },
                 {
@@ -310,7 +310,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#11",
-                    "positionSavedX": 3220.0,
+                    "positionSavedX": 3260.0,
                     "positionSavedY": 2960.0
                 },
                 {
@@ -341,7 +341,7 @@
                         }
                     ],
                     "id": "Heimdall#12",
-                    "positionSavedX": -100.0,
+                    "positionSavedX": -60.0,
                     "positionSavedY": 2320.0
                 },
                 {
@@ -372,7 +372,7 @@
                         }
                     ],
                     "id": "Heimdall#13",
-                    "positionSavedX": 400.0,
+                    "positionSavedX": 440.0,
                     "positionSavedY": 2660.0
                 },
                 {
@@ -404,7 +404,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#14",
-                    "positionSavedX": 920.0,
+                    "positionSavedX": 960.0,
                     "positionSavedY": 2540.0
                 },
                 {
@@ -435,7 +435,7 @@
                         }
                     ],
                     "id": "Heimdall#15",
-                    "positionSavedX": 920.0,
+                    "positionSavedX": 960.0,
                     "positionSavedY": 2860.0
                 },
                 {
@@ -467,7 +467,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#16",
-                    "positionSavedX": 1460.0,
+                    "positionSavedX": 1500.0,
                     "positionSavedY": 2780.0
                 },
                 {
@@ -498,7 +498,7 @@
                         }
                     ],
                     "id": "Heimdall#17",
-                    "positionSavedX": 1460.0,
+                    "positionSavedX": 1500.0,
                     "positionSavedY": 3040.0
                 },
                 {
@@ -529,7 +529,7 @@
                         }
                     ],
                     "id": "Heimdall#18",
-                    "positionSavedX": 2040.0,
+                    "positionSavedX": 2080.0,
                     "positionSavedY": 3240.0
                 },
                 {
@@ -561,7 +561,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#19",
-                    "positionSavedX": 2520.0,
+                    "positionSavedX": 2560.0,
                     "positionSavedY": 3160.0
                 },
                 {
@@ -592,7 +592,7 @@
                         }
                     ],
                     "id": "Heimdall#20",
-                    "positionSavedX": 2500.0,
+                    "positionSavedX": 2540.0,
                     "positionSavedY": 3440.0
                 },
                 {
@@ -624,7 +624,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#21",
-                    "positionSavedX": 3020.0,
+                    "positionSavedX": 3060.0,
                     "positionSavedY": 3360.0
                 },
                 {
@@ -655,7 +655,7 @@
                         }
                     ],
                     "id": "Heimdall#22",
-                    "positionSavedX": 3020.0,
+                    "positionSavedX": 3060.0,
                     "positionSavedY": 3620.0
                 },
                 {
@@ -691,7 +691,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#23",
-                    "positionSavedX": 3500.0,
+                    "positionSavedX": 3540.0,
                     "positionSavedY": 3540.0
                 },
                 {
@@ -723,7 +723,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#24",
-                    "positionSavedX": 3980.0,
+                    "positionSavedX": 4020.0,
                     "positionSavedY": 3540.0
                 },
                 {
@@ -750,7 +750,7 @@
                         }
                     ],
                     "id": "Heimdall#25",
-                    "positionSavedX": 3500.0,
+                    "positionSavedX": 3540.0,
                     "positionSavedY": 3860.0
                 },
                 {
@@ -782,12 +782,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#26",
-                    "positionSavedX": 4000.0,
+                    "positionSavedX": 4040.0,
                     "positionSavedY": 3780.0
                 }
             ],
             "chainName": "Heimdall",
-            "positionSavedX": 1950.0,
+            "positionSavedX": 1990.0,
             "positionSavedY": 3050.0,
             "questCategory": 0,
             "questNameTranslated": {
@@ -935,17 +935,21 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#1",
-                    "positionSavedX": -1660.0,
+                    "positionSavedX": -1920.0,
                     "positionSavedY": -880.0
                 },
                 {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1025
+                        }
+                    ],
                     "allSentences": [
                         {
                             "translations": [
                                 "Thank you for defending Asgard, but there is more work to do",
-                                "Gracias, ahora vete a defender otro reino. Espabila."
+                                "Más allá te espera Alfheim, hermoso... pero herido."
                             ]
                         }
                     ],
@@ -967,12 +971,44 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1160.0,
+                    "positionSavedX": -1420.0,
+                    "positionSavedY": -880.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Idunn está allí, prisionera. Tráela de vuelta antes de que Hela llegue a ella."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin#3",
+                    "positionSavedX": -960.0,
                     "positionSavedY": -880.0
                 }
             ],
             "chainName": "Talk to Odin",
-            "positionSavedX": -1410.0,
+            "positionSavedX": -1440.0,
             "positionSavedY": -880.0,
             "questCategory": 1,
             "questNameTranslated": {
@@ -1019,61 +1055,27 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1025
-                        }
-                    ],
-                    "allSentences": [
-                        {
-                            "translations": [
-                                "Hey what up?",
-                                "Skuld, qué necesitas?"
-                            ]
-                        }
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Odin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Odin",
-                    "connectedFrameworkName": "",
-                    "showMissions": true,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "conditionName": "",
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": "Odin#1",
-                    "positionSavedX": 4858.71728515625,
-                    "positionSavedY": -1934.0924072265625
-                },
-                {
-                    "type": 2,
-                    "connections": [
-                        {
                             "rid": 1026
                         }
                     ],
                     "allSentences": [
                         {
                             "translations": [
-                                "Nothing",
-                                "Nada nos vemos luego"
+                                "Hey what up?",
+                                "¿Odín, me has convocado?"
                             ]
                         }
                     ],
-                    "allCharacter_Actitudes": [],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Skuld",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
@@ -1081,18 +1083,22 @@
                     "conditionName": "",
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": "Odin#2",
-                    "positionSavedX": 5218.71826171875,
-                    "positionSavedY": -1934.0924072265625
+                    "id": "Odin#1",
+                    "positionSavedX": 393.8447570800781,
+                    "positionSavedY": -3720.0
                 },
                 {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1027
+                        }
+                    ],
                     "allSentences": [
                         {
                             "translations": [
                                 "Then shut up and go already.",
-                                "Vale"
+                                "Has dado tus primeros pasos en esta senda, Skuld."
                             ]
                         }
                     ],
@@ -1114,13 +1120,445 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Odin#3",
-                    "positionSavedX": 5578.720703125,
-                    "positionSavedY": -1934.0924072265625
+                    "positionSavedX": 873.8447265625,
+                    "positionSavedY": -3720.0
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con odin",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1028
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1029
+                        }
+                    ],
+                    "id": "Odin#4",
+                    "positionSavedX": -106.15525817871094,
+                    "positionSavedY": -3640.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1030
+                        },
+                        {
+                            "rid": 1031
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Asgard reconoce tu valor.\n"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#5",
+                    "positionSavedX": 1313.8448486328125,
+                    "positionSavedY": -3720.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1032
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Es un honor"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#6",
+                    "positionSavedX": 1713.8448486328125,
+                    "positionSavedY": -3640.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Cada paso que das fortalece los hilos del destino. Sigue, Skuld... aún queda mucho por tejer."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#7",
+                    "positionSavedX": 2133.8447265625,
+                    "positionSavedY": -3640.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1033
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "El poder de Hela proviene de lo más profundo del Helheim. "
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#8",
+                    "positionSavedX": 2153.8447265625,
+                    "positionSavedY": -3820.0
+                },
+                {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1034
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Hela"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#9",
+                    "positionSavedX": 1713.8448486328125,
+                    "positionSavedY": -3740.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Y parece que el castigo que le impuse la hizo más poderosa."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#10",
+                    "positionSavedX": 2633.8447265625,
+                    "positionSavedY": -3820.0
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con heimdall (III)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1035
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1036
+                        }
+                    ],
+                    "id": "Odin#11",
+                    "positionSavedX": 373.8447570800781,
+                    "positionSavedY": -3380.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "No te demores, Skuld. Necesita a Idunn en esta guerra."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#12",
+                    "positionSavedX": 853.8447265625,
+                    "positionSavedY": -3460.0
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1037
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1038
+                        }
+                    ],
+                    "id": "Odin#13",
+                    "positionSavedX": 853.8447265625,
+                    "positionSavedY": -3220.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "No te demores, Skuld. Necesita a Idunn en esta guerra."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#14",
+                    "positionSavedX": 1373.8448486328125,
+                    "positionSavedY": -3300.0
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1039
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Has devuelto la luz a Alfheim, Skuld"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#15",
+                    "positionSavedX": 1353.8448486328125,
+                    "positionSavedY": -3060.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Pero no te engañes, la sombra de Hela sigue creciendo."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#16",
+                    "positionSavedX": 1893.8448486328125,
+                    "positionSavedY": -3060.0
                 }
             ],
             "chainName": "Odin",
-            "positionSavedX": 5218.71875,
-            "positionSavedY": -1934.0924072265625,
+            "positionSavedX": 1263.8447265625,
+            "positionSavedY": -3440.0,
             "questCategory": 0,
             "questNameTranslated": {
                 "translations": []
@@ -1143,7 +1581,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1027
+                            "rid": 1040
                         }
                     ],
                     "allSentences": [],
@@ -1247,7 +1685,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1028
+                            "rid": 1041
                         }
                     ],
                     "allSentences": [],
@@ -1351,7 +1789,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1029
+                            "rid": 1042
                         }
                     ],
                     "allSentences": [],
@@ -1458,7 +1896,7 @@
                         {
                             "translations": [
                                 "",
-                                "Tienes mucho poder en tus manos. Ahora te explica a usarlo asinque abre tu inventario."
+                                "Tienes mucho poder en tus manos. Ahora te explico a usarlo asinque abre tu inventario."
                             ]
                         }
                     ],
@@ -1502,12 +1940,12 @@
                     "conditionName": "Victory in Asgard Easy (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1030
+                            "rid": 1043
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1031
+                            "rid": 1044
                         }
                     ],
                     "id": "Hugin#4",
@@ -1533,12 +1971,12 @@
                     "conditionName": "Habla con heimdall",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1032
+                            "rid": 1045
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1033
+                            "rid": 1046
                         }
                     ],
                     "id": "Hugin#5",
@@ -1613,7 +2051,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1034
+                            "rid": 1047
                         }
                     ],
                     "allSentences": [
@@ -1664,12 +2102,12 @@
                     "conditionName": "Habla con hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1035
+                            "rid": 1048
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1036
+                            "rid": 1049
                         }
                     ],
                     "id": "Hugin#10",
@@ -1695,12 +2133,12 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1037
+                            "rid": 1050
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1038
+                            "rid": 1051
                         }
                     ],
                     "id": "Hugin#11",
@@ -1758,12 +2196,12 @@
                     "conditionName": "Victory in Asgard Normal (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1039
+                            "rid": 1052
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1040
+                            "rid": 1053
                         }
                     ],
                     "id": "Hugin#13",
@@ -1821,12 +2259,12 @@
                     "conditionName": "Habla con odin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1041
+                            "rid": 1054
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1042
+                            "rid": 1055
                         }
                     ],
                     "id": "Hugin#15",
@@ -1837,7 +2275,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1043
+                            "rid": 1056
                         }
                     ],
                     "allSentences": [
@@ -1873,7 +2311,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1044
+                            "rid": 1057
                         }
                     ],
                     "allSentences": [
@@ -1956,12 +2394,12 @@
                     "conditionName": "Habla con heimdall (III)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1045
+                            "rid": 1058
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1046
+                            "rid": 1059
                         }
                     ],
                     "id": "Hugin#19",
@@ -1972,7 +2410,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1047
+                            "rid": 1060
                         }
                     ],
                     "allSentences": [
@@ -2056,7 +2494,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1048
+                            "rid": 1061
                         }
                     ],
                     "id": "Hugin#22",
@@ -2121,7 +2559,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1049
+                            "rid": 1062
                         }
                     ],
                     "allSentences": [
@@ -2150,14 +2588,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#1",
-                    "positionSavedX": 665.3412475585938,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 520.0,
+                    "positionSavedY": -2380.770263671875
                 },
                 {
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1050
+                            "rid": 1063
                         }
                     ],
                     "allSentences": [
@@ -2186,14 +2624,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#2",
-                    "positionSavedX": 1165.3408203125,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 1020.0,
+                    "positionSavedY": -2380.770263671875
                 },
                 {
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1051
+                            "rid": 1064
                         }
                     ],
                     "allSentences": [
@@ -2222,8 +2660,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#3",
-                    "positionSavedX": 1705.340576171875,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 1560.0,
+                    "positionSavedY": -2380.770263671875
                 },
                 {
                     "type": 1,
@@ -2254,20 +2692,20 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#4",
-                    "positionSavedX": 2225.34326171875,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 2080.0,
+                    "positionSavedY": -2380.770263671875
                 },
                 {
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1052
+                            "rid": 1065
                         },
                         {
-                            "rid": 1053
+                            "rid": 1066
                         },
                         {
-                            "rid": 1054
+                            "rid": 1067
                         }
                     ],
                     "allSentences": [
@@ -2296,14 +2734,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#5",
-                    "positionSavedX": 2465.3427734375,
-                    "positionSavedY": -1675.5672607421875
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1440.7705078125
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1055
+                            "rid": 1068
                         }
                     ],
                     "allSentences": [
@@ -2330,14 +2768,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#6",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1798.05029296875
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1660.7705078125
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1056
+                            "rid": 1069
                         }
                     ],
                     "allSentences": [
@@ -2364,14 +2802,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#7",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1718.0504150390625
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1560.7705078125
                 },
                 {
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1057
+                            "rid": 1070
                         }
                     ],
                     "allSentences": [
@@ -2398,14 +2836,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#8",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1638.0504150390625
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1480.7705078125
                 },
                 {
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1058
+                            "rid": 1071
                         }
                     ],
                     "allSentences": [
@@ -2434,8 +2872,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#9",
-                    "positionSavedX": 3345.3427734375,
-                    "positionSavedY": -1915.566650390625
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1800.7705078125
                 },
                 {
                     "type": 1,
@@ -2466,8 +2904,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#10",
-                    "positionSavedX": 3338.57177734375,
-                    "positionSavedY": -1718.0504150390625
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1620.7705078125
                 },
                 {
                     "type": 1,
@@ -2498,8 +2936,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#11",
-                    "positionSavedX": 3338.57177734375,
-                    "positionSavedY": -1538.05078125
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1460.7705078125
                 },
                 {
                     "type": 3,
@@ -2520,17 +2958,17 @@
                     "conditionName": "Habla con heimdall",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1059
+                            "rid": 1072
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1060
+                            "rid": 1073
                         }
                     ],
                     "id": "Loki#13",
-                    "positionSavedX": 45.57731628417969,
-                    "positionSavedY": -2541.4609375
+                    "positionSavedX": -100.0,
+                    "positionSavedY": -2300.770263671875
                 },
                 {
                     "type": 3,
@@ -2551,17 +2989,17 @@
                     "conditionName": "Victory in Asgard Easy (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1061
+                            "rid": 1074
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1062
+                            "rid": 1075
                         }
                     ],
                     "id": "Loki#14",
-                    "positionSavedX": 585.3411865234375,
-                    "positionSavedY": -2275.566650390625
+                    "positionSavedX": 440.0,
+                    "positionSavedY": -2040.770263671875
                 },
                 {
                     "type": 1,
@@ -2592,8 +3030,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#15",
-                    "positionSavedX": 1045.3408203125,
-                    "positionSavedY": -2355.56689453125
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -2120.770263671875
                 },
                 {
                     "type": 3,
@@ -2614,17 +3052,17 @@
                     "conditionName": "Habla con hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1063
+                            "rid": 1076
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1064
+                            "rid": 1077
                         }
                     ],
                     "id": "Loki#16",
-                    "positionSavedX": 1045.3408203125,
-                    "positionSavedY": -2075.56689453125
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -1840.7705078125
                 },
                 {
                     "type": 1,
@@ -2655,8 +3093,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#17",
-                    "positionSavedX": 1525.340576171875,
-                    "positionSavedY": -2155.566650390625
+                    "positionSavedX": 1380.0,
+                    "positionSavedY": -1920.7705078125
                 },
                 {
                     "type": 3,
@@ -2677,23 +3115,23 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1065
+                            "rid": 1078
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1066
+                            "rid": 1079
                         }
                     ],
                     "id": "Loki#18",
-                    "positionSavedX": 1525.340576171875,
-                    "positionSavedY": -1855.566650390625
+                    "positionSavedX": 1380.0,
+                    "positionSavedY": -1620.7705078125
                 },
                 {
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1067
+                            "rid": 1080
                         }
                     ],
                     "allSentences": [
@@ -2722,8 +3160,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#19",
-                    "positionSavedX": 1985.340576171875,
-                    "positionSavedY": -1935.566650390625
+                    "positionSavedX": 1840.0,
+                    "positionSavedY": -1700.7705078125
                 },
                 {
                     "type": 1,
@@ -2754,8 +3192,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#20",
-                    "positionSavedX": 2465.3427734375,
-                    "positionSavedY": -1935.566650390625
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1700.7705078125
                 },
                 {
                     "type": 3,
@@ -2776,17 +3214,17 @@
                     "conditionName": "Victory in Asgard Normal (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1068
+                            "rid": 1081
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1069
+                            "rid": 1082
                         }
                     ],
                     "id": "Loki#21",
-                    "positionSavedX": 1985.340576171875,
-                    "positionSavedY": -1595.5673828125
+                    "positionSavedX": 1840.0,
+                    "positionSavedY": -1360.7705078125
                 },
                 {
                     "type": 1,
@@ -2817,8 +3255,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#22",
-                    "positionSavedX": 3845.3427734375,
-                    "positionSavedY": -1915.566650390625
+                    "positionSavedX": 3740.0,
+                    "positionSavedY": -1800.7705078125
                 },
                 {
                     "type": 3,
@@ -2837,16 +3275,250 @@
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
                     "conditionName": "Habla con odin",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1083
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1084
+                        }
+                    ],
+                    "id": "Loki#23",
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1120.7705078125
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1085
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Hugin, tienes cara de haber visto un fantasma. Ja, ja..."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": "Loki#23",
-                    "positionSavedX": 2480.0,
-                    "positionSavedY": -1420.0
+                    "id": "Loki#24",
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1220.7705078125
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1086
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¡Para, Loki!"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#25",
+                    "positionSavedX": 3240.0,
+                    "positionSavedY": -1220.7705078125
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Ja,ja... Tranquila, solo quería alegrar el ambiente."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#26",
+                    "positionSavedX": 3720.0,
+                    "positionSavedY": -1220.7705078125
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¿No te cansas de seguir órdenes de Odín todo el tiempo?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#27",
+                    "positionSavedX": 3260.0,
+                    "positionSavedY": -980.770751953125
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con heimdall (III)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1087
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1088
+                        }
+                    ],
+                    "id": "Loki#28",
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -900.770751953125
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1089
+                        }
+                    ],
+                    "id": "Loki#29",
+                    "positionSavedX": 3260.0,
+                    "positionSavedY": -700.770751953125
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Qué pena por Alfheim, los elfos me caían bien. Ellos saben cómo divertirse"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#30",
+                    "positionSavedX": 3720.0,
+                    "positionSavedY": -780.770751953125
                 }
             ],
             "chainName": "Loki",
-            "positionSavedX": 1945.4600830078125,
-            "positionSavedY": -2017.784423828125,
+            "positionSavedX": 1820.0,
+            "positionSavedY": -1540.7705078125,
             "questCategory": 0,
             "questNameTranslated": {
                 "translations": []
@@ -2869,7 +3541,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1070
+                            "rid": 1090
                         }
                     ],
                     "allSentences": [],
@@ -2973,7 +3645,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1071
+                            "rid": 1091
                         }
                     ],
                     "allSentences": [],
@@ -3000,7 +3672,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1072
+                            "rid": 1092
                         }
                     ],
                     "allSentences": [
@@ -3106,6 +3778,402 @@
                 "None",
                 "None"
             ]
+        },
+        {
+            "elements": [
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1093
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Él mismísimo"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#1",
+                    "positionSavedX": 869.2239990234375,
+                    "positionSavedY": -4906.1552734375
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con odin",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1094
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1095
+                        }
+                    ],
+                    "id": "Durkal#2",
+                    "positionSavedX": -110.77592468261719,
+                    "positionSavedY": -4786.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1096
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¿Durkal, no?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#3",
+                    "positionSavedX": 369.22412109375,
+                    "positionSavedY": -4906.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1097
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "He escuchado tu música y es la mejor de los Nueve Reinos"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#4",
+                    "positionSavedX": 1349.2244873046875,
+                    "positionSavedY": -4906.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Es un honor que mi música haya llegado a tu oídos."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#5",
+                    "positionSavedX": 1849.2244873046875,
+                    "positionSavedY": -4906.1552734375
+                },
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1098
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1099
+                        }
+                    ],
+                    "id": "Durkal#6",
+                    "positionSavedX": 349.22412109375,
+                    "positionSavedY": -4566.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1100
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Durkal, ¿por qué no escucho vibrar tus cuerdas?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#7",
+                    "positionSavedX": 809.2239990234375,
+                    "positionSavedY": -4646.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1101
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Los bosques de Alfheim han dejado de cantar."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#8",
+                    "positionSavedX": 1309.2244873046875,
+                    "positionSavedY": -4646.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1102
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Vuelve a tocar Durkal. Yo me encargo de Alfheim"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#9",
+                    "positionSavedX": 1789.2244873046875,
+                    "positionSavedY": -4646.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Mis cuerdad vibrarán por ti, Skuld. Que su eco que guíe en la batalla"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#10",
+                    "positionSavedX": 2289.22412109375,
+                    "positionSavedY": -4646.1552734375
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Ahora los bosques de Alfheim suenan en su mayor esplendor."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#11",
+                    "positionSavedX": 809.2239990234375,
+                    "positionSavedY": -4446.1552734375
+                }
+            ],
+            "chainName": "Durkal",
+            "positionSavedX": 1089.22412109375,
+            "positionSavedY": -4676.1552734375,
+            "questCategory": 0,
+            "questNameTranslated": {
+                "translations": []
+            },
+            "questShortDescription": {
+                "translations": []
+            },
+            "questDescription": {
+                "translations": []
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false,
+            "conditions": [],
+            "activateQuest": []
         }
     ],
     "references": {
@@ -3149,7 +4217,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#2",
-                    "positionSavedX": 1580.0,
+                    "positionSavedX": 1620.0,
                     "positionSavedY": 2420.0
                 }
             },
@@ -3191,7 +4259,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#6",
-                    "positionSavedX": 1500.0,
+                    "positionSavedX": 1540.0,
                     "positionSavedY": 2240.0
                 }
             },
@@ -3231,7 +4299,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2120.0,
+                    "positionSavedX": 2160.0,
                     "positionSavedY": 2500.0
                 }
             },
@@ -3271,7 +4339,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#7",
-                    "positionSavedX": 2140.0,
+                    "positionSavedX": 2180.0,
                     "positionSavedY": 2240.0
                 }
             },
@@ -3318,7 +4386,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#1",
-                    "positionSavedX": 980.0,
+                    "positionSavedX": 1020.0,
                     "positionSavedY": 2260.0
                 }
             },
@@ -3362,7 +4430,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#10",
-                    "positionSavedX": 2660.0,
+                    "positionSavedX": 2700.0,
                     "positionSavedY": 2960.0
                 }
             },
@@ -3402,7 +4470,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#11",
-                    "positionSavedX": 3220.0,
+                    "positionSavedX": 3260.0,
                     "positionSavedY": 2960.0
                 }
             },
@@ -3441,7 +4509,7 @@
                         }
                     ],
                     "id": "Heimdall#13",
-                    "positionSavedX": 400.0,
+                    "positionSavedX": 440.0,
                     "positionSavedY": 2660.0
                 }
             },
@@ -3485,7 +4553,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#8",
-                    "positionSavedX": 460.0,
+                    "positionSavedX": 500.0,
                     "positionSavedY": 2240.0
                 }
             },
@@ -3524,7 +4592,7 @@
                         }
                     ],
                     "id": "Heimdall#15",
-                    "positionSavedX": 920.0,
+                    "positionSavedX": 960.0,
                     "positionSavedY": 2860.0
                 }
             },
@@ -3564,7 +4632,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#14",
-                    "positionSavedX": 920.0,
+                    "positionSavedX": 960.0,
                     "positionSavedY": 2540.0
                 }
             },
@@ -3603,7 +4671,7 @@
                         }
                     ],
                     "id": "Heimdall#17",
-                    "positionSavedX": 1460.0,
+                    "positionSavedX": 1500.0,
                     "positionSavedY": 3040.0
                 }
             },
@@ -3643,7 +4711,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#16",
-                    "positionSavedX": 1460.0,
+                    "positionSavedX": 1500.0,
                     "positionSavedY": 2780.0
                 }
             },
@@ -3682,7 +4750,7 @@
                         }
                     ],
                     "id": "Heimdall#18",
-                    "positionSavedX": 2040.0,
+                    "positionSavedX": 2080.0,
                     "positionSavedY": 3240.0
                 }
             },
@@ -3726,7 +4794,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#9",
-                    "positionSavedX": 2060.0,
+                    "positionSavedX": 2100.0,
                     "positionSavedY": 2960.0
                 }
             },
@@ -3765,7 +4833,7 @@
                         }
                     ],
                     "id": "Heimdall#20",
-                    "positionSavedX": 2500.0,
+                    "positionSavedX": 2540.0,
                     "positionSavedY": 3440.0
                 }
             },
@@ -3805,7 +4873,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#19",
-                    "positionSavedX": 2520.0,
+                    "positionSavedX": 2560.0,
                     "positionSavedY": 3160.0
                 }
             },
@@ -3844,7 +4912,7 @@
                         }
                     ],
                     "id": "Heimdall#22",
-                    "positionSavedX": 3020.0,
+                    "positionSavedX": 3060.0,
                     "positionSavedY": 3620.0
                 }
             },
@@ -3884,7 +4952,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#21",
-                    "positionSavedX": 3020.0,
+                    "positionSavedX": 3060.0,
                     "positionSavedY": 3360.0
                 }
             },
@@ -3919,7 +4987,7 @@
                         }
                     ],
                     "id": "Heimdall#25",
-                    "positionSavedX": 3500.0,
+                    "positionSavedX": 3540.0,
                     "positionSavedY": 3860.0
                 }
             },
@@ -3963,7 +5031,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#23",
-                    "positionSavedX": 3500.0,
+                    "positionSavedX": 3540.0,
                     "positionSavedY": 3540.0
                 }
             },
@@ -4003,7 +5071,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#24",
-                    "positionSavedX": 3980.0,
+                    "positionSavedX": 4020.0,
                     "positionSavedY": 3540.0
                 }
             },
@@ -4043,7 +5111,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#26",
-                    "positionSavedX": 4000.0,
+                    "positionSavedX": 4040.0,
                     "positionSavedY": 3780.0
                 }
             },
@@ -4096,12 +5164,16 @@
                 },
                 "data": {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1025
+                        }
+                    ],
                     "allSentences": [
                         {
                             "translations": [
                                 "Thank you for defending Asgard, but there is more work to do",
-                                "Gracias, ahora vete a defender otro reino. Espabila."
+                                "Más allá te espera Alfheim, hermoso... pero herido."
                             ]
                         }
                     ],
@@ -4123,7 +5195,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1160.0,
+                    "positionSavedX": -1420.0,
                     "positionSavedY": -880.0
                 }
             },
@@ -4135,28 +5207,26 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "type": 2,
-                    "connections": [
-                        {
-                            "rid": 1026
-                        }
-                    ],
+                    "type": 1,
+                    "connections": [],
                     "allSentences": [
                         {
                             "translations": [
-                                "Nothing",
-                                "Nada nos vemos luego"
+                                "",
+                                "Idunn está allí, prisionera. Tráela de vuelta antes de que Hela llegue a ella."
                             ]
                         }
                     ],
-                    "allCharacter_Actitudes": [],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
                     "secondarySentences": [],
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "",
+                    "characterName": "Odin",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
@@ -4164,9 +5234,9 @@
                     "conditionName": "",
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": "Odin#2",
-                    "positionSavedX": 5218.71826171875,
-                    "positionSavedY": -1934.0924072265625
+                    "id": "Talk to Odin#3",
+                    "positionSavedX": -960.0,
+                    "positionSavedY": -880.0
                 }
             },
             {
@@ -4178,12 +5248,16 @@
                 },
                 "data": {
                     "type": 1,
-                    "connections": [],
+                    "connections": [
+                        {
+                            "rid": 1027
+                        }
+                    ],
                     "allSentences": [
                         {
                             "translations": [
                                 "Then shut up and go already.",
-                                "Vale"
+                                "Has dado tus primeros pasos en esta senda, Skuld."
                             ]
                         }
                     ],
@@ -4205,12 +5279,553 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Odin#3",
-                    "positionSavedX": 5578.720703125,
-                    "positionSavedY": -1934.0924072265625
+                    "positionSavedX": 873.8447265625,
+                    "positionSavedY": -3720.0
                 }
             },
             {
                 "rid": 1027,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1030
+                        },
+                        {
+                            "rid": 1031
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Asgard reconoce tu valor.\n"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": true,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#5",
+                    "positionSavedX": 1313.8448486328125,
+                    "positionSavedY": -3720.0
+                }
+            },
+            {
+                "rid": 1028,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con heimdall (III)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1035
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1036
+                        }
+                    ],
+                    "id": "Odin#11",
+                    "positionSavedX": 373.8447570800781,
+                    "positionSavedY": -3380.0
+                }
+            },
+            {
+                "rid": 1029,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1026
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Hey what up?",
+                                "¿Odín, me has convocado?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#1",
+                    "positionSavedX": 393.8447570800781,
+                    "positionSavedY": -3720.0
+                }
+            },
+            {
+                "rid": 1030,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1032
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Es un honor"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#6",
+                    "positionSavedX": 1713.8448486328125,
+                    "positionSavedY": -3640.0
+                }
+            },
+            {
+                "rid": 1031,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 2,
+                    "connections": [
+                        {
+                            "rid": 1034
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Hela"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#9",
+                    "positionSavedX": 1713.8448486328125,
+                    "positionSavedY": -3740.0
+                }
+            },
+            {
+                "rid": 1032,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Cada paso que das fortalece los hilos del destino. Sigue, Skuld... aún queda mucho por tejer."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#7",
+                    "positionSavedX": 2133.8447265625,
+                    "positionSavedY": -3640.0
+                }
+            },
+            {
+                "rid": 1033,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Y parece que el castigo que le impuse la hizo más poderosa."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#10",
+                    "positionSavedX": 2633.8447265625,
+                    "positionSavedY": -3820.0
+                }
+            },
+            {
+                "rid": 1034,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1033
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "El poder de Hela proviene de lo más profundo del Helheim. "
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#8",
+                    "positionSavedX": 2153.8447265625,
+                    "positionSavedY": -3820.0
+                }
+            },
+            {
+                "rid": 1035,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1037
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1038
+                        }
+                    ],
+                    "id": "Odin#13",
+                    "positionSavedX": 853.8447265625,
+                    "positionSavedY": -3220.0
+                }
+            },
+            {
+                "rid": 1036,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "No te demores, Skuld. Necesita a Idunn en esta guerra."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#12",
+                    "positionSavedX": 853.8447265625,
+                    "positionSavedY": -3460.0
+                }
+            },
+            {
+                "rid": 1037,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1039
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Has devuelto la luz a Alfheim, Skuld"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#15",
+                    "positionSavedX": 1353.8448486328125,
+                    "positionSavedY": -3060.0
+                }
+            },
+            {
+                "rid": 1038,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "No te demores, Skuld. Necesita a Idunn en esta guerra."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#14",
+                    "positionSavedX": 1373.8448486328125,
+                    "positionSavedY": -3300.0
+                }
+            },
+            {
+                "rid": 1039,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Pero no te engañes, la sombra de Hela sigue creciendo."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Odin#16",
+                    "positionSavedX": 1893.8448486328125,
+                    "positionSavedY": -3060.0
+                }
+            },
+            {
+                "rid": 1040,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4250,7 +5865,7 @@
                 }
             },
             {
-                "rid": 1028,
+                "rid": 1041,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4290,7 +5905,7 @@
                 }
             },
             {
-                "rid": 1029,
+                "rid": 1042,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4330,7 +5945,7 @@
                 }
             },
             {
-                "rid": 1030,
+                "rid": 1043,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4355,12 +5970,12 @@
                     "conditionName": "Habla con hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1035
+                            "rid": 1048
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1036
+                            "rid": 1049
                         }
                     ],
                     "id": "Hugin#10",
@@ -4369,7 +5984,7 @@
                 }
             },
             {
-                "rid": 1031,
+                "rid": 1044,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4409,7 +6024,7 @@
                 }
             },
             {
-                "rid": 1032,
+                "rid": 1045,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4434,12 +6049,12 @@
                     "conditionName": "Victory in Asgard Easy (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1030
+                            "rid": 1043
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1031
+                            "rid": 1044
                         }
                     ],
                     "id": "Hugin#4",
@@ -4448,7 +6063,7 @@
                 }
             },
             {
-                "rid": 1033,
+                "rid": 1046,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4488,7 +6103,7 @@
                 }
             },
             {
-                "rid": 1034,
+                "rid": 1047,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4501,7 +6116,7 @@
                         {
                             "translations": [
                                 "",
-                                "Tienes mucho poder en tus manos. Ahora te explica a usarlo asinque abre tu inventario."
+                                "Tienes mucho poder en tus manos. Ahora te explico a usarlo asinque abre tu inventario."
                             ]
                         }
                     ],
@@ -4528,7 +6143,7 @@
                 }
             },
             {
-                "rid": 1035,
+                "rid": 1048,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4553,12 +6168,12 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1037
+                            "rid": 1050
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1038
+                            "rid": 1051
                         }
                     ],
                     "id": "Hugin#11",
@@ -4567,7 +6182,7 @@
                 }
             },
             {
-                "rid": 1036,
+                "rid": 1049,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4577,7 +6192,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1034
+                            "rid": 1047
                         }
                     ],
                     "allSentences": [
@@ -4611,7 +6226,7 @@
                 }
             },
             {
-                "rid": 1037,
+                "rid": 1050,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4636,12 +6251,12 @@
                     "conditionName": "Victory in Asgard Normal (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1039
+                            "rid": 1052
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1040
+                            "rid": 1053
                         }
                     ],
                     "id": "Hugin#13",
@@ -4650,7 +6265,7 @@
                 }
             },
             {
-                "rid": 1038,
+                "rid": 1051,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4690,7 +6305,7 @@
                 }
             },
             {
-                "rid": 1039,
+                "rid": 1052,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4715,12 +6330,12 @@
                     "conditionName": "Habla con odin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1041
+                            "rid": 1054
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1042
+                            "rid": 1055
                         }
                     ],
                     "id": "Hugin#15",
@@ -4729,7 +6344,7 @@
                 }
             },
             {
-                "rid": 1040,
+                "rid": 1053,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4769,7 +6384,7 @@
                 }
             },
             {
-                "rid": 1041,
+                "rid": 1054,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4794,12 +6409,12 @@
                     "conditionName": "Habla con heimdall (III)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1045
+                            "rid": 1058
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1046
+                            "rid": 1059
                         }
                     ],
                     "id": "Hugin#19",
@@ -4808,7 +6423,7 @@
                 }
             },
             {
-                "rid": 1042,
+                "rid": 1055,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4818,7 +6433,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1043
+                            "rid": 1056
                         }
                     ],
                     "allSentences": [
@@ -4852,7 +6467,7 @@
                 }
             },
             {
-                "rid": 1043,
+                "rid": 1056,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4862,7 +6477,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1044
+                            "rid": 1057
                         }
                     ],
                     "allSentences": [
@@ -4896,7 +6511,7 @@
                 }
             },
             {
-                "rid": 1044,
+                "rid": 1057,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4936,7 +6551,7 @@
                 }
             },
             {
-                "rid": 1045,
+                "rid": 1058,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4962,7 +6577,7 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1048
+                            "rid": 1061
                         }
                     ],
                     "id": "Hugin#22",
@@ -4971,7 +6586,7 @@
                 }
             },
             {
-                "rid": 1046,
+                "rid": 1059,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -4981,7 +6596,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1047
+                            "rid": 1060
                         }
                     ],
                     "allSentences": [
@@ -5015,7 +6630,7 @@
                 }
             },
             {
-                "rid": 1047,
+                "rid": 1060,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5055,7 +6670,7 @@
                 }
             },
             {
-                "rid": 1048,
+                "rid": 1061,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5095,7 +6710,7 @@
                 }
             },
             {
-                "rid": 1049,
+                "rid": 1062,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5105,7 +6720,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1050
+                            "rid": 1063
                         }
                     ],
                     "allSentences": [
@@ -5134,12 +6749,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#2",
-                    "positionSavedX": 1165.3408203125,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 1020.0,
+                    "positionSavedY": -2380.770263671875
                 }
             },
             {
-                "rid": 1050,
+                "rid": 1063,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5149,7 +6764,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1051
+                            "rid": 1064
                         }
                     ],
                     "allSentences": [
@@ -5178,12 +6793,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#3",
-                    "positionSavedX": 1705.340576171875,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 1560.0,
+                    "positionSavedY": -2380.770263671875
                 }
             },
             {
-                "rid": 1051,
+                "rid": 1064,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5218,12 +6833,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#4",
-                    "positionSavedX": 2225.34326171875,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 2080.0,
+                    "positionSavedY": -2380.770263671875
                 }
             },
             {
-                "rid": 1052,
+                "rid": 1065,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5233,7 +6848,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1055
+                            "rid": 1068
                         }
                     ],
                     "allSentences": [
@@ -5260,12 +6875,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#6",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1798.05029296875
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1660.7705078125
                 }
             },
             {
-                "rid": 1053,
+                "rid": 1066,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5275,7 +6890,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1056
+                            "rid": 1069
                         }
                     ],
                     "allSentences": [
@@ -5302,12 +6917,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#7",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1718.0504150390625
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1560.7705078125
                 }
             },
             {
-                "rid": 1054,
+                "rid": 1067,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5317,7 +6932,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1057
+                            "rid": 1070
                         }
                     ],
                     "allSentences": [
@@ -5344,12 +6959,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#8",
-                    "positionSavedX": 2898.57177734375,
-                    "positionSavedY": -1638.0504150390625
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1480.7705078125
                 }
             },
             {
-                "rid": 1055,
+                "rid": 1068,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5359,7 +6974,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1058
+                            "rid": 1071
                         }
                     ],
                     "allSentences": [
@@ -5388,12 +7003,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#9",
-                    "positionSavedX": 3345.3427734375,
-                    "positionSavedY": -1915.566650390625
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1800.7705078125
                 }
             },
             {
-                "rid": 1056,
+                "rid": 1069,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5428,12 +7043,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#10",
-                    "positionSavedX": 3338.57177734375,
-                    "positionSavedY": -1718.0504150390625
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1620.7705078125
                 }
             },
             {
-                "rid": 1057,
+                "rid": 1070,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5468,12 +7083,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#11",
-                    "positionSavedX": 3338.57177734375,
-                    "positionSavedY": -1538.05078125
+                    "positionSavedX": 3220.0,
+                    "positionSavedY": -1460.7705078125
                 }
             },
             {
-                "rid": 1058,
+                "rid": 1071,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5508,12 +7123,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#22",
-                    "positionSavedX": 3845.3427734375,
-                    "positionSavedY": -1915.566650390625
+                    "positionSavedX": 3740.0,
+                    "positionSavedY": -1800.7705078125
                 }
             },
             {
-                "rid": 1059,
+                "rid": 1072,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5538,21 +7153,21 @@
                     "conditionName": "Victory in Asgard Easy (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1061
+                            "rid": 1074
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1062
+                            "rid": 1075
                         }
                     ],
                     "id": "Loki#14",
-                    "positionSavedX": 585.3411865234375,
-                    "positionSavedY": -2275.566650390625
+                    "positionSavedX": 440.0,
+                    "positionSavedY": -2040.770263671875
                 }
             },
             {
-                "rid": 1060,
+                "rid": 1073,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5562,7 +7177,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1049
+                            "rid": 1062
                         }
                     ],
                     "allSentences": [
@@ -5591,12 +7206,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#1",
-                    "positionSavedX": 665.3412475585938,
-                    "positionSavedY": -2615.56884765625
+                    "positionSavedX": 520.0,
+                    "positionSavedY": -2380.770263671875
                 }
             },
             {
-                "rid": 1061,
+                "rid": 1074,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5621,21 +7236,21 @@
                     "conditionName": "Habla con hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1063
+                            "rid": 1076
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1064
+                            "rid": 1077
                         }
                     ],
                     "id": "Loki#16",
-                    "positionSavedX": 1045.3408203125,
-                    "positionSavedY": -2075.56689453125
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -1840.7705078125
                 }
             },
             {
-                "rid": 1062,
+                "rid": 1075,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5670,12 +7285,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#15",
-                    "positionSavedX": 1045.3408203125,
-                    "positionSavedY": -2355.56689453125
+                    "positionSavedX": 900.0,
+                    "positionSavedY": -2120.770263671875
                 }
             },
             {
-                "rid": 1063,
+                "rid": 1076,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5700,21 +7315,21 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1065
+                            "rid": 1078
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1066
+                            "rid": 1079
                         }
                     ],
                     "id": "Loki#18",
-                    "positionSavedX": 1525.340576171875,
-                    "positionSavedY": -1855.566650390625
+                    "positionSavedX": 1380.0,
+                    "positionSavedY": -1620.7705078125
                 }
             },
             {
-                "rid": 1064,
+                "rid": 1077,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5749,12 +7364,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#17",
-                    "positionSavedX": 1525.340576171875,
-                    "positionSavedY": -2155.566650390625
+                    "positionSavedX": 1380.0,
+                    "positionSavedY": -1920.7705078125
                 }
             },
             {
-                "rid": 1065,
+                "rid": 1078,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5779,21 +7394,21 @@
                     "conditionName": "Victory in Asgard Normal (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1068
+                            "rid": 1081
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1069
+                            "rid": 1082
                         }
                     ],
                     "id": "Loki#21",
-                    "positionSavedX": 1985.340576171875,
-                    "positionSavedY": -1595.5673828125
+                    "positionSavedX": 1840.0,
+                    "positionSavedY": -1360.7705078125
                 }
             },
             {
-                "rid": 1066,
+                "rid": 1079,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5803,7 +7418,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1067
+                            "rid": 1080
                         }
                     ],
                     "allSentences": [
@@ -5832,12 +7447,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#19",
-                    "positionSavedX": 1985.340576171875,
-                    "positionSavedY": -1935.566650390625
+                    "positionSavedX": 1840.0,
+                    "positionSavedY": -1700.7705078125
                 }
             },
             {
-                "rid": 1067,
+                "rid": 1080,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5872,12 +7487,12 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#20",
-                    "positionSavedX": 2465.3427734375,
-                    "positionSavedY": -1935.566650390625
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1700.7705078125
                 }
             },
             {
-                "rid": 1068,
+                "rid": 1081,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5900,15 +7515,23 @@
                     "isThisAnswerCheckpoint": false,
                     "goBackToAnswerCheckPoint": false,
                     "conditionName": "Habla con odin",
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1083
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1084
+                        }
+                    ],
                     "id": "Loki#23",
-                    "positionSavedX": 2480.0,
-                    "positionSavedY": -1420.0
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1120.7705078125
                 }
             },
             {
-                "rid": 1069,
+                "rid": 1082,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5918,13 +7541,13 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1052
+                            "rid": 1065
                         },
                         {
-                            "rid": 1053
+                            "rid": 1066
                         },
                         {
-                            "rid": 1054
+                            "rid": 1067
                         }
                     ],
                     "allSentences": [
@@ -5953,12 +7576,294 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#5",
-                    "positionSavedX": 2465.3427734375,
-                    "positionSavedY": -1675.5672607421875
+                    "positionSavedX": 2320.0,
+                    "positionSavedY": -1440.7705078125
                 }
             },
             {
-                "rid": 1070,
+                "rid": 1083,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con heimdall (III)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1087
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1088
+                        }
+                    ],
+                    "id": "Loki#28",
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -900.770751953125
+                }
+            },
+            {
+                "rid": 1084,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1085
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Hugin, tienes cara de haber visto un fantasma. Ja, ja..."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#24",
+                    "positionSavedX": 2780.0,
+                    "positionSavedY": -1220.7705078125
+                }
+            },
+            {
+                "rid": 1085,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1086
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¡Para, Loki!"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#25",
+                    "positionSavedX": 3240.0,
+                    "positionSavedY": -1220.7705078125
+                }
+            },
+            {
+                "rid": 1086,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Ja,ja... Tranquila, solo quería alegrar el ambiente."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#26",
+                    "positionSavedX": 3720.0,
+                    "positionSavedY": -1220.7705078125
+                }
+            },
+            {
+                "rid": 1087,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1089
+                        }
+                    ],
+                    "id": "Loki#29",
+                    "positionSavedX": 3260.0,
+                    "positionSavedY": -700.770751953125
+                }
+            },
+            {
+                "rid": 1088,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¿No te cansas de seguir órdenes de Odín todo el tiempo?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#27",
+                    "positionSavedX": 3260.0,
+                    "positionSavedY": -980.770751953125
+                }
+            },
+            {
+                "rid": 1089,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Qué pena por Alfheim, los elfos me caían bien. Ellos saben cómo divertirse"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Loki_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Loki",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Loki#30",
+                    "positionSavedX": 3720.0,
+                    "positionSavedY": -780.770751953125
+                }
+            },
+            {
+                "rid": 1090,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -5998,7 +7903,7 @@
                 }
             },
             {
-                "rid": 1071,
+                "rid": 1091,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -6008,7 +7913,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1072
+                            "rid": 1092
                         }
                     ],
                     "allSentences": [
@@ -6042,7 +7947,7 @@
                 }
             },
             {
-                "rid": 1072,
+                "rid": 1092,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -6079,6 +7984,429 @@
                     "id": "Talk to Hugin#3",
                     "positionSavedX": -920.0,
                     "positionSavedY": 740.0
+                }
+            },
+            {
+                "rid": 1093,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1097
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "He escuchado tu música y es la mejor de los Nueve Reinos"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#4",
+                    "positionSavedX": 1349.2244873046875,
+                    "positionSavedY": -4906.1552734375
+                }
+            },
+            {
+                "rid": 1094,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Victory in Alfheim (Level 2)",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1098
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1099
+                        }
+                    ],
+                    "id": "Durkal#6",
+                    "positionSavedX": 349.22412109375,
+                    "positionSavedY": -4566.1552734375
+                }
+            },
+            {
+                "rid": 1095,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1096
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "¿Durkal, no?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#3",
+                    "positionSavedX": 369.22412109375,
+                    "positionSavedY": -4906.1552734375
+                }
+            },
+            {
+                "rid": 1096,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1093
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Él mismísimo"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#1",
+                    "positionSavedX": 869.2239990234375,
+                    "positionSavedY": -4906.1552734375
+                }
+            },
+            {
+                "rid": 1097,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Es un honor que mi música haya llegado a tu oídos."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#5",
+                    "positionSavedX": 1849.2244873046875,
+                    "positionSavedY": -4906.1552734375
+                }
+            },
+            {
+                "rid": 1098,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Ahora los bosques de Alfheim suenan en su mayor esplendor."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#11",
+                    "positionSavedX": 809.2239990234375,
+                    "positionSavedY": -4446.1552734375
+                }
+            },
+            {
+                "rid": 1099,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1100
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Durkal, ¿por qué no escucho vibrar tus cuerdas?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#7",
+                    "positionSavedX": 809.2239990234375,
+                    "positionSavedY": -4646.1552734375
+                }
+            },
+            {
+                "rid": 1100,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1101
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Los bosques de Alfheim han dejado de cantar."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#8",
+                    "positionSavedX": 1309.2244873046875,
+                    "positionSavedY": -4646.1552734375
+                }
+            },
+            {
+                "rid": 1101,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1102
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Vuelve a tocar Durkal. Yo me encargo de Alfheim"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#9",
+                    "positionSavedX": 1789.2244873046875,
+                    "positionSavedY": -4646.1552734375
+                }
+            },
+            {
+                "rid": 1102,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "",
+                                "Mis cuerdad vibrarán por ti, Skuld. Que su eco que guíe en la batalla"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Dúrkal_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Dúrkal",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Durkal#10",
+                    "positionSavedX": 2289.22412109375,
+                    "positionSavedY": -4646.1552734375
                 }
             }
         ]
