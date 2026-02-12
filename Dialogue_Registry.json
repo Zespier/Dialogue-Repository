@@ -104,8 +104,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2220.0,
-                    "positionSavedY": 2480.0
+                    "positionSavedX": 2240.0,
+                    "positionSavedY": 2440.0
                 },
                 {
                     "type": 2,
@@ -964,6 +964,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -1043,6 +1046,12 @@
             "positionSavedY": -50.0,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "",
+                    ""
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -1186,6 +1195,12 @@
                 "translations": [
                     "Talk to Odin",
                     "Talk to Odin"
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    ""
                 ]
             },
             "questShortDescription": {
@@ -1869,6 +1884,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -1951,6 +1969,12 @@
                 "translations": [
                     "Defend Alfheim",
                     "Defend Alfheim"
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    ""
                 ]
             },
             "questShortDescription": {
@@ -2057,6 +2081,12 @@
                     "Defend Jotunheim"
                 ]
             },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    ""
+                ]
+            },
             "questShortDescription": {
                 "translations": [
                     "Defend Jotunheim",
@@ -2156,6 +2186,12 @@
             "positionSavedY": 1480.0,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "",
+                    ""
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -2944,6 +2980,9 @@
             "positionSavedY": 750.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4099,6 +4138,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -4181,6 +4223,12 @@
                 "translations": [
                     "",
                     ""
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "I have to go to Asgard.",
+                    "Tengo que ir a Asgard."
                 ]
             },
             "questShortDescription": {
@@ -4318,6 +4366,12 @@
             "positionSavedY": 740.0,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "",
+                    ""
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -4739,6 +4793,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -4791,6 +4848,9 @@
             "positionSavedY": -5440.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4847,6 +4907,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -4899,6 +4962,9 @@
             "positionSavedY": -5420.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4955,6 +5021,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -5007,6 +5076,9 @@
             "positionSavedY": -5920.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5063,6 +5135,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -5117,6 +5192,9 @@
             "questNameTranslated": {
                 "translations": []
             },
+            "questAnswerButtonText": {
+                "translations": []
+            },
             "questShortDescription": {
                 "translations": []
             },
@@ -5169,6 +5247,9 @@
             "positionSavedY": -5920.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5307,8 +5388,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2220.0,
-                    "positionSavedY": 2480.0
+                    "positionSavedX": 2240.0,
+                    "positionSavedY": 2440.0
                 }
             },
             {
