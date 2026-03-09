@@ -104,8 +104,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2220.0,
-                    "positionSavedY": 2480.0
+                    "positionSavedX": 2240.0,
+                    "positionSavedY": 2440.0
                 },
                 {
                     "type": 2,
@@ -958,10 +958,14 @@
                 }
             ],
             "chainName": "Heimdall",
+            "lockChainName": false,
             "positionSavedX": 2440.0,
             "positionSavedY": 3270.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -1002,8 +1006,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#1",
-                    "positionSavedX": -1660.0,
-                    "positionSavedY": -40.0
+                    "positionSavedX": -2084.662353515625,
+                    "positionSavedY": -992.4776000976563
                 },
                 {
                     "type": 1,
@@ -1034,15 +1038,22 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#2",
-                    "positionSavedX": -1120.0,
-                    "positionSavedY": -60.0
+                    "positionSavedX": -1544.66064453125,
+                    "positionSavedY": -1012.4776000976563
                 }
             ],
             "chainName": "Defend Asgard",
-            "positionSavedX": -1390.0,
-            "positionSavedY": -50.0,
+            "lockChainName": true,
+            "positionSavedX": -1814.6614990234375,
+            "positionSavedY": -1002.4775390625,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "Asgard under threat.",
+                    "Amenaza sobre Asgard."
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -1050,14 +1061,14 @@
             },
             "questShortDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Defend Asgard.",
+                    "Defiende Asgard."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Hela has arrived in Asgard, and she's not alone. Defend Asgard from her troops.",
+                    "Hela ha llegado a Asgard y no viene sola, defiende Asgarde de sus tropas."
                 ]
             },
             "questRewardMoney": 0,
@@ -1065,7 +1076,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 74546
                 },
                 {
                     "instanceID": 0
@@ -1106,8 +1117,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#1",
-                    "positionSavedX": -1920.0,
-                    "positionSavedY": -880.0
+                    "positionSavedX": -2362.832763671875,
+                    "positionSavedY": -1804.1104736328125
                 },
                 {
                     "type": 1,
@@ -1142,8 +1153,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1420.0,
-                    "positionSavedY": -880.0
+                    "positionSavedX": -1862.83251953125,
+                    "positionSavedY": -1804.1104736328125
                 },
                 {
                     "type": 1,
@@ -1174,30 +1185,37 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#3",
-                    "positionSavedX": -960.0,
-                    "positionSavedY": -880.0
+                    "positionSavedX": -1402.83349609375,
+                    "positionSavedY": -1804.1104736328125
                 }
             ],
             "chainName": "Talk to Odin",
-            "positionSavedX": -1440.0,
-            "positionSavedY": -880.0,
+            "lockChainName": true,
+            "positionSavedX": -1882.8331298828125,
+            "positionSavedY": -1804.1104736328125,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
-                    "Talk to Odin",
-                    "Talk to Odin"
+                    "The father of all.",
+                    "El padre de todos."
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "What is my next mission?",
+                    "¿Cuál es mi siguiente misión?"
                 ]
             },
             "questShortDescription": {
                 "translations": [
-                    "Short B",
-                    "Short B"
+                    "Talk to Odin.",
+                    "Habla con Odín."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "Long B",
-                    "Long B"
+                    "Odin, the father of all, awaits you on his throne.",
+                    "Odín, el padre de todos, te espera en su trono."
                 ]
             },
             "questRewardMoney": 0,
@@ -1205,7 +1223,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 78984
                 },
                 {
                     "instanceID": 0
@@ -1215,7 +1233,7 @@
                 }
             ],
             "activateQuest": [
-                "Defend Alfheim",
+                "Talk to Heimdall(III)",
                 "None",
                 "None"
             ]
@@ -1863,10 +1881,14 @@
                 }
             ],
             "chainName": "Odin",
+            "lockChainName": false,
             "positionSavedX": 1300.0,
             "positionSavedY": -3530.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -1907,8 +1929,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#1",
-                    "positionSavedX": -1700.0,
-                    "positionSavedY": -1560.0
+                    "positionSavedX": -2266.57421875,
+                    "positionSavedY": -3541.718505859375
                 },
                 {
                     "type": 1,
@@ -1939,30 +1961,37 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#2",
-                    "positionSavedX": -1200.0,
-                    "positionSavedY": -1560.0
+                    "positionSavedX": -1766.574462890625,
+                    "positionSavedY": -3541.718505859375
                 }
             ],
             "chainName": "Defend Alfheim",
-            "positionSavedX": -1450.0,
-            "positionSavedY": -1560.0,
+            "lockChainName": false,
+            "positionSavedX": -2016.5743408203125,
+            "positionSavedY": -3541.718505859375,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
-                    "Defend Alfheim",
-                    "Defend Alfheim"
+                    "Rescue",
+                    "Rescate"
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    ""
                 ]
             },
             "questShortDescription": {
                 "translations": [
-                    "Defend Alfheim",
-                    "Defend Alfheim"
+                    "Defend Alfheim and rescue Idunn.",
+                    "Defiende Alfheim y rescata a Idunn."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "Defend Alfheim",
-                    "Defend Alfheim"
+                    "The Dark Elves have joined Hela’s forces and have abducted Idunn.",
+                    "Los elfos oscuros se ha unido a las tropas de Hela y han raptado a Idunn. "
                 ]
             },
             "questRewardMoney": 0,
@@ -1970,7 +1999,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 99140
                 },
                 {
                     "instanceID": 0
@@ -1980,7 +2009,7 @@
                 }
             ],
             "activateQuest": [
-                "Defend Jotunheim",
+                "Talk to Odin(II)",
                 "None",
                 "None"
             ]
@@ -2011,8 +2040,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#1",
-                    "positionSavedX": -1680.0,
-                    "positionSavedY": -2200.0
+                    "positionSavedX": -2575.501220703125,
+                    "positionSavedY": -5412.82080078125
                 },
                 {
                     "type": 1,
@@ -2043,18 +2072,25 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#2",
-                    "positionSavedX": -1200.0,
-                    "positionSavedY": -2220.0
+                    "positionSavedX": -2095.50146484375,
+                    "positionSavedY": -5432.82080078125
                 }
             ],
             "chainName": "Defend Jotunheim",
-            "positionSavedX": -1440.0,
-            "positionSavedY": -2210.0,
+            "lockChainName": false,
+            "positionSavedX": -2335.50146484375,
+            "positionSavedY": -5422.82080078125,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
                     "Defend Jotunheim",
                     "Defend Jotunheim"
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    ""
                 ]
             },
             "questShortDescription": {
@@ -2115,8 +2151,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#1",
-                    "positionSavedX": -1660.0,
-                    "positionSavedY": 1480.0
+                    "positionSavedX": -1728.7034912109375,
+                    "positionSavedY": 1585.5087890625
                 },
                 {
                     "type": 1,
@@ -2147,15 +2183,22 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#2",
-                    "positionSavedX": -1160.0,
-                    "positionSavedY": 1480.0
+                    "positionSavedX": -1228.7034912109375,
+                    "positionSavedY": 1585.5087890625
                 }
             ],
             "chainName": "Asgard",
-            "positionSavedX": -1410.0,
-            "positionSavedY": 1480.0,
+            "lockChainName": true,
+            "positionSavedX": -1478.7034912109375,
+            "positionSavedY": 1585.5087890625,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "The Golden Kingdom",
+                    "El Reino Dorado."
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -2163,14 +2206,14 @@
             },
             "questShortDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Step through the portal and travel to Asgard.",
+                    "Atraviesa el portal y viaja a Asgard."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Heimdall has opened the portal to Asgard for you.",
+                    "Heimdall te ha abierto el portal de Asgard."
                 ]
             },
             "questRewardMoney": 0,
@@ -2178,7 +2221,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 84744
                 },
                 {
                     "instanceID": 0
@@ -2202,7 +2245,7 @@
                         {
                             "translations": [
                                 "You have a lot of power in your hands. Now I´ll explain how to use it, so open you inventory.",
-                                "Tienes mucho poder en tus manos. Ahora te explico a usarlo asinque abre tu inventario."
+                                "Tienes mucho poder en tus manos. Ahora te explico cómo usarlo, así que abre tu inventario."
                             ]
                         }
                     ],
@@ -2940,10 +2983,14 @@
                 }
             ],
             "chainName": "Hugin",
+            "lockChainName": false,
             "positionSavedX": 2140.0,
             "positionSavedY": 750.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4093,10 +4140,14 @@
                 }
             ],
             "chainName": "Loki",
+            "lockChainName": false,
             "positionSavedX": 2360.0,
             "positionSavedY": -1600.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4137,8 +4188,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#1",
-                    "positionSavedX": -1700.0,
-                    "positionSavedY": 2260.0
+                    "positionSavedX": -1659.3343505859375,
+                    "positionSavedY": 2411.365234375
                 },
                 {
                     "type": 1,
@@ -4169,30 +4220,37 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#2",
-                    "positionSavedX": -1220.0,
-                    "positionSavedY": 2260.0
+                    "positionSavedX": -1179.3343505859375,
+                    "positionSavedY": 2411.365234375
                 }
             ],
             "chainName": "Talk to Heimdall",
-            "positionSavedX": -1460.0,
-            "positionSavedY": 2260.0,
+            "lockChainName": true,
+            "positionSavedX": -1419.3343505859375,
+            "positionSavedY": 2411.365234375,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
-                    "",
-                    ""
+                    "The guardian of Bifröst.",
+                    "El guardián del Bifröst."
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "I have to go to Asgard.",
+                    "Tengo que ir a Asgard."
                 ]
             },
             "questShortDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Talk to Heimdall.",
+                    "Habla con Heimdall."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Heimdall, the guardian of Bifröst, wants to speak with you.",
+                    "Heimdall, el guardián del Bifröst quiere hablar contigo."
                 ]
             },
             "questRewardMoney": 0,
@@ -4200,7 +4258,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 103576
                 },
                 {
                     "instanceID": 0
@@ -4241,8 +4299,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#1",
-                    "positionSavedX": -1940.0,
-                    "positionSavedY": 740.0
+                    "positionSavedX": -2250.6484375,
+                    "positionSavedY": 732.7755737304688
                 },
                 {
                     "type": 1,
@@ -4277,8 +4335,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#2",
-                    "positionSavedX": -1420.0,
-                    "positionSavedY": 740.0
+                    "positionSavedX": -1730.6484375,
+                    "positionSavedY": 732.7755737304688
                 },
                 {
                     "type": 1,
@@ -4309,15 +4367,22 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#3",
-                    "positionSavedX": -920.0,
-                    "positionSavedY": 740.0
+                    "positionSavedX": -1230.648681640625,
+                    "positionSavedY": 732.7755737304688
                 }
             ],
             "chainName": "Talk to Hugin",
-            "positionSavedX": -1430.0,
-            "positionSavedY": 740.0,
+            "lockChainName": true,
+            "positionSavedX": -1740.6485595703125,
+            "positionSavedY": 732.7755737304688,
             "questCategory": 1,
             "questNameTranslated": {
+                "translations": [
+                    "Hugin, the raven of thought.",
+                    "Hugin, el cuervo del pensamiento."
+                ]
+            },
+            "questAnswerButtonText": {
                 "translations": [
                     "",
                     ""
@@ -4325,14 +4390,14 @@
             },
             "questShortDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Talk to Hugin.",
+                    "Habla con Hugin."
                 ]
             },
             "questDescription": {
                 "translations": [
-                    "",
-                    ""
+                    "Hugin, Odin's raven, will teach you how to use your powers.",
+                    "Hugin, el cuervo de Odín, te enseñará a usar tus poderes."
                 ]
             },
             "questRewardMoney": 0,
@@ -4340,7 +4405,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 0
+                    "instanceID": 93778
                 },
                 {
                     "instanceID": 0
@@ -4350,7 +4415,7 @@
                 }
             ],
             "activateQuest": [
-                "Defend Asgard",
+                "Talk to Heimdall(II)",
                 "None",
                 "None"
             ]
@@ -4733,10 +4798,14 @@
                 }
             ],
             "chainName": "Durkal",
+            "lockChainName": false,
             "positionSavedX": 1080.0,
             "positionSavedY": -4670.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4787,10 +4856,14 @@
                 }
             ],
             "chainName": "Idunn",
+            "lockChainName": false,
             "positionSavedX": -140.0,
             "positionSavedY": -5440.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4841,10 +4914,14 @@
                 }
             ],
             "chainName": "Denir",
+            "lockChainName": false,
             "positionSavedX": 600.0,
             "positionSavedY": -5440.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4895,10 +4972,14 @@
                 }
             ],
             "chainName": "Dayana",
+            "lockChainName": false,
             "positionSavedX": 1340.0,
             "positionSavedY": -5420.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -4949,10 +5030,14 @@
                 }
             ],
             "chainName": "Sigurd",
+            "lockChainName": false,
             "positionSavedX": -160.0,
             "positionSavedY": -5940.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5003,10 +5088,14 @@
                 }
             ],
             "chainName": "Vronka",
+            "lockChainName": false,
             "positionSavedX": 580.0,
             "positionSavedY": -5920.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5057,10 +5146,14 @@
                 }
             ],
             "chainName": "Grego",
+            "lockChainName": false,
             "positionSavedX": 1320.0,
             "positionSavedY": -5920.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5111,10 +5204,14 @@
                 }
             ],
             "chainName": "Sikva",
+            "lockChainName": false,
             "positionSavedX": 2020.0,
             "positionSavedY": -5420.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5165,10 +5262,14 @@
                 }
             ],
             "chainName": "Manny",
+            "lockChainName": false,
             "positionSavedX": 2020.0,
             "positionSavedY": -5920.0,
             "questCategory": 0,
             "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
                 "translations": []
             },
             "questShortDescription": {
@@ -5182,6 +5283,519 @@
             "isQuestFramework": false,
             "conditions": [],
             "activateQuest": []
+        },
+        {
+            "elements": [
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1120
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#1",
+                    "positionSavedX": -2361.463134765625,
+                    "positionSavedY": -148.9453125
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1121
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Skuld, Asgard is in danger. You must return.",
+                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#2",
+                    "positionSavedX": -1919.25537109375,
+                    "positionSavedY": -145.82632446289063
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1122
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "What´s going on?",
+                                "¿Qué ocurre?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#3",
+                    "positionSavedX": -1439.7987060546875,
+                    "positionSavedY": -158.7122039794922
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "The shadow of Hela has fallen upon Asgard. Defend Asgard.",
+                                "La sombra de Hela ha llegado a Asgard. Defiende Asgard. "
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#4",
+                    "positionSavedX": -940.0,
+                    "positionSavedY": -160.0
+                }
+            ],
+            "chainName": "Talk to Heimdall(II)",
+            "lockChainName": true,
+            "positionSavedX": -1650.7315673828125,
+            "positionSavedY": -152.9131622314453,
+            "questCategory": 1,
+            "questNameTranslated": {
+                "translations": [
+                    "The shadow is coming.",
+                    "La sombra se acerca."
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "Name translated...",
+                    ""
+                ]
+            },
+            "questShortDescription": {
+                "translations": [
+                    "Talk to Heimdall.",
+                    "Habla con Heimdall."
+                ]
+            },
+            "questDescription": {
+                "translations": [
+                    "Heimdall has seen something that disturbs him. Talk to him.",
+                    "Heimdall ha visto algo que le pertuba, habla con él."
+                ]
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": true,
+            "conditions": [
+                {
+                    "instanceID": 63900
+                },
+                {
+                    "instanceID": 0
+                },
+                {
+                    "instanceID": 0
+                }
+            ],
+            "activateQuest": [
+                "Defend Asgard",
+                "None",
+                "None"
+            ]
+        },
+        {
+            "elements": [
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1123
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(III)#1",
+                    "positionSavedX": -2237.076171875,
+                    "positionSavedY": -2648.740234375
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1124
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Heimdall, I need to go to Alfheim. Idunn has been kidnapped by the dark elves.",
+                                "Heimdall necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(III)#2",
+                    "positionSavedX": -1760.0,
+                    "positionSavedY": -2640.0
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "No problem, I´ll open the portal to Alfheim for you.",
+                                "Sin problemas, te abro el portal a Alfheim."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(III)#3",
+                    "positionSavedX": -1280.0,
+                    "positionSavedY": -2640.0
+                }
+            ],
+            "chainName": "Talk to Heimdall(III)",
+            "lockChainName": true,
+            "positionSavedX": -1758.5380859375,
+            "positionSavedY": -2644.3701171875,
+            "questCategory": 1,
+            "questNameTranslated": {
+                "translations": [
+                    "Journey to Alfheim.",
+                    "Viaje a Alfheim."
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "",
+                    "Name translated..."
+                ]
+            },
+            "questShortDescription": {
+                "translations": [
+                    "Talk to Heimdall.",
+                    "Habla con Heimdall."
+                ]
+            },
+            "questDescription": {
+                "translations": [
+                    "Talk to Heimdall so he can open the portal to Alfheim.",
+                    "Habla con Heimdall para que te abra el portal de Alfheim."
+                ]
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": true,
+            "conditions": [
+                {
+                    "instanceID": 65110
+                },
+                {
+                    "instanceID": 0
+                },
+                {
+                    "instanceID": 0
+                }
+            ],
+            "activateQuest": [
+                "Defend Alfheim",
+                "None",
+                "None"
+            ]
+        },
+        {
+            "elements": [
+                {
+                    "type": 5,
+                    "connections": [
+                        {
+                            "rid": 1125
+                        }
+                    ],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#1",
+                    "positionSavedX": -2656.576171875,
+                    "positionSavedY": -4445.37890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1126
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "You have restored light to Alfheim. Skuld.",
+                                "Has devuelto la luz a Alfheim, Skuld"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#2",
+                    "positionSavedX": -2196.57666015625,
+                    "positionSavedY": -4465.37890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1127
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "But make no mistake, Hela´s shadow continues to grow.",
+                                "Pero no te engañes, la sombra de Hela sigue creciendo."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#3",
+                    "positionSavedX": -1716.5765380859375,
+                    "positionSavedY": -4465.37890625
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "When destiny calls you again, i hope to see you back in battle.",
+                                "Cuando el destino vuelva a llamarte, espero verte de nuevo en la batalla."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#4",
+                    "positionSavedX": -1256.5765380859375,
+                    "positionSavedY": -4465.37890625
+                }
+            ],
+            "chainName": "Talk to Odin(II)",
+            "lockChainName": true,
+            "positionSavedX": -1956.576416015625,
+            "positionSavedY": -4455.37890625,
+            "questCategory": 1,
+            "questNameTranslated": {
+                "translations": [
+                    "Acknowledgements.",
+                    "Reconocimientos."
+                ]
+            },
+            "questAnswerButtonText": {
+                "translations": [
+                    "Name translated...",
+                    ""
+                ]
+            },
+            "questShortDescription": {
+                "translations": [
+                    "Talk to Odin.",
+                    "Habla con Odín."
+                ]
+            },
+            "questDescription": {
+                "translations": [
+                    "Odin, the father of all, awaits you on his throne",
+                    "Odín, el padre de todos, te espera en su trono."
+                ]
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": true,
+            "conditions": [
+                {
+                    "instanceID": 74204
+                },
+                {
+                    "instanceID": 0
+                },
+                {
+                    "instanceID": 0
+                }
+            ],
+            "activateQuest": [
+                "None",
+                "None",
+                "None"
+            ]
         }
     ],
     "references": {
@@ -5307,8 +5921,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Heimdall#5",
-                    "positionSavedX": 2220.0,
-                    "positionSavedY": 2480.0
+                    "positionSavedX": 2240.0,
+                    "positionSavedY": 2440.0
                 }
             },
             {
@@ -6370,8 +6984,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#2",
-                    "positionSavedX": -1120.0,
-                    "positionSavedY": -60.0
+                    "positionSavedX": -1544.66064453125,
+                    "positionSavedY": -1012.4776000976563
                 }
             },
             {
@@ -6414,8 +7028,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1420.0,
-                    "positionSavedY": -880.0
+                    "positionSavedX": -1862.83251953125,
+                    "positionSavedY": -1804.1104736328125
                 }
             },
             {
@@ -6454,8 +7068,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#3",
-                    "positionSavedX": -960.0,
-                    "positionSavedY": -880.0
+                    "positionSavedX": -1402.83349609375,
+                    "positionSavedY": -1804.1104736328125
                 }
             },
             {
@@ -7246,8 +7860,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#2",
-                    "positionSavedX": -1200.0,
-                    "positionSavedY": -1560.0
+                    "positionSavedX": -1766.574462890625,
+                    "positionSavedY": -3541.718505859375
                 }
             },
             {
@@ -7286,8 +7900,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#2",
-                    "positionSavedX": -1200.0,
-                    "positionSavedY": -2220.0
+                    "positionSavedX": -2095.50146484375,
+                    "positionSavedY": -5432.82080078125
                 }
             },
             {
@@ -7326,8 +7940,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#2",
-                    "positionSavedX": -1160.0,
-                    "positionSavedY": 1480.0
+                    "positionSavedX": -1228.7034912109375,
+                    "positionSavedY": 1585.5087890625
                 }
             },
             {
@@ -7502,7 +8116,7 @@
                         {
                             "translations": [
                                 "You have a lot of power in your hands. Now I´ll explain how to use it, so open you inventory.",
-                                "Tienes mucho poder en tus manos. Ahora te explico a usarlo asinque abre tu inventario."
+                                "Tienes mucho poder en tus manos. Ahora te explico cómo usarlo, así que abre tu inventario."
                             ]
                         }
                     ],
@@ -9618,8 +10232,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#2",
-                    "positionSavedX": -1220.0,
-                    "positionSavedY": 2260.0
+                    "positionSavedX": -1179.3343505859375,
+                    "positionSavedY": 2411.365234375
                 }
             },
             {
@@ -9662,8 +10276,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#2",
-                    "positionSavedX": -1420.0,
-                    "positionSavedY": 740.0
+                    "positionSavedX": -1730.6484375,
+                    "positionSavedY": 732.7755737304688
                 }
             },
             {
@@ -9702,8 +10316,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#3",
-                    "positionSavedX": -920.0,
-                    "positionSavedY": 740.0
+                    "positionSavedX": -1230.648681640625,
+                    "positionSavedY": 732.7755737304688
                 }
             },
             {
@@ -10127,6 +10741,346 @@
                     "id": "Durkal#10",
                     "positionSavedX": 2280.0,
                     "positionSavedY": -4640.0
+                }
+            },
+            {
+                "rid": 1120,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1121
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Skuld, Asgard is in danger. You must return.",
+                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#2",
+                    "positionSavedX": -1919.25537109375,
+                    "positionSavedY": -145.82632446289063
+                }
+            },
+            {
+                "rid": 1121,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1122
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "What´s going on?",
+                                "¿Qué ocurre?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#3",
+                    "positionSavedX": -1439.7987060546875,
+                    "positionSavedY": -158.7122039794922
+                }
+            },
+            {
+                "rid": 1122,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "The shadow of Hela has fallen upon Asgard. Defend Asgard.",
+                                "La sombra de Hela ha llegado a Asgard. Defiende Asgard. "
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(II)#4",
+                    "positionSavedX": -940.0,
+                    "positionSavedY": -160.0
+                }
+            },
+            {
+                "rid": 1123,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1124
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Heimdall, I need to go to Alfheim. Idunn has been kidnapped by the dark elves.",
+                                "Heimdall necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(III)#2",
+                    "positionSavedX": -1760.0,
+                    "positionSavedY": -2640.0
+                }
+            },
+            {
+                "rid": 1124,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "No problem, I´ll open the portal to Alfheim for you.",
+                                "Sin problemas, te abro el portal a Alfheim."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Heimdall_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Heimdall",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Heimdall(III)#3",
+                    "positionSavedX": -1280.0,
+                    "positionSavedY": -2640.0
+                }
+            },
+            {
+                "rid": 1125,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1126
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "You have restored light to Alfheim. Skuld.",
+                                "Has devuelto la luz a Alfheim, Skuld"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#2",
+                    "positionSavedX": -2196.57666015625,
+                    "positionSavedY": -4465.37890625
+                }
+            },
+            {
+                "rid": 1126,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1127
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "But make no mistake, Hela´s shadow continues to grow.",
+                                "Pero no te engañes, la sombra de Hela sigue creciendo."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#3",
+                    "positionSavedX": -1716.5765380859375,
+                    "positionSavedY": -4465.37890625
+                }
+            },
+            {
+                "rid": 1127,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "When destiny calls you again, i hope to see you back in battle.",
+                                "Cuando el destino vuelva a llamarte, espero verte de nuevo en la batalla."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Odin_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Odin",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Talk to Odin(II)#4",
+                    "positionSavedX": -1256.5765380859375,
+                    "positionSavedY": -4465.37890625
                 }
             }
         ]
