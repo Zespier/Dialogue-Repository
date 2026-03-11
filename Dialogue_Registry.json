@@ -15,7 +15,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Always attentive, Skuld. The Bifröst never rest, and neither do I.",
+                                "Always attentive, Skuld. The Bifröst never rests, and neither do I.",
                                 "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
                             ]
                         }
@@ -82,7 +82,7 @@
                         {
                             "translations": [
                                 "I see everything and hear everything. It is my duty, and I fulfil it without hesitation.",
-                                "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo si titubear."
+                                "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
                             ]
                         }
                     ],
@@ -118,7 +118,7 @@
                         {
                             "translations": [
                                 "Why is only the one in Asgard open?",
-                                "¿Por qué sólo esta abierto el de Asgard?"
+                                "¿Por qué solo está abierto el de Asgard?"
                             ]
                         }
                     ],
@@ -148,7 +148,7 @@
                         {
                             "translations": [
                                 "Fate has decreed it so. Not every path can be travelled at once.",
-                                "El destino así lo ha dispuesto. No todo camino puede recorrese a la vez."
+                                "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
                             ]
                         }
                     ],
@@ -220,7 +220,7 @@
                         {
                             "translations": [
                                 "Skuld, Asgard is in danger. You must return.",
-                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                                "Skuld, Asgard está en peligro. Tienes que volver."
                             ]
                         }
                     ],
@@ -288,7 +288,7 @@
                         {
                             "translations": [
                                 "The shadow of Hela has fallen upon Asgard. Defend Asgard.",
-                                "La sombra de Hela ha llegado a Asgard. Defiende Asgard. "
+                                "La sombra de Hela ha caído sobre Asgard. Defiende Asgard. "
                             ]
                         }
                     ],
@@ -669,7 +669,7 @@
                         {
                             "translations": [
                                 "Heimdall, I need to go to Alfheim. Idunn has been kidnapped by the dark elves.",
-                                "Heimdall necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
+                                "Heimdall, necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
                             ]
                         }
                     ],
@@ -701,7 +701,7 @@
                         {
                             "translations": [
                                 "No problem, I´ll open the portal to Alfheim for you.",
-                                "Sin problemas, te abro el portal a Alfheim."
+                                "Sin problemas, te abriré el portal a Alfheim."
                             ]
                         }
                     ],
@@ -764,7 +764,7 @@
                         {
                             "translations": [
                                 "The portal to Alfheim is open.",
-                                "El portal a Alfheim está abierto"
+                                "El portal a Alfheim está abierto."
                             ]
                         }
                     ],
@@ -796,7 +796,7 @@
                         {
                             "translations": [
                                 "Not everyone dares to challenge a Nhar-Du, but you did.",
-                                "No todos se atreven a desafiar a un Nhar-Du, pero tú lo hicistes. "
+                                "No todos se atreven a desafiar a un Nhar-Du, pero tú lo hiciste. "
                             ]
                         }
                     ],
@@ -930,7 +930,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "However, i have kept the portals to Asgard. and Alfheim open in case you wish to return.",
+                                "However, I have kept the portals to Asgard. and Alfheim open in case you wish to return.",
                                 "No obstante, he mantenido abiertos los portales a Asgard y Alfheim por si deseas regresar."
                             ]
                         }
@@ -1076,7 +1076,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 74546
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -1162,7 +1162,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Iduun is there, held captive. Bring her back before Hela gets to her.",
+                                "Idunn is there, held captive. Bring her back before Hela gets to her.",
                                 "Idunn está allí, prisionera. Tráela de vuelta antes de que Hela llegue a ella."
                             ]
                         }
@@ -1223,7 +1223,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 78984
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -1524,7 +1524,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "And it seem that the punishment I imposed on her made her more powerful.",
+                                "And it seems that the punishment I imposed on her made her more powerful.",
                                 "Y parece que el castigo que le impuse la hizo más poderosa.;"
                             ]
                         }
@@ -1999,7 +1999,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 99140
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -2221,7 +2221,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 84744
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -2406,7 +2406,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Don´t get too confident, valkiria. This was just training.",
+                                "Don´t get too confident, valkyrie. This was just training.",
                                 "No te confíes, valkiria. Esto solo fue un entrenamiento."
                             ]
                         }
@@ -2500,7 +2500,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Heimdall seems disturbed. He has seen soemthing bas with his own eyes.",
+                                "Heimdall seems disturbed. He has seen something bad with his own eyes.",
                                 "Heimdall parece perturbado. Algo malo ha visto con sus ojos."
                             ]
                         }
@@ -2766,7 +2766,7 @@
                         {
                             "translations": [
                                 "Don´t waste any time, we have to go rescue Idunn no matter what. Her apples...",
-                                "No pierdas tiempo, hay que ir a rescatar a Idunn sí o sí. Sus manz...."
+                                "No pierdas tiempo, hay que ir a rescatar a Idunn sí o sí. Sus manzanas...."
                             ]
                         }
                     ],
@@ -2923,7 +2923,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "You have fulfilled your duty, valkiria. odin awaits your arrival.",
+                                "You have fulfilled your duty, valkyrie. Odin awaits your arrival.",
                                 "Has cumplido con tu deber, valkiria. Odín aguarda tu llegada."
                             ]
                         }
@@ -3053,7 +3053,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Ah, Skuld... The Valkirie tasked with saving the Nine Realms. What a promising spectacle.",
+                                "Ah, Skuld... The Valkyrie tasked with saving the Nine Realms. What a promising spectacle.",
                                 "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor"
                             ]
                         }
@@ -4258,7 +4258,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 103576
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -4405,7 +4405,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 93778
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -5324,7 +5324,7 @@
                         {
                             "translations": [
                                 "Skuld, Asgard is in danger. You must return.",
-                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                                "Skuld, Asgard está en peligro. Tienes que volver."
                             ]
                         }
                     ],
@@ -5452,7 +5452,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 63900
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -5599,7 +5599,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 65110
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -5782,7 +5782,7 @@
             "isQuestFramework": true,
             "conditions": [
                 {
-                    "instanceID": 74204
+                    "instanceID": 0
                 },
                 {
                     "instanceID": 0
@@ -5861,7 +5861,7 @@
                         {
                             "translations": [
                                 "Why is only the one in Asgard open?",
-                                "¿Por qué sólo esta abierto el de Asgard?"
+                                "¿Por qué solo está abierto el de Asgard?"
                             ]
                         }
                     ],
@@ -5899,7 +5899,7 @@
                         {
                             "translations": [
                                 "I see everything and hear everything. It is my duty, and I fulfil it without hesitation.",
-                                "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo si titubear."
+                                "Yo todo lo veo y todo lo oigo. Es mi deber, y lo cumplo sin titubear."
                             ]
                         }
                     ],
@@ -5939,7 +5939,7 @@
                         {
                             "translations": [
                                 "Fate has decreed it so. Not every path can be travelled at once.",
-                                "El destino así lo ha dispuesto. No todo camino puede recorrese a la vez."
+                                "El destino así lo ha dispuesto. No todo camino puede recorrerse a la vez."
                             ]
                         }
                     ],
@@ -5985,7 +5985,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Always attentive, Skuld. The Bifröst never rest, and neither do I.",
+                                "Always attentive, Skuld. The Bifröst never rests, and neither do I.",
                                 "Siempre atenta Skuld. El Bifröst no descansa, y tampoco yo."
                             ]
                         }
@@ -6070,7 +6070,7 @@
                         {
                             "translations": [
                                 "The shadow of Hela has fallen upon Asgard. Defend Asgard.",
-                                "La sombra de Hela ha llegado a Asgard. Defiende Asgard. "
+                                "La sombra de Hela ha caído sobre Asgard. Defiende Asgard. "
                             ]
                         }
                     ],
@@ -6394,7 +6394,7 @@
                         {
                             "translations": [
                                 "Skuld, Asgard is in danger. You must return.",
-                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                                "Skuld, Asgard está en peligro. Tienes que volver."
                             ]
                         }
                     ],
@@ -6635,7 +6635,7 @@
                         {
                             "translations": [
                                 "Heimdall, I need to go to Alfheim. Idunn has been kidnapped by the dark elves.",
-                                "Heimdall necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
+                                "Heimdall, necesito ir a Alfheim. Idunn ha sido raptada por los elfos oscuros."
                             ]
                         }
                     ],
@@ -6675,7 +6675,7 @@
                         {
                             "translations": [
                                 "No problem, I´ll open the portal to Alfheim for you.",
-                                "Sin problemas, te abro el portal a Alfheim."
+                                "Sin problemas, te abriré el portal a Alfheim."
                             ]
                         }
                     ],
@@ -6754,7 +6754,7 @@
                         {
                             "translations": [
                                 "The portal to Alfheim is open.",
-                                "El portal a Alfheim está abierto"
+                                "El portal a Alfheim está abierto."
                             ]
                         }
                     ],
@@ -6882,7 +6882,7 @@
                         {
                             "translations": [
                                 "Not everyone dares to challenge a Nhar-Du, but you did.",
-                                "No todos se atreven a desafiar a un Nhar-Du, pero tú lo hicistes. "
+                                "No todos se atreven a desafiar a un Nhar-Du, pero tú lo hiciste. "
                             ]
                         }
                     ],
@@ -6921,7 +6921,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "However, i have kept the portals to Asgard. and Alfheim open in case you wish to return.",
+                                "However, I have kept the portals to Asgard. and Alfheim open in case you wish to return.",
                                 "No obstante, he mantenido abiertos los portales a Asgard y Alfheim por si deseas regresar."
                             ]
                         }
@@ -7045,7 +7045,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Iduun is there, held captive. Bring her back before Hela gets to her.",
+                                "Idunn is there, held captive. Bring her back before Hela gets to her.",
                                 "Idunn está allí, prisionera. Tráela de vuelta antes de que Hela llegue a ella."
                             ]
                         }
@@ -7383,7 +7383,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "And it seem that the punishment I imposed on her made her more powerful.",
+                                "And it seems that the punishment I imposed on her made her more powerful.",
                                 "Y parece que el castigo que le impuse la hizo más poderosa.;"
                             ]
                         }
@@ -8198,7 +8198,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Don´t get too confident, valkiria. This was just training.",
+                                "Don´t get too confident, valkyrie. This was just training.",
                                 "No te confíes, valkiria. Esto solo fue un entrenamiento."
                             ]
                         }
@@ -8277,7 +8277,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Heimdall seems disturbed. He has seen soemthing bas with his own eyes.",
+                                "Heimdall seems disturbed. He has seen something bad with his own eyes.",
                                 "Heimdall parece perturbado. Algo malo ha visto con sus ojos."
                             ]
                         }
@@ -8607,7 +8607,7 @@
                         {
                             "translations": [
                                 "Don´t waste any time, we have to go rescue Idunn no matter what. Her apples...",
-                                "No pierdas tiempo, hay que ir a rescatar a Idunn sí o sí. Sus manz...."
+                                "No pierdas tiempo, hay que ir a rescatar a Idunn sí o sí. Sus manzanas...."
                             ]
                         }
                     ],
@@ -8805,7 +8805,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "You have fulfilled your duty, valkiria. odin awaits your arrival.",
+                                "You have fulfilled your duty, valkyrie. Odin awaits your arrival.",
                                 "Has cumplido con tu deber, valkiria. Odín aguarda tu llegada."
                             ]
                         }
@@ -8849,7 +8849,7 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "Ah, Skuld... The Valkirie tasked with saving the Nine Realms. What a promising spectacle.",
+                                "Ah, Skuld... The Valkyrie tasked with saving the Nine Realms. What a promising spectacle.",
                                 "Ah, Skuld... La valkiria encargada de salvar los Nueve Reinos. Qué espectáculo tan prometedor"
                             ]
                         }
@@ -10761,7 +10761,7 @@
                         {
                             "translations": [
                                 "Skuld, Asgard is in danger. You must return.",
-                                "Skuld, Asgard esta en peligro. Tienes que volver."
+                                "Skuld, Asgard está en peligro. Tienes que volver."
                             ]
                         }
                     ],
