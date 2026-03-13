@@ -1822,7 +1822,7 @@
                         {
                             "translations": [
                                 "You have travelled this path proving your worth.",
-                                "Has recorrido eset camino demostrando tu valía."
+                                "Has recorrido este camino demostrando tu valía."
                             ]
                         }
                     ],
@@ -1844,8 +1844,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Odin#20",
-                    "positionSavedX": 1760.0,
-                    "positionSavedY": -3080.0
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -3040.0
                 },
                 {
                     "type": 1,
@@ -1883,7 +1883,7 @@
             "chainName": "Odin",
             "lockChainName": false,
             "positionSavedX": 1300.0,
-            "positionSavedY": -3530.0,
+            "positionSavedY": -3510.0,
             "questCategory": 0,
             "questNameTranslated": {
                 "translations": []
@@ -3968,8 +3968,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#30",
-                    "positionSavedX": 3860.0,
-                    "positionSavedY": -1080.0
+                    "positionSavedX": 3780.0,
+                    "positionSavedY": -1040.0
                 },
                 {
                     "type": 1,
@@ -4045,7 +4045,7 @@
                         {
                             "translations": [
                                 "Although, come to think of it... is there anywhere I haven´t been locked up? Ha, ha, ha.",
-                                "Aunque, pensándolo bien... ¿exsite algún lugar dodne no me hayan encerrado? Ja, ja, ja."
+                                "Aunque, pensándolo bien... ¿exsite algún lugar donde no me hayan encerrado? Ja, ja, ja."
                             ]
                         }
                     ],
@@ -4113,7 +4113,7 @@
                         {
                             "translations": [
                                 "Just because the threads are still, it doesn´t mean a thing... chaos always finds its way back. Ha, ha, ha!",
-                                "Que los hilos estén en calma no significa mada... el caos siempre encuentra la forma de volver. ¡Ja, ja, ja!"
+                                "Que los hilos estén en calma no significa nada... el caos siempre encuentra la forma de volver. ¡Ja, ja, ja!"
                             ]
                         }
                     ],
@@ -4887,7 +4887,7 @@
                         {
                             "translations": [
                                 "Welcome to The Forge, Skuld. Nothing beats dwarven steel; even your turrets were forged here.",
-                                "Skuld, bienvenida a la Forja. Nada como el sonido del metal en manos enenas, ¿eh? Hasta tus torretas nacieron aquí."
+                                "Skuld, bienvenida a la Forja. Nada como el sonido del metal en manos enanas, ¿eh? Hasta tus torretas nacieron aquí."
                             ]
                         }
                     ],
@@ -4909,14 +4909,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Denir#1",
-                    "positionSavedX": 600.0,
-                    "positionSavedY": -5440.0
+                    "positionSavedX": 520.0,
+                    "positionSavedY": -5400.0
                 }
             ],
             "chainName": "Denir",
             "lockChainName": false,
-            "positionSavedX": 600.0,
-            "positionSavedY": -5440.0,
+            "positionSavedX": 520.0,
+            "positionSavedY": -5400.0,
             "questCategory": 0,
             "questNameTranslated": {
                 "translations": []
@@ -7670,7 +7670,7 @@
                         {
                             "translations": [
                                 "You have travelled this path proving your worth.",
-                                "Has recorrido eset camino demostrando tu valía."
+                                "Has recorrido este camino demostrando tu valía."
                             ]
                         }
                     ],
@@ -7692,8 +7692,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Odin#20",
-                    "positionSavedX": 1760.0,
-                    "positionSavedY": -3080.0
+                    "positionSavedX": 1680.0,
+                    "positionSavedY": -3040.0
                 }
             },
             {
@@ -10024,8 +10024,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Loki#30",
-                    "positionSavedX": 3860.0,
-                    "positionSavedY": -1080.0
+                    "positionSavedX": 3780.0,
+                    "positionSavedY": -1040.0
                 }
             },
             {
@@ -10042,7 +10042,7 @@
                         {
                             "translations": [
                                 "Although, come to think of it... is there anywhere I haven´t been locked up? Ha, ha, ha.",
-                                "Aunque, pensándolo bien... ¿exsite algún lugar dodne no me hayan encerrado? Ja, ja, ja."
+                                "Aunque, pensándolo bien... ¿exsite algún lugar donde no me hayan encerrado? Ja, ja, ja."
                             ]
                         }
                     ],
@@ -10170,7 +10170,7 @@
                         {
                             "translations": [
                                 "Just because the threads are still, it doesn´t mean a thing... chaos always finds its way back. Ha, ha, ha!",
-                                "Que los hilos estén en calma no significa mada... el caos siempre encuentra la forma de volver. ¡Ja, ja, ja!"
+                                "Que los hilos estén en calma no significa nada... el caos siempre encuentra la forma de volver. ¡Ja, ja, ja!"
                             ]
                         }
                     ],
