@@ -2339,7 +2339,7 @@
                         {
                             "translations": [
                                 "Heimdall is waiting for you, don´t give up.",
-                                "Heimdall te espera, no te entrengas."
+                                "Heimdall te espera, no te entretengas."
                             ]
                         }
                     ],
@@ -2506,7 +2506,7 @@
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Hugin_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2569,7 +2569,7 @@
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Hugin_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2820,8 +2820,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Hugin#21",
-                    "positionSavedX": 3860.0,
-                    "positionSavedY": 1140.0
+                    "positionSavedX": 3800.0,
+                    "positionSavedY": 1120.0
                 },
                 {
                     "type": 3,
@@ -2847,7 +2847,7 @@
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1071
+                            "rid": 1069
                         }
                     ],
                     "id": "Hugin#22",
@@ -2866,7 +2866,7 @@
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Hugin_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -2905,12 +2905,12 @@
                     "conditionName": "Habla con odin(II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1072
+                            "rid": 1071
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1073
+                            "rid": 1072
                         }
                     ],
                     "id": "Hugin#24",
@@ -3011,7 +3011,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1074
+                            "rid": 1073
                         }
                     ],
                     "allSentences": [
@@ -3047,7 +3047,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1075
+                            "rid": 1074
                         }
                     ],
                     "allSentences": [
@@ -3083,7 +3083,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1076
+                            "rid": 1075
                         }
                     ],
                     "allSentences": [
@@ -3151,13 +3151,13 @@
                     "type": 1,
                     "connections": [
                         {
+                            "rid": 1076
+                        },
+                        {
                             "rid": 1077
                         },
                         {
                             "rid": 1078
-                        },
-                        {
-                            "rid": 1079
                         }
                     ],
                     "allSentences": [
@@ -3193,7 +3193,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1080
+                            "rid": 1079
                         }
                     ],
                     "allSentences": [
@@ -3227,7 +3227,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1081
+                            "rid": 1080
                         }
                     ],
                     "allSentences": [
@@ -3261,7 +3261,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1082
+                            "rid": 1081
                         }
                     ],
                     "allSentences": [
@@ -3295,7 +3295,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1083
+                            "rid": 1082
                         }
                     ],
                     "allSentences": [
@@ -3410,12 +3410,12 @@
                     "conditionName": "Habla con heimdall",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1084
+                            "rid": 1083
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1085
+                            "rid": 1084
                         }
                     ],
                     "id": "Loki#13",
@@ -3441,12 +3441,12 @@
                     "conditionName": "Victory in Asgard Tutorial (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1086
+                            "rid": 1085
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1087
+                            "rid": 1086
                         }
                     ],
                     "id": "Loki#14",
@@ -3504,12 +3504,12 @@
                     "conditionName": "Talk to Hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1088
+                            "rid": 1087
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1089
+                            "rid": 1088
                         }
                     ],
                     "id": "Loki#16",
@@ -3567,12 +3567,12 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1090
+                            "rid": 1089
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1091
+                            "rid": 1090
                         }
                     ],
                     "id": "Loki#18",
@@ -3583,7 +3583,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1092
+                            "rid": 1091
                         }
                     ],
                     "allSentences": [
@@ -3666,12 +3666,12 @@
                     "conditionName": "Victory in Asgard Any (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1093
+                            "rid": 1092
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1094
+                            "rid": 1093
                         }
                     ],
                     "id": "Loki#21",
@@ -3729,12 +3729,12 @@
                     "conditionName": "Habla con odin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1095
+                            "rid": 1094
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1096
+                            "rid": 1095
                         }
                     ],
                     "id": "Loki#23",
@@ -3745,7 +3745,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1097
+                            "rid": 1096
                         }
                     ],
                     "allSentences": [
@@ -3781,7 +3781,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1098
+                            "rid": 1097
                         }
                     ],
                     "allSentences": [
@@ -3896,12 +3896,12 @@
                     "conditionName": "Habla con heimdall (III)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1099
+                            "rid": 1098
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1100
+                            "rid": 1099
                         }
                     ],
                     "id": "Loki#28",
@@ -3927,12 +3927,12 @@
                     "conditionName": "Victory in Alfheim (Level 2)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1101
+                            "rid": 1100
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1102
+                            "rid": 1101
                         }
                     ],
                     "id": "Loki#29",
@@ -3975,7 +3975,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1103
+                            "rid": 1102
                         }
                     ],
                     "allSentences": [
@@ -4026,12 +4026,12 @@
                     "conditionName": "Habla con odin(II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1104
+                            "rid": 1103
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1105
+                            "rid": 1104
                         }
                     ],
                     "id": "Loki#32",
@@ -4074,7 +4074,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1106
+                            "rid": 1105
                         }
                     ],
                     "allSentences": [
@@ -4168,7 +4168,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1107
+                            "rid": 1106
                         }
                     ],
                     "allSentences": [],
@@ -4279,7 +4279,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1108
+                            "rid": 1107
                         }
                     ],
                     "allSentences": [],
@@ -4306,7 +4306,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1109
+                            "rid": 1108
                         }
                     ],
                     "allSentences": [
@@ -4426,7 +4426,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1110
+                            "rid": 1109
                         }
                     ],
                     "allSentences": [
@@ -4477,12 +4477,12 @@
                     "conditionName": "Habla con odin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1111
+                            "rid": 1110
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1112
+                            "rid": 1111
                         }
                     ],
                     "id": "Durkal#2",
@@ -4493,7 +4493,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1113
+                            "rid": 1112
                         }
                     ],
                     "allSentences": [
@@ -4529,7 +4529,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1114
+                            "rid": 1113
                         }
                     ],
                     "allSentences": [
@@ -4612,12 +4612,12 @@
                     "conditionName": "Victory in Alfheim (Level 2)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1115
+                            "rid": 1114
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1116
+                            "rid": 1115
                         }
                     ],
                     "id": "Durkal#6",
@@ -4628,7 +4628,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1117
+                            "rid": 1116
                         }
                     ],
                     "allSentences": [
@@ -4664,7 +4664,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1118
+                            "rid": 1117
                         }
                     ],
                     "allSentences": [
@@ -4700,7 +4700,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1119
+                            "rid": 1118
                         }
                     ],
                     "allSentences": [
@@ -5290,7 +5290,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1120
+                            "rid": 1119
                         }
                     ],
                     "allSentences": [],
@@ -5317,7 +5317,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1121
+                            "rid": 1120
                         }
                     ],
                     "allSentences": [
@@ -5353,7 +5353,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1122
+                            "rid": 1121
                         }
                     ],
                     "allSentences": [
@@ -5473,7 +5473,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1123
+                            "rid": 1122
                         }
                     ],
                     "allSentences": [],
@@ -5500,7 +5500,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1124
+                            "rid": 1123
                         }
                     ],
                     "allSentences": [
@@ -5620,7 +5620,7 @@
                     "type": 5,
                     "connections": [
                         {
-                            "rid": 1125
+                            "rid": 1124
                         }
                     ],
                     "allSentences": [],
@@ -5647,7 +5647,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1126
+                            "rid": 1125
                         }
                     ],
                     "allSentences": [
@@ -5683,7 +5683,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1127
+                            "rid": 1126
                         }
                     ],
                     "allSentences": [
@@ -8076,7 +8076,7 @@
                         {
                             "translations": [
                                 "Heimdall is waiting for you, don´t give up.",
-                                "Heimdall te espera, no te entrengas."
+                                "Heimdall te espera, no te entretengas."
                             ]
                         }
                     ],
@@ -8283,7 +8283,7 @@
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Hugin_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -8362,7 +8362,7 @@
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Hugin_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -8581,7 +8581,7 @@
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1071
+                            "rid": 1069
                         }
                     ],
                     "id": "Hugin#22",
@@ -8646,13 +8646,13 @@
                     "allSentences": [
                         {
                             "translations": [
-                                "I know.",
-                                "Lo sé."
+                                "It was to be expected that the dark elves would join Hela.",
+                                "Era de esperar que los elfos oscuros se unieran a Hela."
                             ]
                         }
                     ],
                     "allCharacter_Actitudes": [
-                        "Skuld_Normal"
+                        ""
                     ],
                     "posibleSentences": [],
                     "posibleCharacter_Actitudes": [],
@@ -8660,7 +8660,7 @@
                     "secondaryCharacter_Actitudes": [],
                     "posibleSecondarySentences": [],
                     "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Skuld",
+                    "characterName": "Hugin",
                     "connectedFrameworkName": "",
                     "showMissions": false,
                     "isThisAnswerCheckpoint": false,
@@ -8668,9 +8668,9 @@
                     "conditionName": "",
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
-                    "id": "Hugin#21",
+                    "id": "Hugin#23",
                     "positionSavedX": 3860.0,
-                    "positionSavedY": 1140.0
+                    "positionSavedY": 1320.0
                 }
             },
             {
@@ -8699,12 +8699,12 @@
                     "conditionName": "Habla con odin(II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1072
+                            "rid": 1071
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1073
+                            "rid": 1072
                         }
                     ],
                     "id": "Hugin#24",
@@ -8714,46 +8714,6 @@
             },
             {
                 "rid": 1071,
-                "type": {
-                    "class": "DialogueElement",
-                    "ns": "",
-                    "asm": "Assembly-CSharp"
-                },
-                "data": {
-                    "type": 1,
-                    "connections": [],
-                    "allSentences": [
-                        {
-                            "translations": [
-                                "It was to be expected that the dark elves would join Hela.",
-                                "Era de esperar que los elfos oscuros se unieran a Hela."
-                            ]
-                        }
-                    ],
-                    "allCharacter_Actitudes": [
-                        "Hugin_Normal"
-                    ],
-                    "posibleSentences": [],
-                    "posibleCharacter_Actitudes": [],
-                    "secondarySentences": [],
-                    "secondaryCharacter_Actitudes": [],
-                    "posibleSecondarySentences": [],
-                    "posibleSecondaryCharacter_Actitudes": [],
-                    "characterName": "Hugin",
-                    "connectedFrameworkName": "",
-                    "showMissions": false,
-                    "isThisAnswerCheckpoint": false,
-                    "goBackToAnswerCheckPoint": false,
-                    "conditionName": "",
-                    "connectionsIfTrue": [],
-                    "connectionsIfFalse": [],
-                    "id": "Hugin#23",
-                    "positionSavedX": 3860.0,
-                    "positionSavedY": 1320.0
-                }
-            },
-            {
-                "rid": 1072,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8793,7 +8753,7 @@
                 }
             },
             {
-                "rid": 1073,
+                "rid": 1072,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8833,7 +8793,7 @@
                 }
             },
             {
-                "rid": 1074,
+                "rid": 1073,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8843,7 +8803,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1075
+                            "rid": 1074
                         }
                     ],
                     "allSentences": [
@@ -8877,7 +8837,7 @@
                 }
             },
             {
-                "rid": 1075,
+                "rid": 1074,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8887,7 +8847,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1076
+                            "rid": 1075
                         }
                     ],
                     "allSentences": [
@@ -8921,7 +8881,7 @@
                 }
             },
             {
-                "rid": 1076,
+                "rid": 1075,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8961,7 +8921,7 @@
                 }
             },
             {
-                "rid": 1077,
+                "rid": 1076,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -8971,7 +8931,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1080
+                            "rid": 1079
                         }
                     ],
                     "allSentences": [
@@ -9003,7 +8963,7 @@
                 }
             },
             {
-                "rid": 1078,
+                "rid": 1077,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9013,7 +8973,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1081
+                            "rid": 1080
                         }
                     ],
                     "allSentences": [
@@ -9045,7 +9005,7 @@
                 }
             },
             {
-                "rid": 1079,
+                "rid": 1078,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9055,7 +9015,7 @@
                     "type": 2,
                     "connections": [
                         {
-                            "rid": 1082
+                            "rid": 1081
                         }
                     ],
                     "allSentences": [
@@ -9087,7 +9047,7 @@
                 }
             },
             {
-                "rid": 1080,
+                "rid": 1079,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9097,7 +9057,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1083
+                            "rid": 1082
                         }
                     ],
                     "allSentences": [
@@ -9131,7 +9091,7 @@
                 }
             },
             {
-                "rid": 1081,
+                "rid": 1080,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9171,7 +9131,7 @@
                 }
             },
             {
-                "rid": 1082,
+                "rid": 1081,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9211,7 +9171,7 @@
                 }
             },
             {
-                "rid": 1083,
+                "rid": 1082,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9251,7 +9211,7 @@
                 }
             },
             {
-                "rid": 1084,
+                "rid": 1083,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9276,12 +9236,12 @@
                     "conditionName": "Victory in Asgard Tutorial (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1086
+                            "rid": 1085
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1087
+                            "rid": 1086
                         }
                     ],
                     "id": "Loki#14",
@@ -9290,7 +9250,7 @@
                 }
             },
             {
-                "rid": 1085,
+                "rid": 1084,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9300,7 +9260,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1074
+                            "rid": 1073
                         }
                     ],
                     "allSentences": [
@@ -9334,7 +9294,7 @@
                 }
             },
             {
-                "rid": 1086,
+                "rid": 1085,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9359,12 +9319,12 @@
                     "conditionName": "Talk to Hugin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1088
+                            "rid": 1087
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1089
+                            "rid": 1088
                         }
                     ],
                     "id": "Loki#16",
@@ -9373,7 +9333,7 @@
                 }
             },
             {
-                "rid": 1087,
+                "rid": 1086,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9413,7 +9373,7 @@
                 }
             },
             {
-                "rid": 1088,
+                "rid": 1087,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9438,12 +9398,12 @@
                     "conditionName": "Habla con heimdall (II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1090
+                            "rid": 1089
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1091
+                            "rid": 1090
                         }
                     ],
                     "id": "Loki#18",
@@ -9452,7 +9412,7 @@
                 }
             },
             {
-                "rid": 1089,
+                "rid": 1088,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9492,7 +9452,7 @@
                 }
             },
             {
-                "rid": 1090,
+                "rid": 1089,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9517,12 +9477,12 @@
                     "conditionName": "Victory in Asgard Any (Level 1)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1093
+                            "rid": 1092
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1094
+                            "rid": 1093
                         }
                     ],
                     "id": "Loki#21",
@@ -9531,7 +9491,7 @@
                 }
             },
             {
-                "rid": 1091,
+                "rid": 1090,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9541,7 +9501,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1092
+                            "rid": 1091
                         }
                     ],
                     "allSentences": [
@@ -9575,7 +9535,7 @@
                 }
             },
             {
-                "rid": 1092,
+                "rid": 1091,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9615,7 +9575,7 @@
                 }
             },
             {
-                "rid": 1093,
+                "rid": 1092,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9640,12 +9600,12 @@
                     "conditionName": "Habla con odin",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1095
+                            "rid": 1094
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1096
+                            "rid": 1095
                         }
                     ],
                     "id": "Loki#23",
@@ -9654,7 +9614,7 @@
                 }
             },
             {
-                "rid": 1094,
+                "rid": 1093,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9664,13 +9624,13 @@
                     "type": 1,
                     "connections": [
                         {
+                            "rid": 1076
+                        },
+                        {
                             "rid": 1077
                         },
                         {
                             "rid": 1078
-                        },
-                        {
-                            "rid": 1079
                         }
                     ],
                     "allSentences": [
@@ -9704,7 +9664,7 @@
                 }
             },
             {
-                "rid": 1095,
+                "rid": 1094,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9729,12 +9689,12 @@
                     "conditionName": "Habla con heimdall (III)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1099
+                            "rid": 1098
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1100
+                            "rid": 1099
                         }
                     ],
                     "id": "Loki#28",
@@ -9743,7 +9703,7 @@
                 }
             },
             {
-                "rid": 1096,
+                "rid": 1095,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9753,7 +9713,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1097
+                            "rid": 1096
                         }
                     ],
                     "allSentences": [
@@ -9787,7 +9747,7 @@
                 }
             },
             {
-                "rid": 1097,
+                "rid": 1096,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9797,7 +9757,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1098
+                            "rid": 1097
                         }
                     ],
                     "allSentences": [
@@ -9831,7 +9791,7 @@
                 }
             },
             {
-                "rid": 1098,
+                "rid": 1097,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9871,7 +9831,7 @@
                 }
             },
             {
-                "rid": 1099,
+                "rid": 1098,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9896,12 +9856,12 @@
                     "conditionName": "Victory in Alfheim (Level 2)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1101
+                            "rid": 1100
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1102
+                            "rid": 1101
                         }
                     ],
                     "id": "Loki#29",
@@ -9910,7 +9870,7 @@
                 }
             },
             {
-                "rid": 1100,
+                "rid": 1099,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9950,7 +9910,7 @@
                 }
             },
             {
-                "rid": 1101,
+                "rid": 1100,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -9975,12 +9935,12 @@
                     "conditionName": "Habla con odin(II)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1104
+                            "rid": 1103
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1105
+                            "rid": 1104
                         }
                     ],
                     "id": "Loki#32",
@@ -9989,7 +9949,7 @@
                 }
             },
             {
-                "rid": 1102,
+                "rid": 1101,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10029,7 +9989,7 @@
                 }
             },
             {
-                "rid": 1103,
+                "rid": 1102,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10069,7 +10029,7 @@
                 }
             },
             {
-                "rid": 1104,
+                "rid": 1103,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10079,7 +10039,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1106
+                            "rid": 1105
                         }
                     ],
                     "allSentences": [
@@ -10113,7 +10073,7 @@
                 }
             },
             {
-                "rid": 1105,
+                "rid": 1104,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10123,7 +10083,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1103
+                            "rid": 1102
                         }
                     ],
                     "allSentences": [
@@ -10157,7 +10117,7 @@
                 }
             },
             {
-                "rid": 1106,
+                "rid": 1105,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10197,7 +10157,7 @@
                 }
             },
             {
-                "rid": 1107,
+                "rid": 1106,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10237,7 +10197,7 @@
                 }
             },
             {
-                "rid": 1108,
+                "rid": 1107,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10247,7 +10207,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1109
+                            "rid": 1108
                         }
                     ],
                     "allSentences": [
@@ -10281,7 +10241,7 @@
                 }
             },
             {
-                "rid": 1109,
+                "rid": 1108,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10321,7 +10281,7 @@
                 }
             },
             {
-                "rid": 1110,
+                "rid": 1109,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10331,7 +10291,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1114
+                            "rid": 1113
                         }
                     ],
                     "allSentences": [
@@ -10365,7 +10325,7 @@
                 }
             },
             {
-                "rid": 1111,
+                "rid": 1110,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10390,12 +10350,12 @@
                     "conditionName": "Victory in Alfheim (Level 2)",
                     "connectionsIfTrue": [
                         {
-                            "rid": 1115
+                            "rid": 1114
                         }
                     ],
                     "connectionsIfFalse": [
                         {
-                            "rid": 1116
+                            "rid": 1115
                         }
                     ],
                     "id": "Durkal#6",
@@ -10404,7 +10364,7 @@
                 }
             },
             {
-                "rid": 1112,
+                "rid": 1111,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10414,7 +10374,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1113
+                            "rid": 1112
                         }
                     ],
                     "allSentences": [
@@ -10448,7 +10408,7 @@
                 }
             },
             {
-                "rid": 1113,
+                "rid": 1112,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10458,7 +10418,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1110
+                            "rid": 1109
                         }
                     ],
                     "allSentences": [
@@ -10492,7 +10452,7 @@
                 }
             },
             {
-                "rid": 1114,
+                "rid": 1113,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10532,7 +10492,7 @@
                 }
             },
             {
-                "rid": 1115,
+                "rid": 1114,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10572,7 +10532,7 @@
                 }
             },
             {
-                "rid": 1116,
+                "rid": 1115,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10582,7 +10542,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1117
+                            "rid": 1116
                         }
                     ],
                     "allSentences": [
@@ -10616,7 +10576,7 @@
                 }
             },
             {
-                "rid": 1117,
+                "rid": 1116,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10626,7 +10586,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1118
+                            "rid": 1117
                         }
                     ],
                     "allSentences": [
@@ -10660,7 +10620,7 @@
                 }
             },
             {
-                "rid": 1118,
+                "rid": 1117,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10670,7 +10630,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1119
+                            "rid": 1118
                         }
                     ],
                     "allSentences": [
@@ -10704,7 +10664,7 @@
                 }
             },
             {
-                "rid": 1119,
+                "rid": 1118,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10744,7 +10704,7 @@
                 }
             },
             {
-                "rid": 1120,
+                "rid": 1119,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10754,7 +10714,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1121
+                            "rid": 1120
                         }
                     ],
                     "allSentences": [
@@ -10788,7 +10748,7 @@
                 }
             },
             {
-                "rid": 1121,
+                "rid": 1120,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10798,7 +10758,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1122
+                            "rid": 1121
                         }
                     ],
                     "allSentences": [
@@ -10832,7 +10792,7 @@
                 }
             },
             {
-                "rid": 1122,
+                "rid": 1121,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10872,7 +10832,7 @@
                 }
             },
             {
-                "rid": 1123,
+                "rid": 1122,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10882,7 +10842,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1124
+                            "rid": 1123
                         }
                     ],
                     "allSentences": [
@@ -10916,7 +10876,7 @@
                 }
             },
             {
-                "rid": 1124,
+                "rid": 1123,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10956,7 +10916,7 @@
                 }
             },
             {
-                "rid": 1125,
+                "rid": 1124,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -10966,7 +10926,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1126
+                            "rid": 1125
                         }
                     ],
                     "allSentences": [
@@ -11000,7 +10960,7 @@
                 }
             },
             {
-                "rid": 1126,
+                "rid": 1125,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
@@ -11010,7 +10970,7 @@
                     "type": 1,
                     "connections": [
                         {
-                            "rid": 1127
+                            "rid": 1126
                         }
                     ],
                     "allSentences": [
@@ -11044,7 +11004,7 @@
                 }
             },
             {
-                "rid": 1127,
+                "rid": 1126,
                 "type": {
                     "class": "DialogueElement",
                     "ns": "",
