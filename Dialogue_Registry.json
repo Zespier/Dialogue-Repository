@@ -1006,8 +1006,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#1",
-                    "positionSavedX": -2084.662353515625,
-                    "positionSavedY": -992.4776000976563
+                    "positionSavedX": -2080.0,
+                    "positionSavedY": -1000.0
                 },
                 {
                     "type": 1,
@@ -1038,14 +1038,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#2",
-                    "positionSavedX": -1544.66064453125,
-                    "positionSavedY": -1012.4776000976563
+                    "positionSavedX": -1540.0,
+                    "positionSavedY": -1020.0
                 }
             ],
             "chainName": "Defend Asgard",
             "lockChainName": true,
-            "positionSavedX": -1814.6614990234375,
-            "positionSavedY": -1002.4775390625,
+            "positionSavedX": -1810.0,
+            "positionSavedY": -1010.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -1117,8 +1117,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#1",
-                    "positionSavedX": -2362.832763671875,
-                    "positionSavedY": -1804.1104736328125
+                    "positionSavedX": -2360.0,
+                    "positionSavedY": -1800.0
                 },
                 {
                     "type": 1,
@@ -1153,8 +1153,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1862.83251953125,
-                    "positionSavedY": -1804.1104736328125
+                    "positionSavedX": -1860.0,
+                    "positionSavedY": -1800.0
                 },
                 {
                     "type": 1,
@@ -1185,14 +1185,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#3",
-                    "positionSavedX": -1402.83349609375,
-                    "positionSavedY": -1804.1104736328125
+                    "positionSavedX": -1400.0,
+                    "positionSavedY": -1800.0
                 }
             ],
             "chainName": "Talk to Odin",
             "lockChainName": true,
-            "positionSavedX": -1882.8331298828125,
-            "positionSavedY": -1804.1104736328125,
+            "positionSavedX": -1880.0,
+            "positionSavedY": -1800.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -1929,8 +1929,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#1",
-                    "positionSavedX": -2266.57421875,
-                    "positionSavedY": -3541.718505859375
+                    "positionSavedX": -2260.0,
+                    "positionSavedY": -3540.0
                 },
                 {
                     "type": 1,
@@ -1961,14 +1961,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#2",
-                    "positionSavedX": -1766.574462890625,
-                    "positionSavedY": -3541.718505859375
+                    "positionSavedX": -1760.0,
+                    "positionSavedY": -3540.0
                 }
             ],
             "chainName": "Defend Alfheim",
             "lockChainName": false,
-            "positionSavedX": -2016.5743408203125,
-            "positionSavedY": -3541.718505859375,
+            "positionSavedX": -2010.0,
+            "positionSavedY": -3540.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -2040,8 +2040,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#1",
-                    "positionSavedX": -2575.501220703125,
-                    "positionSavedY": -5412.82080078125
+                    "positionSavedX": -2580.0,
+                    "positionSavedY": -5420.0
                 },
                 {
                     "type": 1,
@@ -2072,14 +2072,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#2",
-                    "positionSavedX": -2095.50146484375,
-                    "positionSavedY": -5432.82080078125
+                    "positionSavedX": -2100.0,
+                    "positionSavedY": -5440.0
                 }
             ],
             "chainName": "Defend Jotunheim",
             "lockChainName": false,
-            "positionSavedX": -2335.50146484375,
-            "positionSavedY": -5422.82080078125,
+            "positionSavedX": -2340.0,
+            "positionSavedY": -5430.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -2151,8 +2151,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#1",
-                    "positionSavedX": -1728.7034912109375,
-                    "positionSavedY": 1585.5087890625
+                    "positionSavedX": -1720.0,
+                    "positionSavedY": 1580.0
                 },
                 {
                     "type": 1,
@@ -2183,14 +2183,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#2",
-                    "positionSavedX": -1228.7034912109375,
-                    "positionSavedY": 1585.5087890625
+                    "positionSavedX": -1220.0,
+                    "positionSavedY": 1580.0
                 }
             ],
             "chainName": "Asgard",
             "lockChainName": true,
-            "positionSavedX": -1478.7034912109375,
-            "positionSavedY": 1585.5087890625,
+            "positionSavedX": -1470.0,
+            "positionSavedY": 1580.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -4188,8 +4188,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#1",
-                    "positionSavedX": -1659.3343505859375,
-                    "positionSavedY": 2411.365234375
+                    "positionSavedX": -1660.0,
+                    "positionSavedY": 2420.0
                 },
                 {
                     "type": 1,
@@ -4220,14 +4220,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#2",
-                    "positionSavedX": -1179.3343505859375,
-                    "positionSavedY": 2411.365234375
+                    "positionSavedX": -1180.0,
+                    "positionSavedY": 2420.0
                 }
             ],
             "chainName": "Talk to Heimdall",
             "lockChainName": true,
-            "positionSavedX": -1419.3343505859375,
-            "positionSavedY": 2411.365234375,
+            "positionSavedX": -1420.0,
+            "positionSavedY": 2420.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -4299,8 +4299,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#1",
-                    "positionSavedX": -2250.6484375,
-                    "positionSavedY": 732.7755737304688
+                    "positionSavedX": -2260.0,
+                    "positionSavedY": 740.0
                 },
                 {
                     "type": 1,
@@ -4335,8 +4335,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#2",
-                    "positionSavedX": -1730.6484375,
-                    "positionSavedY": 732.7755737304688
+                    "positionSavedX": -1740.0,
+                    "positionSavedY": 740.0
                 },
                 {
                     "type": 1,
@@ -4367,14 +4367,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#3",
-                    "positionSavedX": -1230.648681640625,
-                    "positionSavedY": 732.7755737304688
+                    "positionSavedX": -1240.0,
+                    "positionSavedY": 740.0
                 }
             ],
             "chainName": "Talk to Hugin",
             "lockChainName": true,
-            "positionSavedX": -1740.6485595703125,
-            "positionSavedY": 732.7755737304688,
+            "positionSavedX": -1750.0,
+            "positionSavedY": 740.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -5310,8 +5310,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(II)#1",
-                    "positionSavedX": -2361.463134765625,
-                    "positionSavedY": -148.9453125
+                    "positionSavedX": -2360.0,
+                    "positionSavedY": -140.0
                 },
                 {
                     "type": 1,
@@ -5346,8 +5346,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(II)#2",
-                    "positionSavedX": -1919.25537109375,
-                    "positionSavedY": -145.82632446289063
+                    "positionSavedX": -1920.0,
+                    "positionSavedY": -140.0
                 },
                 {
                     "type": 1,
@@ -5382,8 +5382,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(II)#3",
-                    "positionSavedX": -1439.7987060546875,
-                    "positionSavedY": -158.7122039794922
+                    "positionSavedX": -1440.0,
+                    "positionSavedY": -160.0
                 },
                 {
                     "type": 1,
@@ -5420,8 +5420,8 @@
             ],
             "chainName": "Talk to Heimdall(II)",
             "lockChainName": true,
-            "positionSavedX": -1650.7315673828125,
-            "positionSavedY": -152.9131622314453,
+            "positionSavedX": -1650.0,
+            "positionSavedY": -150.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -5493,8 +5493,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(III)#1",
-                    "positionSavedX": -2237.076171875,
-                    "positionSavedY": -2648.740234375
+                    "positionSavedX": -2240.0,
+                    "positionSavedY": -2640.0
                 },
                 {
                     "type": 1,
@@ -5567,8 +5567,8 @@
             ],
             "chainName": "Talk to Heimdall(III)",
             "lockChainName": true,
-            "positionSavedX": -1758.5380859375,
-            "positionSavedY": -2644.3701171875,
+            "positionSavedX": -1760.0,
+            "positionSavedY": -2640.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -5640,8 +5640,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#1",
-                    "positionSavedX": -2656.576171875,
-                    "positionSavedY": -4445.37890625
+                    "positionSavedX": -2660.0,
+                    "positionSavedY": -4440.0
                 },
                 {
                     "type": 1,
@@ -5676,8 +5676,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#2",
-                    "positionSavedX": -2196.57666015625,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -2200.0,
+                    "positionSavedY": -4460.0
                 },
                 {
                     "type": 1,
@@ -5712,8 +5712,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#3",
-                    "positionSavedX": -1716.5765380859375,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -1720.0,
+                    "positionSavedY": -4460.0
                 },
                 {
                     "type": 1,
@@ -5744,14 +5744,14 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#4",
-                    "positionSavedX": -1256.5765380859375,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -1260.0,
+                    "positionSavedY": -4460.0
                 }
             ],
             "chainName": "Talk to Odin(II)",
             "lockChainName": true,
-            "positionSavedX": -1956.576416015625,
-            "positionSavedY": -4455.37890625,
+            "positionSavedX": -1960.0,
+            "positionSavedY": -4450.0,
             "questCategory": 1,
             "questNameTranslated": {
                 "translations": [
@@ -5796,6 +5796,775 @@
                 "None",
                 "None"
             ]
+        },
+        {
+            "elements": [
+                {
+                    "type": 3,
+                    "connections": [],
+                    "allSentences": [],
+                    "allCharacter_Actitudes": [],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "Habla con mimir",
+                    "connectionsIfTrue": [
+                        {
+                            "rid": 1127
+                        }
+                    ],
+                    "connectionsIfFalse": [
+                        {
+                            "rid": 1128
+                        }
+                    ],
+                    "id": "Mimir#1",
+                    "positionSavedX": -126.4281005859375,
+                    "positionSavedY": -6499.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1129
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Wake up, Mimir.",
+                                "Despierta, Mimir."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#2",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1130
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ahhhhh",
+                                "Ahhhhh"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#3",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1131
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "What do you want now, Odin…?",
+                                "¿Qué quieres ahora, Odín…?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#4",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1132
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ah… Who are you?",
+                                "Ah… ¿Quién eres tú?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#5",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1133
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "I am…",
+                                "Soy…"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#6",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1134
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ahhh, you're Skuld. The Norn turned Valkyrie by Odin's command.",
+                                "Ahhh, eres Skuld. La Norna convertida en valquiria por orden de Odín."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#7",
+                    "positionSavedX": 2873.57177734375,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1135
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "And yet Odin keeps you hidden here.",
+                                "Aunque aquí te tiene escondido Odín."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#8",
+                    "positionSavedX": 3373.57177734375,
+                    "positionSavedY": -6759.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1136
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Hidden? Locked away, you mean.",
+                                "¿Escondido? Dirás encerrado."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#9",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1137
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Not that I've got the legs to run. HA, HA, HA!",
+                                "Aunque tampoco es que tenga con qué escapar. ¡JA, JA, JA!"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#10",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1138
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "And what are you doing here?",
+                                "¿Y tú qué haces aquí?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#11",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1139
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Only Odin comes in here. And he hasn't let anyone in for centuries.",
+                                "Aquí solo entra Odín. Y lleva siglos sin dejar entrar a nadie."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#12",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1140
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "So if you're standing before me, it's because he allowed it.",
+                                "Así que si estás delante de mí, es porque él lo ha permitido."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#13",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1141
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Just how desperate is Odin?",
+                                "¿Qué tan desesperado está Odín?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#14",
+                    "positionSavedX": 2873.57177734375,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1142
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "You'll have to ask him that.",
+                                "Eso tendrás que preguntárselo a él."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#15",
+                    "positionSavedX": 3373.57177734375,
+                    "positionSavedY": -7019.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1143
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "HA! You talk just like him.",
+                                "¡JA! Hablas como él."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#16",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1144
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Very well, Valkyrie… keep your silences.",
+                                "Está bien, valquiria… guárdate tus silencios."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#17",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1145
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "I've been here since before Ragnarök, and here I'll remain.",
+                                "Yo llevo aquí desde antes del Ragnarök, y aquí seguiré."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#18",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1146
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Come back when you have something to tell me.",
+                                "Vuelve cuando tengas algo que contarme."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#19",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "After all… it's the only thing I have left to do.",
+                                "Al fin y al cabo… es lo único que me queda por hacer."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#20",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -7279.15087890625
+                },
+                {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Do you have something to tell me yet, Valkyrie?",
+                                "¿Ya tienes algo que contarme, valquiria?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#21",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -6239.15087890625
+                }
+            ],
+            "chainName": "Mimir",
+            "lockChainName": false,
+            "positionSavedX": -126.4281005859375,
+            "positionSavedY": -6499.15087890625,
+            "questCategory": 0,
+            "questNameTranslated": {
+                "translations": []
+            },
+            "questAnswerButtonText": {
+                "translations": []
+            },
+            "questShortDescription": {
+                "translations": []
+            },
+            "questDescription": {
+                "translations": []
+            },
+            "questRewardMoney": 0,
+            "questRewardRadiantTides": 0,
+            "isQuestFramework": false,
+            "conditions": [],
+            "activateQuest": []
         }
     ],
     "references": {
@@ -6984,8 +7753,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Asgard#2",
-                    "positionSavedX": -1544.66064453125,
-                    "positionSavedY": -1012.4776000976563
+                    "positionSavedX": -1540.0,
+                    "positionSavedY": -1020.0
                 }
             },
             {
@@ -7028,8 +7797,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#2",
-                    "positionSavedX": -1862.83251953125,
-                    "positionSavedY": -1804.1104736328125
+                    "positionSavedX": -1860.0,
+                    "positionSavedY": -1800.0
                 }
             },
             {
@@ -7068,8 +7837,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin#3",
-                    "positionSavedX": -1402.83349609375,
-                    "positionSavedY": -1804.1104736328125
+                    "positionSavedX": -1400.0,
+                    "positionSavedY": -1800.0
                 }
             },
             {
@@ -7860,8 +8629,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Alfheim#2",
-                    "positionSavedX": -1766.574462890625,
-                    "positionSavedY": -3541.718505859375
+                    "positionSavedX": -1760.0,
+                    "positionSavedY": -3540.0
                 }
             },
             {
@@ -7900,8 +8669,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Defend Jotunheim#2",
-                    "positionSavedX": -2095.50146484375,
-                    "positionSavedY": -5432.82080078125
+                    "positionSavedX": -2100.0,
+                    "positionSavedY": -5440.0
                 }
             },
             {
@@ -7940,8 +8709,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Asgard#2",
-                    "positionSavedX": -1228.7034912109375,
-                    "positionSavedY": 1585.5087890625
+                    "positionSavedX": -1220.0,
+                    "positionSavedY": 1580.0
                 }
             },
             {
@@ -10192,8 +10961,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall#2",
-                    "positionSavedX": -1179.3343505859375,
-                    "positionSavedY": 2411.365234375
+                    "positionSavedX": -1180.0,
+                    "positionSavedY": 2420.0
                 }
             },
             {
@@ -10236,8 +11005,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#2",
-                    "positionSavedX": -1730.6484375,
-                    "positionSavedY": 732.7755737304688
+                    "positionSavedX": -1740.0,
+                    "positionSavedY": 740.0
                 }
             },
             {
@@ -10276,8 +11045,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Hugin#3",
-                    "positionSavedX": -1230.648681640625,
-                    "positionSavedY": 732.7755737304688
+                    "positionSavedX": -1240.0,
+                    "positionSavedY": 740.0
                 }
             },
             {
@@ -10743,8 +11512,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(II)#2",
-                    "positionSavedX": -1919.25537109375,
-                    "positionSavedY": -145.82632446289063
+                    "positionSavedX": -1920.0,
+                    "positionSavedY": -140.0
                 }
             },
             {
@@ -10787,8 +11556,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Heimdall(II)#3",
-                    "positionSavedX": -1439.7987060546875,
-                    "positionSavedY": -158.7122039794922
+                    "positionSavedX": -1440.0,
+                    "positionSavedY": -160.0
                 }
             },
             {
@@ -10955,8 +11724,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#2",
-                    "positionSavedX": -2196.57666015625,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -2200.0,
+                    "positionSavedY": -4460.0
                 }
             },
             {
@@ -10999,8 +11768,8 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#3",
-                    "positionSavedX": -1716.5765380859375,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -1720.0,
+                    "positionSavedY": -4460.0
                 }
             },
             {
@@ -11039,8 +11808,880 @@
                     "connectionsIfTrue": [],
                     "connectionsIfFalse": [],
                     "id": "Talk to Odin(II)#4",
-                    "positionSavedX": -1256.5765380859375,
-                    "positionSavedY": -4465.37890625
+                    "positionSavedX": -1260.0,
+                    "positionSavedY": -4460.0
+                }
+            },
+            {
+                "rid": 1127,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Do you have something to tell me yet, Valkyrie?",
+                                "¿Ya tienes algo que contarme, valquiria?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#21",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -6239.15087890625
+                }
+            },
+            {
+                "rid": 1128,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1129
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Wake up, Mimir.",
+                                "Despierta, Mimir."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#2",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1129,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1130
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ahhhhh",
+                                "Ahhhhh"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#3",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1130,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1131
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "What do you want now, Odin…?",
+                                "¿Qué quieres ahora, Odín…?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#4",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1131,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1132
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ah… Who are you?",
+                                "Ah… ¿Quién eres tú?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#5",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1132,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1133
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "I am…",
+                                "Soy…"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#6",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1133,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1134
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Ahhh, you're Skuld. The Norn turned Valkyrie by Odin's command.",
+                                "Ahhh, eres Skuld. La Norna convertida en valquiria por orden de Odín."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#7",
+                    "positionSavedX": 2873.57177734375,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1134,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1135
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "And yet Odin keeps you hidden here.",
+                                "Aunque aquí te tiene escondido Odín."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#8",
+                    "positionSavedX": 3373.57177734375,
+                    "positionSavedY": -6759.15087890625
+                }
+            },
+            {
+                "rid": 1135,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1136
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Hidden? Locked away, you mean.",
+                                "¿Escondido? Dirás encerrado."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#9",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1136,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1137
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Not that I've got the legs to run. HA, HA, HA!",
+                                "Aunque tampoco es que tenga con qué escapar. ¡JA, JA, JA!"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#10",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1137,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1138
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "And what are you doing here?",
+                                "¿Y tú qué haces aquí?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#11",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1138,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1139
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Only Odin comes in here. And he hasn't let anyone in for centuries.",
+                                "Aquí solo entra Odín. Y lleva siglos sin dejar entrar a nadie."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#12",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1139,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1140
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "So if you're standing before me, it's because he allowed it.",
+                                "Así que si estás delante de mí, es porque él lo ha permitido."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#13",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1140,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1141
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Just how desperate is Odin?",
+                                "¿Qué tan desesperado está Odín?"
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#14",
+                    "positionSavedX": 2873.57177734375,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1141,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1142
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "You'll have to ask him that.",
+                                "Eso tendrás que preguntárselo a él."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Skuld_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Skuld",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#15",
+                    "positionSavedX": 3373.57177734375,
+                    "positionSavedY": -7019.15087890625
+                }
+            },
+            {
+                "rid": 1142,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1143
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "HA! You talk just like him.",
+                                "¡JA! Hablas como él."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#16",
+                    "positionSavedX": 373.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                }
+            },
+            {
+                "rid": 1143,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1144
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Very well, Valkyrie… keep your silences.",
+                                "Está bien, valquiria… guárdate tus silencios."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#17",
+                    "positionSavedX": 873.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                }
+            },
+            {
+                "rid": 1144,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1145
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "I've been here since before Ragnarök, and here I'll remain.",
+                                "Yo llevo aquí desde antes del Ragnarök, y aquí seguiré."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#18",
+                    "positionSavedX": 1373.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                }
+            },
+            {
+                "rid": 1145,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [
+                        {
+                            "rid": 1146
+                        }
+                    ],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "Come back when you have something to tell me.",
+                                "Vuelve cuando tengas algo que contarme."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#19",
+                    "positionSavedX": 1873.5718994140625,
+                    "positionSavedY": -7279.15087890625
+                }
+            },
+            {
+                "rid": 1146,
+                "type": {
+                    "class": "DialogueElement",
+                    "ns": "",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "type": 1,
+                    "connections": [],
+                    "allSentences": [
+                        {
+                            "translations": [
+                                "After all… it's the only thing I have left to do.",
+                                "Al fin y al cabo… es lo único que me queda por hacer."
+                            ]
+                        }
+                    ],
+                    "allCharacter_Actitudes": [
+                        "Mimir_Normal"
+                    ],
+                    "posibleSentences": [],
+                    "posibleCharacter_Actitudes": [],
+                    "secondarySentences": [],
+                    "secondaryCharacter_Actitudes": [],
+                    "posibleSecondarySentences": [],
+                    "posibleSecondaryCharacter_Actitudes": [],
+                    "characterName": "Mimir",
+                    "connectedFrameworkName": "",
+                    "showMissions": false,
+                    "isThisAnswerCheckpoint": false,
+                    "goBackToAnswerCheckPoint": false,
+                    "conditionName": "",
+                    "connectionsIfTrue": [],
+                    "connectionsIfFalse": [],
+                    "id": "Mimir#20",
+                    "positionSavedX": 2373.57177734375,
+                    "positionSavedY": -7279.15087890625
                 }
             }
         ]
